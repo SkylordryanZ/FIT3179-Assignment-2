@@ -1,0 +1,637 @@
+[
+    {
+        "Year": 2000,
+        "Generation": 570.904,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2001,
+        "Generation": 572.149,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2002,
+        "Generation": 572.149,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2003,
+        "Generation": 573.763,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2004,
+        "Generation": 579.415,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2005,
+        "Generation": 602.025,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2006,
+        "Generation": 713.945,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2007,
+        "Generation": 883.197,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 915.174,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 1074.205,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 1355.128,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 636.428,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 1379.98,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 822.396,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 400.424,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 425.034,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 199.498,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 397.418,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 1719.11,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 2097.1,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 2864.57,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 2864.57,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 2865.57,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2000,
+        "Generation": 675.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2001,
+        "Generation": 677.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2002,
+        "Generation": 677.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2003,
+        "Generation": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2004,
+        "Generation": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2005,
+        "Generation": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2006,
+        "Generation": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2007,
+        "Generation": 716.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 716.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 717.43,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 661.55,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 773.96,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 767.5,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 1044.73,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 1430.8,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 1554.96,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 1526.48,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 800.04,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 809.99,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 882.81,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 890.64,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 904.35,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 904.35,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2023,
+        "Generation": 904.35,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2000,
+        "Generation": 6994.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2001,
+        "Generation": 6066.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2002,
+        "Generation": 5415.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2003,
+        "Generation": 5090.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2004,
+        "Generation": 5573.049,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2005,
+        "Generation": 6007.058,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2006,
+        "Generation": 6323.075,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Generation": 5957.075,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2008,
+        "Generation": 7807.149,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2009,
+        "Generation": 6890.233,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2010,
+        "Generation": 6361.37,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2011,
+        "Generation": 8056.378,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2012,
+        "Generation": 9251.378,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2013,
+        "Generation": 11799.394,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2014,
+        "Generation": 13541.025,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2015,
+        "Generation": 15525.109,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2016,
+        "Generation": 20358.24,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2017,
+        "Generation": 26717.298,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2018,
+        "Generation": 26296.288,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2019,
+        "Generation": 26281.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2020,
+        "Generation": 27302.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2021,
+        "Generation": 27302.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2022,
+        "Generation": 27302.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2000,
+        "Generation": 2085.105,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2001,
+        "Generation": 2072.12,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2002,
+        "Generation": 2109.12,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2003,
+        "Generation": 2109.12,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2004,
+        "Generation": 2109.133,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2005,
+        "Generation": 2064.138,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2006,
+        "Generation": 2111.148,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Generation": 2111.148,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2008,
+        "Generation": 2117.69,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2009,
+        "Generation": 2122.738,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2010,
+        "Generation": 2134.816,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2011,
+        "Generation": 3120.821,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2012,
+        "Generation": 3448.821,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2013,
+        "Generation": 4534.83,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2014,
+        "Generation": 4760.79,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2015,
+        "Generation": 5741.838,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2016,
+        "Generation": 6121.258,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2017,
+        "Generation": 6145.331,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2018,
+        "Generation": 6165.325,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2019,
+        "Generation": 6185.355,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2020,
+        "Generation": 6197.355,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2021,
+        "Generation": 6214.855,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2022,
+        "Generation": 6214.855,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2023,
+        "Generation": 6214.855,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Generation": 0.554,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 0.664,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 0.664,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 0.669,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 0.669,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 6.935,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 54.505,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 196.129,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 280.47,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 362.568,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 427.332,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 477.274,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 481.26,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 430.017,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 459.525,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 459.585,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2007,
+        "Generation": 0.45,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 0.54,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 0.54,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 0.544,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 0.544,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 31.584,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 138.674,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 205.388,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 266.285,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 344.152,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 393.959,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 545.259,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 893.76,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 1482.946,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 1787.097,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 1933.251,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2023,
+        "Generation": 1933.251,
+        "Technology": "Solar energy"
+    }
+]

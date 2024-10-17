@@ -1,0 +1,872 @@
+[
+    {
+        "Year": 2000,
+        "Capacity": 570.904,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2001,
+        "Capacity": 572.149,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2002,
+        "Capacity": 572.149,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2003,
+        "Capacity": 573.763,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2004,
+        "Capacity": 579.415,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2005,
+        "Capacity": 602.025,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2006,
+        "Capacity": 713.945,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 883.197,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 915.174,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 1074.205,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 1355.128,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 636.428,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 1379.98,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 822.396,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 400.424,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 425.034,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 199.498,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 397.418,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 1719.11,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 2097.1,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 2864.57,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 2864.57,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 2865.57,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2000,
+        "Capacity": 675.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2001,
+        "Capacity": 677.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2002,
+        "Capacity": 677.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2003,
+        "Capacity": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2004,
+        "Capacity": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2005,
+        "Capacity": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2006,
+        "Capacity": 691.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 716.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 716.91,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 717.43,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 661.55,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 773.96,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 767.5,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 1044.73,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 1430.8,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 1554.96,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 1526.48,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 800.04,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 809.99,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 882.81,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 890.64,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 904.35,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 904.35,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2023,
+        "Capacity": 904.35,
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2000,
+        "Capacity": 57287.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2001,
+        "Capacity": 63666.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2002,
+        "Capacity": 68749.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2003,
+        "Capacity": 72110.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2004,
+        "Capacity": 85849.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2005,
+        "Capacity": 88023.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2006,
+        "Capacity": 93302.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 98192.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 100457.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 102740.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 112402.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 117437.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 123230.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 128149.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 129291.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 129501.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 137259.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 132692.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 140414.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 146314.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 140870.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 140870.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 140873.0,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2000,
+        "Capacity": 15216.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2001,
+        "Capacity": 18370.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2002,
+        "Capacity": 18148.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2003,
+        "Capacity": 20357.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2004,
+        "Capacity": 21809.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2005,
+        "Capacity": 21951.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2006,
+        "Capacity": 22474.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 22563.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 22578.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 23512.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 24093.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 24614.5,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 24741.8,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 24779.99,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 23165.82,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 23702.2,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 23085.42,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 25724.67,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 25724.67,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 28348.67,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 28348.67,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 29788.67,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 30630.67,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2023,
+        "Capacity": 30630.67,
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2000,
+        "Capacity": 6994.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2001,
+        "Capacity": 6066.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2002,
+        "Capacity": 5415.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2003,
+        "Capacity": 5090.0,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2004,
+        "Capacity": 5573.049,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2005,
+        "Capacity": 6007.058,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2006,
+        "Capacity": 6323.075,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 5957.075,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 7807.149,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 6890.233,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 6361.37,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 8056.378,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 9251.378,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 11799.394,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 13541.025,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 15525.109,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 20358.24,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 26717.298,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 26296.288,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 26281.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 27302.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 27302.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 27302.34,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2000,
+        "Capacity": 2085.105,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2001,
+        "Capacity": 2072.12,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2002,
+        "Capacity": 2109.12,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2003,
+        "Capacity": 2109.12,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2004,
+        "Capacity": 2109.133,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2005,
+        "Capacity": 2064.138,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2006,
+        "Capacity": 2111.148,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 2111.148,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 2117.69,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 2122.738,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 2134.816,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 3120.821,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 3448.821,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 4534.83,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 4760.79,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 5741.838,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 6121.258,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 6145.331,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 6165.325,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 6185.355,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 6197.355,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 6214.855,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 6214.855,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2023,
+        "Capacity": 6214.855,
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 0.554,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 0.664,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 0.664,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 0.669,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 0.669,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 6.935,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 54.505,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 196.129,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 280.47,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 362.568,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 427.332,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 477.274,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 481.26,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 430.017,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 459.525,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 459.585,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2007,
+        "Capacity": 0.45,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2008,
+        "Capacity": 0.54,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2009,
+        "Capacity": 0.54,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2010,
+        "Capacity": 0.544,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2011,
+        "Capacity": 0.544,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2012,
+        "Capacity": 31.584,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2013,
+        "Capacity": 138.674,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2014,
+        "Capacity": 205.388,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2015,
+        "Capacity": 266.285,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2016,
+        "Capacity": 344.152,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2017,
+        "Capacity": 393.959,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2018,
+        "Capacity": 545.259,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2019,
+        "Capacity": 893.76,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2020,
+        "Capacity": 1482.946,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2021,
+        "Capacity": 1787.097,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2022,
+        "Capacity": 1933.251,
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2023,
+        "Capacity": 1933.251,
+        "Technology": "Solar energy"
+    }
+]

@@ -1,0 +1,40 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+        "url": "data/renewable_energy_generation.json",
+        "format": {"type": "json"}
+    },
+    "transform": [
+        {
+            "calculate": "datum.Type = 'Renewable' ? 'Renewable' : 'Non-Renewable'",
+            "as": "Type"
+        }
+    ],
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "axis": {"labelAngle": 0}
+        },
+        "y": {
+            "field": "Generation",
+            "type": "quantitative",
+            "aggregate": "sum",
+            "title": "Energy Generation (GWh)"
+        },
+        "color": {
+            "field": "Type",
+            "type": "nominal",
+            "scale": {
+                "domain": ["Renewable", "Non-Renewable"],
+                "range": ["#76c7c0", "#e05e2b"]
+            }
+        },
+        "tooltip": [
+            {"field": "Year", "type": "ordinal"},
+            {"field": "Generation", "type": "quantitative"},
+            {"field": "Type", "type": "nominal"}
+        ]
+    }
+}

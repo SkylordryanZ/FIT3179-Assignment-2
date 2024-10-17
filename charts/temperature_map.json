@@ -1,0 +1,32 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "projection": {"type": "mercator"},
+    "layer": [
+        {
+            "data": {
+                "url": "data/malaysia-states.topojson",
+                "format": {"type": "topojson", "feature": "states"}
+            },
+            "mark": {"type": "geoshape", "fill": "#87CEEB", "stroke": "black"}
+        },
+        {
+            "data": {
+                "url": "data/global_land_temperatures_by_city_malaysia.json"
+            },
+            "mark": "circle",
+            "encoding": {
+                "longitude": {"field": "Longitude", "type": "quantitative"},
+                "latitude": {"field": "Latitude", "type": "quantitative"},
+                "size": {"field": "AverageTemperature", "type": "quantitative", "scale": {"range": [10, 100]}},
+                "color": {"field": "AverageTemperature", "type": "quantitative", "scale": {"scheme": "inferno"}},
+                "tooltip": [
+                    {"field": "City", "type": "nominal"},
+                    {"field": "AverageTemperature", "type": "quantitative"},
+                    {"field": "Date", "type": "temporal"}
+                ]
+            }
+        }
+    ]
+}

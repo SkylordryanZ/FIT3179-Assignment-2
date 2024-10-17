@@ -1,0 +1,17 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 400,
+    "data": {"url": "data/global_land_temperatures_by_city_malaysia.json"},
+    "mark": "line",
+    "encoding": {
+        "x": {"field": "Date", "type": "temporal"},
+        "y": {"field": "AverageTemperature", "type": "quantitative"},
+        "color": {"field": "City", "type": "nominal"},
+        "tooltip": [
+            {"field": "City", "type": "nominal"},
+            {"field": "Date", "type": "temporal"},
+            {"field": "AverageTemperature", "type": "quantitative"}
+        ]
+    }
+}
