@@ -230,11 +230,6 @@
         "Technology": "Bioenergy"
     },
     {
-        "Year": 2023,
-        "Generation": 904.35,
-        "Technology": "Bioenergy"
-    },
-    {
         "Year": 2000,
         "Generation": 6994.0,
         "Technology": "Hydropower (excl. Pumped Storage)"
@@ -465,11 +460,6 @@
         "Technology": "Hydropower (excl. Pumped Storage)"
     },
     {
-        "Year": 2023,
-        "Generation": 6214.855,
-        "Technology": "Hydropower (excl. Pumped Storage)"
-    },
-    {
         "Year": 2007,
         "Generation": 0.554,
         "Technology": "Solar energy"
@@ -626,11 +616,6 @@
     },
     {
         "Year": 2022,
-        "Generation": 1933.251,
-        "Technology": "Solar energy"
-    },
-    {
-        "Year": 2023,
         "Generation": 1933.251,
         "Technology": "Solar energy"
     }

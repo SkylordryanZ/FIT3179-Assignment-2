@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Climate Change Visualizations</title>
+    <title>Malaysia's Contribution to Climate Change</title>
     <link rel="stylesheet" href="css/style.css"> <!-- Link to CSS -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <h1>Vega-Lite Chart Display</h1>
+        <h1>Malaysia's Contribution to Climate Change</h1>
         <div class="header-controls">
             <div class="source-buttons">
                 <a href="https://climatedata.imf.org/pages/access-data" target="_blank" class="source-button">IMF Climate Data</a>
@@ -28,43 +28,81 @@
     </header>
 
     <main>
-        <!-- 1. Stacked Bar Chart: Renewable vs Non-Renewable Energy -->
+        <!-- 1. Malaysia Map -->
         <div class="chart-container">
-            <h2>Stacked Bar Chart: Renewable vs Non-Renewable Energy</h2>
+            <h2>Malaysia's Geographical Contribution</h2>
             <div id="chart1"></div>
+            <p class="fun-fact">Fun Fact: Malaysia's rich geographical diversity plays a crucial role in its climate impact and renewable energy potential.</p>
         </div>
 
-        <!-- 2. Line Chart: CO2 Emissions Over Time -->
+        <!-- 2. Temperature Trend in Malaysia -->
         <div class="chart-container">
-            <h2>Line Chart: CO2 Emissions Over Time</h2>
+            <h2>Temperature Trends in Malaysia Over Time</h2>
             <div id="chart2"></div>
+            <p class="fun-fact">Fun Fact: Malaysia's average temperature has shown a gradual rise over the years, which reflects global climate change trends.</p>
         </div>
 
-        <!-- 3. Line Chart: CO2 Emissions Intensity Over Time -->
+        <!-- 3. Renewable vs Non-Renewable Energy in Malaysia -->
         <div class="chart-container">
-            <h2>Line Chart: CO2 Emissions Intensity Over Time</h2>
+            <h2>Renewable vs Non-Renewable Energy in Malaysia</h2>
             <div id="chart3"></div>
+            <p class="fun-fact">Fun Fact: In recent years, Malaysia has seen significant growth in renewable energy sources like bioenergy and solar.</p>
         </div>
 
-        <!-- 4. Stacked Area Chart: CO2 Emissions in Final Demand, Production, and Trade -->
+        <!-- 4. CO2 Emissions by Industry Over Time -->
         <div class="chart-container">
-            <h2>Stacked Area Chart: CO2 Emissions in Domestic Final Demand, Production, and Trade</h2>
+            <h2>CO₂ Emissions by Industry Over Time</h2>
             <div id="chart4"></div>
+            <p class="fun-fact">Fun Fact: CO₂ emissions in Malaysia have fluctuated across different industries, with notable increases in sectors like manufacturing.</p>
+        </div>
+
+        <!-- 5. CO2 Emissions Intensity by Industry -->
+        <div class="chart-container">
+            <h2>CO₂ Emissions Intensity by Industry</h2>
+            <div id="chart5"></div>
+            <p class="fun-fact">Fun Fact: Despite economic growth, Malaysia has managed to reduce CO₂ emissions intensity in some industries.</p>
+        </div>
+
+        <!-- 6. CO2 Emissions in Domestic Final Demand, Production, and Trade -->
+        <div class="chart-container">
+            <h2>CO₂ Emissions in Domestic Final Demand, Production, and Trade</h2>
+            <div id="chart6"></div>
+            <p class="fun-fact">Fun Fact: Malaysia's CO₂ emissions from exports often exceed emissions from imports, indicating the country's role in global trade.</p>
         </div>
     </main>
 
     <script>
-        // Load the stacked bar chart
-        vegaEmbed('#chart1', 'charts/energy_production_stacked.json');
+        // Load the Malaysia Map
+        vegaEmbed('#chart1', {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": 900,
+            "height": 500,
+            "projection": {"type": "mercator"},
+            "layer": [
+                {
+                    "data": {
+                        "url": "data/malaysia.topojson",
+                        "format": {"type": "topojson", "feature": "states"}
+                    },
+                    "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+                }
+            ]
+        });
+
+        // Load the temperature trend chart
+        vegaEmbed('#chart2', 'charts/temperature_trend.json');
+
+        // Load the stacked bar chart (Renewable vs Non-Renewable)
+        vegaEmbed('#chart3', 'charts/energy_production_stacked.json');
+
+        // Load the CO2 emissions over time chart
+        vegaEmbed('#chart4', 'charts/co2_emissions_over_time.json');
         
-        // Load the CO2 emissions over time line chart
-        vegaEmbed('#chart2', 'charts/co2_emissions_over_time.json');
+        // Load the CO2 emissions intensity chart
+        vegaEmbed('#chart5', 'charts/co2_emissions_intensity.json');
         
-        // Load the CO2 emissions intensity line chart
-        vegaEmbed('#chart3', 'charts/co2_emissions_intensity.json');
-        
-        // Load the stacked area chart for CO2 emissions in demand, production, and trade
-        vegaEmbed('#chart4', 'charts/co2_emissions_by_demand_production_trade.json');
+        // Load the grouped bar chart for CO2 emissions in demand, production, and trade
+        vegaEmbed('#chart6', 'charts/co2_emissions_by_demand_production_trade.json');
 
         // Theme toggle functionality
         const themeSwitch = document.getElementById('theme-switch');

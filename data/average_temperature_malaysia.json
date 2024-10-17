@@ -1,0 +1,8254 @@
+[
+    {
+        "Date": "1825-01-01",
+        "AverageTemperature": 25.62065625
+    },
+    {
+        "Date": "1825-02-01",
+        "AverageTemperature": 25.68503125
+    },
+    {
+        "Date": "1825-03-01",
+        "AverageTemperature": 26.35621875
+    },
+    {
+        "Date": "1825-04-01",
+        "AverageTemperature": 27.07178125
+    },
+    {
+        "Date": "1825-05-01",
+        "AverageTemperature": 27.15384375
+    },
+    {
+        "Date": "1825-06-01",
+        "AverageTemperature": 27.4859375
+    },
+    {
+        "Date": "1825-07-01",
+        "AverageTemperature": 27.38225
+    },
+    {
+        "Date": "1825-08-01",
+        "AverageTemperature": 26.276062500000002
+    },
+    {
+        "Date": "1825-09-01",
+        "AverageTemperature": 25.897593750000002
+    },
+    {
+        "Date": "1825-10-01",
+        "AverageTemperature": 25.60071875
+    },
+    {
+        "Date": "1825-11-01",
+        "AverageTemperature": 26.13396875
+    },
+    {
+        "Date": "1825-12-01",
+        "AverageTemperature": 25.17871875
+    },
+    {
+        "Date": "1839-04-01",
+        "AverageTemperature": 26.1678125
+    },
+    {
+        "Date": "1839-05-01",
+        "AverageTemperature": 26.169249999999998
+    },
+    {
+        "Date": "1839-06-01",
+        "AverageTemperature": 26.35746875
+    },
+    {
+        "Date": "1839-07-01",
+        "AverageTemperature": 26.5185
+    },
+    {
+        "Date": "1839-08-01",
+        "AverageTemperature": 26.0005625
+    },
+    {
+        "Date": "1839-09-01",
+        "AverageTemperature": 25.37871875
+    },
+    {
+        "Date": "1839-10-01",
+        "AverageTemperature": 25.43440625
+    },
+    {
+        "Date": "1839-11-01",
+        "AverageTemperature": 24.58646875
+    },
+    {
+        "Date": "1839-12-01",
+        "AverageTemperature": 24.3775
+    },
+    {
+        "Date": "1840-01-01",
+        "AverageTemperature": 25.52434375
+    },
+    {
+        "Date": "1840-02-01",
+        "AverageTemperature": 25.2875625
+    },
+    {
+        "Date": "1840-03-01",
+        "AverageTemperature": 25.4823125
+    },
+    {
+        "Date": "1840-04-01",
+        "AverageTemperature": 26.1405
+    },
+    {
+        "Date": "1840-05-01",
+        "AverageTemperature": 26.933833333333332
+    },
+    {
+        "Date": "1840-06-01",
+        "AverageTemperature": 27.066916666666668
+    },
+    {
+        "Date": "1840-07-01",
+        "AverageTemperature": 27.264750000000003
+    },
+    {
+        "Date": "1840-08-01",
+        "AverageTemperature": 26.163958333333333
+    },
+    {
+        "Date": "1840-09-01",
+        "AverageTemperature": 25.679791666666667
+    },
+    {
+        "Date": "1840-10-01",
+        "AverageTemperature": 24.887925925925927
+    },
+    {
+        "Date": "1840-11-01",
+        "AverageTemperature": 25.60390625
+    },
+    {
+        "Date": "1840-12-01",
+        "AverageTemperature": 24.772791666666667
+    },
+    {
+        "Date": "1841-01-01",
+        "AverageTemperature": 24.677625
+    },
+    {
+        "Date": "1841-02-01",
+        "AverageTemperature": 25.6845
+    },
+    {
+        "Date": "1841-03-01",
+        "AverageTemperature": 25.676041666666666
+    },
+    {
+        "Date": "1841-04-01",
+        "AverageTemperature": 26.06125
+    },
+    {
+        "Date": "1841-05-01",
+        "AverageTemperature": 26.757250000000003
+    },
+    {
+        "Date": "1841-06-01",
+        "AverageTemperature": 27.054666666666666
+    },
+    {
+        "Date": "1841-07-01",
+        "AverageTemperature": 27.492208333333334
+    },
+    {
+        "Date": "1841-08-01",
+        "AverageTemperature": 26.932833333333335
+    },
+    {
+        "Date": "1841-09-01",
+        "AverageTemperature": 25.699958333333335
+    },
+    {
+        "Date": "1841-10-01",
+        "AverageTemperature": 26.036407407407406
+    },
+    {
+        "Date": "1841-11-01",
+        "AverageTemperature": 25.629
+    },
+    {
+        "Date": "1841-12-01",
+        "AverageTemperature": 25.785833333333333
+    },
+    {
+        "Date": "1842-01-01",
+        "AverageTemperature": 25.950555555555557
+    },
+    {
+        "Date": "1842-02-01",
+        "AverageTemperature": 26.699703703703705
+    },
+    {
+        "Date": "1842-03-01",
+        "AverageTemperature": 27.209416666666666
+    },
+    {
+        "Date": "1842-04-01",
+        "AverageTemperature": 26.734083333333334
+    },
+    {
+        "Date": "1842-05-01",
+        "AverageTemperature": 26.333791666666666
+    },
+    {
+        "Date": "1842-06-01",
+        "AverageTemperature": 26.476481481481482
+    },
+    {
+        "Date": "1842-07-01",
+        "AverageTemperature": 26.311625
+    },
+    {
+        "Date": "1842-08-01",
+        "AverageTemperature": 26.275875
+    },
+    {
+        "Date": "1842-09-01",
+        "AverageTemperature": 25.47295833333333
+    },
+    {
+        "Date": "1842-10-01",
+        "AverageTemperature": 25.164333333333335
+    },
+    {
+        "Date": "1842-11-01",
+        "AverageTemperature": 25.19625
+    },
+    {
+        "Date": "1842-12-01",
+        "AverageTemperature": 26.080916666666667
+    },
+    {
+        "Date": "1843-01-01",
+        "AverageTemperature": 26.528333333333336
+    },
+    {
+        "Date": "1843-02-01",
+        "AverageTemperature": 26.81129166666667
+    },
+    {
+        "Date": "1843-03-01",
+        "AverageTemperature": 26.348000000000003
+    },
+    {
+        "Date": "1843-04-01",
+        "AverageTemperature": 26.477541666666667
+    },
+    {
+        "Date": "1843-05-01",
+        "AverageTemperature": 26.24375
+    },
+    {
+        "Date": "1843-06-01",
+        "AverageTemperature": 26.737125
+    },
+    {
+        "Date": "1843-07-01",
+        "AverageTemperature": 26.653875000000003
+    },
+    {
+        "Date": "1843-08-01",
+        "AverageTemperature": 26.378041666666665
+    },
+    {
+        "Date": "1843-09-01",
+        "AverageTemperature": 25.704250000000002
+    },
+    {
+        "Date": "1843-10-01",
+        "AverageTemperature": 25.430416666666666
+    },
+    {
+        "Date": "1843-11-01",
+        "AverageTemperature": 25.624166666666664
+    },
+    {
+        "Date": "1843-12-01",
+        "AverageTemperature": 26.021583333333336
+    },
+    {
+        "Date": "1844-01-01",
+        "AverageTemperature": 25.551750000000002
+    },
+    {
+        "Date": "1844-02-01",
+        "AverageTemperature": 25.7595
+    },
+    {
+        "Date": "1844-03-01",
+        "AverageTemperature": 26.76170833333333
+    },
+    {
+        "Date": "1844-04-01",
+        "AverageTemperature": 26.32525
+    },
+    {
+        "Date": "1844-05-01",
+        "AverageTemperature": 26.424583333333334
+    },
+    {
+        "Date": "1844-06-01",
+        "AverageTemperature": 26.586041666666667
+    },
+    {
+        "Date": "1844-07-01",
+        "AverageTemperature": 26.48375
+    },
+    {
+        "Date": "1844-08-01",
+        "AverageTemperature": 25.84208333333333
+    },
+    {
+        "Date": "1844-09-01",
+        "AverageTemperature": 25.115583333333333
+    },
+    {
+        "Date": "1844-10-01",
+        "AverageTemperature": 25.279125
+    },
+    {
+        "Date": "1844-11-01",
+        "AverageTemperature": 24.470291666666668
+    },
+    {
+        "Date": "1844-12-01",
+        "AverageTemperature": 24.605375
+    },
+    {
+        "Date": "1845-01-01",
+        "AverageTemperature": 25.693291666666667
+    },
+    {
+        "Date": "1845-02-01",
+        "AverageTemperature": 25.747625
+    },
+    {
+        "Date": "1845-03-01",
+        "AverageTemperature": 26.075958333333336
+    },
+    {
+        "Date": "1845-05-01",
+        "AverageTemperature": 26.148208333333333
+    },
+    {
+        "Date": "1845-06-01",
+        "AverageTemperature": 26.370583333333336
+    },
+    {
+        "Date": "1845-07-01",
+        "AverageTemperature": 26.43025
+    },
+    {
+        "Date": "1845-08-01",
+        "AverageTemperature": 26.041583333333335
+    },
+    {
+        "Date": "1845-09-01",
+        "AverageTemperature": 25.312541666666664
+    },
+    {
+        "Date": "1845-10-01",
+        "AverageTemperature": 24.574583333333333
+    },
+    {
+        "Date": "1845-11-01",
+        "AverageTemperature": 24.8195
+    },
+    {
+        "Date": "1845-12-01",
+        "AverageTemperature": 24.523083333333332
+    },
+    {
+        "Date": "1846-01-01",
+        "AverageTemperature": 26.863041666666668
+    },
+    {
+        "Date": "1846-02-01",
+        "AverageTemperature": 26.399125
+    },
+    {
+        "Date": "1846-03-01",
+        "AverageTemperature": 27.489541666666668
+    },
+    {
+        "Date": "1846-04-01",
+        "AverageTemperature": 26.095333333333333
+    },
+    {
+        "Date": "1846-05-01",
+        "AverageTemperature": 26.795458333333336
+    },
+    {
+        "Date": "1846-06-01",
+        "AverageTemperature": 27.313791666666667
+    },
+    {
+        "Date": "1846-07-01",
+        "AverageTemperature": 27.305958333333333
+    },
+    {
+        "Date": "1846-08-01",
+        "AverageTemperature": 26.647
+    },
+    {
+        "Date": "1846-09-01",
+        "AverageTemperature": 25.735958333333333
+    },
+    {
+        "Date": "1846-10-01",
+        "AverageTemperature": 25.21304166666667
+    },
+    {
+        "Date": "1846-11-01",
+        "AverageTemperature": 25.095791666666667
+    },
+    {
+        "Date": "1846-12-01",
+        "AverageTemperature": 25.863
+    },
+    {
+        "Date": "1847-01-01",
+        "AverageTemperature": 25.80079166666667
+    },
+    {
+        "Date": "1847-02-01",
+        "AverageTemperature": 26.49775
+    },
+    {
+        "Date": "1847-03-01",
+        "AverageTemperature": 25.297666666666668
+    },
+    {
+        "Date": "1847-04-01",
+        "AverageTemperature": 26.0185
+    },
+    {
+        "Date": "1847-05-01",
+        "AverageTemperature": 26.049583333333334
+    },
+    {
+        "Date": "1847-06-01",
+        "AverageTemperature": 26.513583333333333
+    },
+    {
+        "Date": "1847-07-01",
+        "AverageTemperature": 26.917749999999998
+    },
+    {
+        "Date": "1847-08-01",
+        "AverageTemperature": 26.077166666666667
+    },
+    {
+        "Date": "1847-09-01",
+        "AverageTemperature": 25.626833333333334
+    },
+    {
+        "Date": "1847-10-01",
+        "AverageTemperature": 25.154791666666668
+    },
+    {
+        "Date": "1847-11-01",
+        "AverageTemperature": 25.774500000000003
+    },
+    {
+        "Date": "1847-12-01",
+        "AverageTemperature": 24.595458333333333
+    },
+    {
+        "Date": "1850-01-01",
+        "AverageTemperature": 24.85244827586207
+    },
+    {
+        "Date": "1850-02-01",
+        "AverageTemperature": 26.165724137931036
+    },
+    {
+        "Date": "1850-03-01",
+        "AverageTemperature": 26.298620689655174
+    },
+    {
+        "Date": "1850-04-01",
+        "AverageTemperature": 26.170724137931035
+    },
+    {
+        "Date": "1850-05-01",
+        "AverageTemperature": 26.297931034482758
+    },
+    {
+        "Date": "1850-06-01",
+        "AverageTemperature": 26.670206896551726
+    },
+    {
+        "Date": "1850-07-01",
+        "AverageTemperature": 26.826551724137932
+    },
+    {
+        "Date": "1850-08-01",
+        "AverageTemperature": 26.30696551724138
+    },
+    {
+        "Date": "1850-09-01",
+        "AverageTemperature": 25.662827586206898
+    },
+    {
+        "Date": "1850-10-01",
+        "AverageTemperature": 25.37244827586207
+    },
+    {
+        "Date": "1850-11-01",
+        "AverageTemperature": 25.129655172413795
+    },
+    {
+        "Date": "1850-12-01",
+        "AverageTemperature": 25.163379310344826
+    },
+    {
+        "Date": "1851-01-01",
+        "AverageTemperature": 25.7008275862069
+    },
+    {
+        "Date": "1851-02-01",
+        "AverageTemperature": 25.93786206896552
+    },
+    {
+        "Date": "1851-03-01",
+        "AverageTemperature": 25.791275862068964
+    },
+    {
+        "Date": "1851-04-01",
+        "AverageTemperature": 26.065
+    },
+    {
+        "Date": "1851-05-01",
+        "AverageTemperature": 26.800862068965518
+    },
+    {
+        "Date": "1851-06-01",
+        "AverageTemperature": 26.823413793103448
+    },
+    {
+        "Date": "1851-07-01",
+        "AverageTemperature": 26.664206896551725
+    },
+    {
+        "Date": "1851-08-01",
+        "AverageTemperature": 26.232275862068963
+    },
+    {
+        "Date": "1851-09-01",
+        "AverageTemperature": 25.921758620689655
+    },
+    {
+        "Date": "1851-10-01",
+        "AverageTemperature": 25.74310344827586
+    },
+    {
+        "Date": "1851-11-01",
+        "AverageTemperature": 24.978965517241377
+    },
+    {
+        "Date": "1851-12-01",
+        "AverageTemperature": 25.535172413793102
+    },
+    {
+        "Date": "1852-01-01",
+        "AverageTemperature": 25.244999999999997
+    },
+    {
+        "Date": "1852-02-01",
+        "AverageTemperature": 25.592586206896552
+    },
+    {
+        "Date": "1852-03-01",
+        "AverageTemperature": 25.682344827586206
+    },
+    {
+        "Date": "1852-04-01",
+        "AverageTemperature": 26.205724137931036
+    },
+    {
+        "Date": "1852-05-01",
+        "AverageTemperature": 26.878035714285716
+    },
+    {
+        "Date": "1852-06-01",
+        "AverageTemperature": 26.936642857142857
+    },
+    {
+        "Date": "1852-07-01",
+        "AverageTemperature": 26.728464285714285
+    },
+    {
+        "Date": "1852-08-01",
+        "AverageTemperature": 26.07989285714286
+    },
+    {
+        "Date": "1852-09-01",
+        "AverageTemperature": 26.101107142857142
+    },
+    {
+        "Date": "1852-10-01",
+        "AverageTemperature": 25.44314285714286
+    },
+    {
+        "Date": "1852-11-01",
+        "AverageTemperature": 25.065535714285716
+    },
+    {
+        "Date": "1852-12-01",
+        "AverageTemperature": 25.248107142857144
+    },
+    {
+        "Date": "1853-01-01",
+        "AverageTemperature": 25.1974375
+    },
+    {
+        "Date": "1853-02-01",
+        "AverageTemperature": 25.268875
+    },
+    {
+        "Date": "1853-03-01",
+        "AverageTemperature": 26.0381875
+    },
+    {
+        "Date": "1853-04-01",
+        "AverageTemperature": 26.25709375
+    },
+    {
+        "Date": "1853-05-01",
+        "AverageTemperature": 26.8533125
+    },
+    {
+        "Date": "1853-06-01",
+        "AverageTemperature": 26.68453125
+    },
+    {
+        "Date": "1853-07-01",
+        "AverageTemperature": 26.62225
+    },
+    {
+        "Date": "1853-08-01",
+        "AverageTemperature": 26.39275
+    },
+    {
+        "Date": "1853-09-01",
+        "AverageTemperature": 26.651
+    },
+    {
+        "Date": "1853-10-01",
+        "AverageTemperature": 26.023000000000003
+    },
+    {
+        "Date": "1853-11-01",
+        "AverageTemperature": 25.761999999999997
+    },
+    {
+        "Date": "1853-12-01",
+        "AverageTemperature": 25.76725
+    },
+    {
+        "Date": "1854-01-01",
+        "AverageTemperature": 25.43621875
+    },
+    {
+        "Date": "1854-02-01",
+        "AverageTemperature": 25.17940625
+    },
+    {
+        "Date": "1854-03-01",
+        "AverageTemperature": 27.245
+    },
+    {
+        "Date": "1854-04-01",
+        "AverageTemperature": 26.2385625
+    },
+    {
+        "Date": "1854-05-01",
+        "AverageTemperature": 26.21084375
+    },
+    {
+        "Date": "1854-06-01",
+        "AverageTemperature": 26.6391875
+    },
+    {
+        "Date": "1854-07-01",
+        "AverageTemperature": 27.03328125
+    },
+    {
+        "Date": "1854-08-01",
+        "AverageTemperature": 26.2561875
+    },
+    {
+        "Date": "1854-09-01",
+        "AverageTemperature": 25.84125
+    },
+    {
+        "Date": "1854-10-01",
+        "AverageTemperature": 25.74065625
+    },
+    {
+        "Date": "1854-11-01",
+        "AverageTemperature": 25.3243125
+    },
+    {
+        "Date": "1854-12-01",
+        "AverageTemperature": 25.1750625
+    },
+    {
+        "Date": "1855-01-01",
+        "AverageTemperature": 25.99765625
+    },
+    {
+        "Date": "1855-02-01",
+        "AverageTemperature": 25.44359375
+    },
+    {
+        "Date": "1855-03-01",
+        "AverageTemperature": 26.142375
+    },
+    {
+        "Date": "1855-04-01",
+        "AverageTemperature": 26.9021875
+    },
+    {
+        "Date": "1855-05-01",
+        "AverageTemperature": 27.22728125
+    },
+    {
+        "Date": "1855-06-01",
+        "AverageTemperature": 26.7823125
+    },
+    {
+        "Date": "1855-07-01",
+        "AverageTemperature": 26.533625
+    },
+    {
+        "Date": "1855-08-01",
+        "AverageTemperature": 26.44340625
+    },
+    {
+        "Date": "1855-09-01",
+        "AverageTemperature": 26.071875
+    },
+    {
+        "Date": "1855-10-01",
+        "AverageTemperature": 24.57396875
+    },
+    {
+        "Date": "1855-11-01",
+        "AverageTemperature": 25.292375
+    },
+    {
+        "Date": "1855-12-01",
+        "AverageTemperature": 24.488656250000002
+    },
+    {
+        "Date": "1856-01-01",
+        "AverageTemperature": 25.80740625
+    },
+    {
+        "Date": "1856-02-01",
+        "AverageTemperature": 25.688000000000002
+    },
+    {
+        "Date": "1856-03-01",
+        "AverageTemperature": 26.16753125
+    },
+    {
+        "Date": "1856-04-01",
+        "AverageTemperature": 26.221843749999998
+    },
+    {
+        "Date": "1856-05-01",
+        "AverageTemperature": 26.4453125
+    },
+    {
+        "Date": "1856-06-01",
+        "AverageTemperature": 27.58128125
+    },
+    {
+        "Date": "1856-07-01",
+        "AverageTemperature": 26.602687500000002
+    },
+    {
+        "Date": "1856-08-01",
+        "AverageTemperature": 26.337375
+    },
+    {
+        "Date": "1856-09-01",
+        "AverageTemperature": 25.63034375
+    },
+    {
+        "Date": "1856-10-01",
+        "AverageTemperature": 25.13315625
+    },
+    {
+        "Date": "1856-11-01",
+        "AverageTemperature": 25.24028125
+    },
+    {
+        "Date": "1856-12-01",
+        "AverageTemperature": 24.839875000000003
+    },
+    {
+        "Date": "1857-04-01",
+        "AverageTemperature": 26.346
+    },
+    {
+        "Date": "1857-05-01",
+        "AverageTemperature": 26.728
+    },
+    {
+        "Date": "1857-06-01",
+        "AverageTemperature": 26.976
+    },
+    {
+        "Date": "1857-07-01",
+        "AverageTemperature": 27.335
+    },
+    {
+        "Date": "1857-08-01",
+        "AverageTemperature": 26.65
+    },
+    {
+        "Date": "1857-09-01",
+        "AverageTemperature": 26.037
+    },
+    {
+        "Date": "1857-10-01",
+        "AverageTemperature": 25.483
+    },
+    {
+        "Date": "1858-01-01",
+        "AverageTemperature": 26.060806451612905
+    },
+    {
+        "Date": "1858-02-01",
+        "AverageTemperature": 25.818032258064516
+    },
+    {
+        "Date": "1858-03-01",
+        "AverageTemperature": 26.335677419354838
+    },
+    {
+        "Date": "1858-04-01",
+        "AverageTemperature": 27.201645161290323
+    },
+    {
+        "Date": "1858-05-01",
+        "AverageTemperature": 26.67432258064516
+    },
+    {
+        "Date": "1858-06-01",
+        "AverageTemperature": 26.71948148148148
+    },
+    {
+        "Date": "1858-07-01",
+        "AverageTemperature": 26.328666666666667
+    },
+    {
+        "Date": "1858-08-01",
+        "AverageTemperature": 26.308814814814816
+    },
+    {
+        "Date": "1858-09-01",
+        "AverageTemperature": 25.944
+    },
+    {
+        "Date": "1858-10-01",
+        "AverageTemperature": 25.776
+    },
+    {
+        "Date": "1858-11-01",
+        "AverageTemperature": 25.698645161290322
+    },
+    {
+        "Date": "1858-12-01",
+        "AverageTemperature": 24.384354838709676
+    },
+    {
+        "Date": "1859-01-01",
+        "AverageTemperature": 25.43967741935484
+    },
+    {
+        "Date": "1859-02-01",
+        "AverageTemperature": 26.090481481481483
+    },
+    {
+        "Date": "1859-03-01",
+        "AverageTemperature": 26.689129032258066
+    },
+    {
+        "Date": "1859-04-01",
+        "AverageTemperature": 27.02283870967742
+    },
+    {
+        "Date": "1859-05-01",
+        "AverageTemperature": 27.136161290322583
+    },
+    {
+        "Date": "1859-06-01",
+        "AverageTemperature": 26.820354838709676
+    },
+    {
+        "Date": "1859-07-01",
+        "AverageTemperature": 26.450032258064518
+    },
+    {
+        "Date": "1859-08-01",
+        "AverageTemperature": 26.16516129032258
+    },
+    {
+        "Date": "1859-09-01",
+        "AverageTemperature": 25.671419354838708
+    },
+    {
+        "Date": "1859-10-01",
+        "AverageTemperature": 25.73067741935484
+    },
+    {
+        "Date": "1859-11-01",
+        "AverageTemperature": 25.592741935483872
+    },
+    {
+        "Date": "1859-12-01",
+        "AverageTemperature": 24.910870967741936
+    },
+    {
+        "Date": "1860-01-01",
+        "AverageTemperature": 25.43283870967742
+    },
+    {
+        "Date": "1860-02-01",
+        "AverageTemperature": 25.730290322580647
+    },
+    {
+        "Date": "1860-03-01",
+        "AverageTemperature": 25.252064516129032
+    },
+    {
+        "Date": "1860-04-01",
+        "AverageTemperature": 26.384548387096775
+    },
+    {
+        "Date": "1860-05-01",
+        "AverageTemperature": 26.477451612903227
+    },
+    {
+        "Date": "1860-06-01",
+        "AverageTemperature": 26.715387096774194
+    },
+    {
+        "Date": "1860-07-01",
+        "AverageTemperature": 26.558032258064515
+    },
+    {
+        "Date": "1860-08-01",
+        "AverageTemperature": 26.701290322580647
+    },
+    {
+        "Date": "1860-09-01",
+        "AverageTemperature": 26.145548387096774
+    },
+    {
+        "Date": "1860-10-01",
+        "AverageTemperature": 25.667935483870966
+    },
+    {
+        "Date": "1860-11-01",
+        "AverageTemperature": 25.100967741935484
+    },
+    {
+        "Date": "1860-12-01",
+        "AverageTemperature": 24.079451612903227
+    },
+    {
+        "Date": "1861-01-01",
+        "AverageTemperature": 24.528129032258065
+    },
+    {
+        "Date": "1861-02-01",
+        "AverageTemperature": 25.045741935483875
+    },
+    {
+        "Date": "1861-03-01",
+        "AverageTemperature": 26.141387096774196
+    },
+    {
+        "Date": "1861-04-01",
+        "AverageTemperature": 26.040258064516127
+    },
+    {
+        "Date": "1861-05-01",
+        "AverageTemperature": 26.345193548387098
+    },
+    {
+        "Date": "1861-06-01",
+        "AverageTemperature": 26.60590322580645
+    },
+    {
+        "Date": "1861-07-01",
+        "AverageTemperature": 26.457451612903228
+    },
+    {
+        "Date": "1861-08-01",
+        "AverageTemperature": 26.353516129032258
+    },
+    {
+        "Date": "1861-09-01",
+        "AverageTemperature": 25.846806451612903
+    },
+    {
+        "Date": "1861-10-01",
+        "AverageTemperature": 25.328741935483873
+    },
+    {
+        "Date": "1861-11-01",
+        "AverageTemperature": 25.864806451612903
+    },
+    {
+        "Date": "1861-12-01",
+        "AverageTemperature": 25.049580645161292
+    },
+    {
+        "Date": "1863-01-01",
+        "AverageTemperature": 26.191777777777776
+    },
+    {
+        "Date": "1863-02-01",
+        "AverageTemperature": 26.292703703703705
+    },
+    {
+        "Date": "1863-03-01",
+        "AverageTemperature": 26.286185185185182
+    },
+    {
+        "Date": "1863-04-01",
+        "AverageTemperature": 26.655925925925928
+    },
+    {
+        "Date": "1863-05-01",
+        "AverageTemperature": 26.922
+    },
+    {
+        "Date": "1863-06-01",
+        "AverageTemperature": 26.85474074074074
+    },
+    {
+        "Date": "1863-07-01",
+        "AverageTemperature": 26.575222222222223
+    },
+    {
+        "Date": "1863-08-01",
+        "AverageTemperature": 26.07288888888889
+    },
+    {
+        "Date": "1863-09-01",
+        "AverageTemperature": 25.549111111111113
+    },
+    {
+        "Date": "1863-10-01",
+        "AverageTemperature": 25.28240740740741
+    },
+    {
+        "Date": "1863-11-01",
+        "AverageTemperature": 25.000370370370373
+    },
+    {
+        "Date": "1863-12-01",
+        "AverageTemperature": 24.869740740740742
+    },
+    {
+        "Date": "1864-01-01",
+        "AverageTemperature": 25.080037037037037
+    },
+    {
+        "Date": "1864-02-01",
+        "AverageTemperature": 25.01911111111111
+    },
+    {
+        "Date": "1864-03-01",
+        "AverageTemperature": 25.572370370370372
+    },
+    {
+        "Date": "1864-04-01",
+        "AverageTemperature": 26.529962962962962
+    },
+    {
+        "Date": "1864-05-01",
+        "AverageTemperature": 26.869703703703703
+    },
+    {
+        "Date": "1864-06-01",
+        "AverageTemperature": 27.19674074074074
+    },
+    {
+        "Date": "1864-07-01",
+        "AverageTemperature": 26.675703703703704
+    },
+    {
+        "Date": "1864-08-01",
+        "AverageTemperature": 26.153259259259258
+    },
+    {
+        "Date": "1864-09-01",
+        "AverageTemperature": 25.76403703703704
+    },
+    {
+        "Date": "1864-10-01",
+        "AverageTemperature": 25.68411111111111
+    },
+    {
+        "Date": "1864-11-01",
+        "AverageTemperature": 25.08288888888889
+    },
+    {
+        "Date": "1864-12-01",
+        "AverageTemperature": 24.97837037037037
+    },
+    {
+        "Date": "1865-01-01",
+        "AverageTemperature": 25.7065
+    },
+    {
+        "Date": "1865-02-01",
+        "AverageTemperature": 25.365937499999998
+    },
+    {
+        "Date": "1865-03-01",
+        "AverageTemperature": 25.72553125
+    },
+    {
+        "Date": "1865-04-01",
+        "AverageTemperature": 25.62284375
+    },
+    {
+        "Date": "1865-05-01",
+        "AverageTemperature": 26.73253125
+    },
+    {
+        "Date": "1865-06-01",
+        "AverageTemperature": 27.09390625
+    },
+    {
+        "Date": "1865-07-01",
+        "AverageTemperature": 26.78219230769231
+    },
+    {
+        "Date": "1865-08-01",
+        "AverageTemperature": 26.47959375
+    },
+    {
+        "Date": "1865-09-01",
+        "AverageTemperature": 26.154875
+    },
+    {
+        "Date": "1865-10-01",
+        "AverageTemperature": 26.1219375
+    },
+    {
+        "Date": "1865-11-01",
+        "AverageTemperature": 26.19515625
+    },
+    {
+        "Date": "1865-12-01",
+        "AverageTemperature": 25.18934375
+    },
+    {
+        "Date": "1866-01-01",
+        "AverageTemperature": 25.817875
+    },
+    {
+        "Date": "1866-02-01",
+        "AverageTemperature": 25.5151875
+    },
+    {
+        "Date": "1866-03-01",
+        "AverageTemperature": 26.21975
+    },
+    {
+        "Date": "1866-04-01",
+        "AverageTemperature": 26.663
+    },
+    {
+        "Date": "1866-05-01",
+        "AverageTemperature": 26.713124999999998
+    },
+    {
+        "Date": "1866-06-01",
+        "AverageTemperature": 26.823812500000003
+    },
+    {
+        "Date": "1866-07-01",
+        "AverageTemperature": 26.580406250000003
+    },
+    {
+        "Date": "1866-08-01",
+        "AverageTemperature": 26.35303125
+    },
+    {
+        "Date": "1866-09-01",
+        "AverageTemperature": 26.205875
+    },
+    {
+        "Date": "1866-10-01",
+        "AverageTemperature": 25.33440625
+    },
+    {
+        "Date": "1866-11-01",
+        "AverageTemperature": 25.467156250000002
+    },
+    {
+        "Date": "1866-12-01",
+        "AverageTemperature": 25.1750625
+    },
+    {
+        "Date": "1867-01-01",
+        "AverageTemperature": 25.09971875
+    },
+    {
+        "Date": "1867-02-01",
+        "AverageTemperature": 25.5638125
+    },
+    {
+        "Date": "1867-03-01",
+        "AverageTemperature": 26.11115625
+    },
+    {
+        "Date": "1867-04-01",
+        "AverageTemperature": 26.4135625
+    },
+    {
+        "Date": "1867-05-01",
+        "AverageTemperature": 27.10071875
+    },
+    {
+        "Date": "1867-06-01",
+        "AverageTemperature": 26.651125
+    },
+    {
+        "Date": "1867-07-01",
+        "AverageTemperature": 26.66165625
+    },
+    {
+        "Date": "1867-08-01",
+        "AverageTemperature": 26.21834375
+    },
+    {
+        "Date": "1867-09-01",
+        "AverageTemperature": 26.00775
+    },
+    {
+        "Date": "1867-10-01",
+        "AverageTemperature": 25.6815
+    },
+    {
+        "Date": "1867-11-01",
+        "AverageTemperature": 25.75821875
+    },
+    {
+        "Date": "1867-12-01",
+        "AverageTemperature": 24.924125
+    },
+    {
+        "Date": "1868-01-01",
+        "AverageTemperature": 25.0225625
+    },
+    {
+        "Date": "1868-02-01",
+        "AverageTemperature": 25.353593749999998
+    },
+    {
+        "Date": "1868-03-01",
+        "AverageTemperature": 25.840218750000002
+    },
+    {
+        "Date": "1868-04-01",
+        "AverageTemperature": 26.376093750000003
+    },
+    {
+        "Date": "1868-05-01",
+        "AverageTemperature": 26.67446875
+    },
+    {
+        "Date": "1868-06-01",
+        "AverageTemperature": 27.07690625
+    },
+    {
+        "Date": "1868-07-01",
+        "AverageTemperature": 26.62809375
+    },
+    {
+        "Date": "1868-08-01",
+        "AverageTemperature": 26.49590625
+    },
+    {
+        "Date": "1868-09-01",
+        "AverageTemperature": 26.1730625
+    },
+    {
+        "Date": "1868-10-01",
+        "AverageTemperature": 26.1534375
+    },
+    {
+        "Date": "1868-11-01",
+        "AverageTemperature": 25.570843749999998
+    },
+    {
+        "Date": "1868-12-01",
+        "AverageTemperature": 25.31253125
+    },
+    {
+        "Date": "1869-01-01",
+        "AverageTemperature": 24.89878125
+    },
+    {
+        "Date": "1869-02-01",
+        "AverageTemperature": 26.054625
+    },
+    {
+        "Date": "1869-03-01",
+        "AverageTemperature": 26.326249999999998
+    },
+    {
+        "Date": "1869-04-01",
+        "AverageTemperature": 26.23040625
+    },
+    {
+        "Date": "1869-05-01",
+        "AverageTemperature": 26.79184375
+    },
+    {
+        "Date": "1869-06-01",
+        "AverageTemperature": 26.804875
+    },
+    {
+        "Date": "1869-07-01",
+        "AverageTemperature": 26.57046875
+    },
+    {
+        "Date": "1869-08-01",
+        "AverageTemperature": 25.883781250000002
+    },
+    {
+        "Date": "1869-09-01",
+        "AverageTemperature": 26.02509375
+    },
+    {
+        "Date": "1869-10-01",
+        "AverageTemperature": 25.5896875
+    },
+    {
+        "Date": "1869-11-01",
+        "AverageTemperature": 24.76690625
+    },
+    {
+        "Date": "1869-12-01",
+        "AverageTemperature": 24.41309375
+    },
+    {
+        "Date": "1870-01-01",
+        "AverageTemperature": 24.661
+    },
+    {
+        "Date": "1870-02-01",
+        "AverageTemperature": 24.79153125
+    },
+    {
+        "Date": "1870-03-01",
+        "AverageTemperature": 25.69628125
+    },
+    {
+        "Date": "1870-04-01",
+        "AverageTemperature": 26.2735625
+    },
+    {
+        "Date": "1870-05-01",
+        "AverageTemperature": 26.495375
+    },
+    {
+        "Date": "1870-06-01",
+        "AverageTemperature": 26.3895
+    },
+    {
+        "Date": "1870-07-01",
+        "AverageTemperature": 26.49059375
+    },
+    {
+        "Date": "1870-08-01",
+        "AverageTemperature": 25.7220625
+    },
+    {
+        "Date": "1870-09-01",
+        "AverageTemperature": 25.58784375
+    },
+    {
+        "Date": "1870-10-01",
+        "AverageTemperature": 25.24190625
+    },
+    {
+        "Date": "1870-11-01",
+        "AverageTemperature": 25.1046875
+    },
+    {
+        "Date": "1870-12-01",
+        "AverageTemperature": 24.21703125
+    },
+    {
+        "Date": "1871-01-01",
+        "AverageTemperature": 24.591656250000003
+    },
+    {
+        "Date": "1871-02-01",
+        "AverageTemperature": 25.3666875
+    },
+    {
+        "Date": "1871-03-01",
+        "AverageTemperature": 25.763125
+    },
+    {
+        "Date": "1871-04-01",
+        "AverageTemperature": 26.689625
+    },
+    {
+        "Date": "1871-05-01",
+        "AverageTemperature": 26.61009375
+    },
+    {
+        "Date": "1871-06-01",
+        "AverageTemperature": 26.41971875
+    },
+    {
+        "Date": "1871-07-01",
+        "AverageTemperature": 25.7520625
+    },
+    {
+        "Date": "1871-08-01",
+        "AverageTemperature": 25.98290625
+    },
+    {
+        "Date": "1871-09-01",
+        "AverageTemperature": 25.527625
+    },
+    {
+        "Date": "1871-10-01",
+        "AverageTemperature": 25.283093750000003
+    },
+    {
+        "Date": "1871-11-01",
+        "AverageTemperature": 24.90846875
+    },
+    {
+        "Date": "1871-12-01",
+        "AverageTemperature": 24.499625
+    },
+    {
+        "Date": "1872-01-01",
+        "AverageTemperature": 24.789375
+    },
+    {
+        "Date": "1872-02-01",
+        "AverageTemperature": 24.84703125
+    },
+    {
+        "Date": "1872-03-01",
+        "AverageTemperature": 25.68865625
+    },
+    {
+        "Date": "1872-04-01",
+        "AverageTemperature": 27.31603125
+    },
+    {
+        "Date": "1872-05-01",
+        "AverageTemperature": 27.3866875
+    },
+    {
+        "Date": "1872-06-01",
+        "AverageTemperature": 27.19346875
+    },
+    {
+        "Date": "1872-07-01",
+        "AverageTemperature": 26.58778125
+    },
+    {
+        "Date": "1872-08-01",
+        "AverageTemperature": 26.25075
+    },
+    {
+        "Date": "1872-09-01",
+        "AverageTemperature": 26.294625
+    },
+    {
+        "Date": "1872-10-01",
+        "AverageTemperature": 25.79540625
+    },
+    {
+        "Date": "1872-11-01",
+        "AverageTemperature": 25.6084375
+    },
+    {
+        "Date": "1872-12-01",
+        "AverageTemperature": 24.9241875
+    },
+    {
+        "Date": "1873-01-01",
+        "AverageTemperature": 25.62665625
+    },
+    {
+        "Date": "1873-02-01",
+        "AverageTemperature": 25.67696875
+    },
+    {
+        "Date": "1873-03-01",
+        "AverageTemperature": 26.377375
+    },
+    {
+        "Date": "1873-04-01",
+        "AverageTemperature": 26.28771875
+    },
+    {
+        "Date": "1873-05-01",
+        "AverageTemperature": 27.04775
+    },
+    {
+        "Date": "1873-06-01",
+        "AverageTemperature": 27.100625
+    },
+    {
+        "Date": "1873-07-01",
+        "AverageTemperature": 26.77971875
+    },
+    {
+        "Date": "1873-08-01",
+        "AverageTemperature": 26.46796875
+    },
+    {
+        "Date": "1873-09-01",
+        "AverageTemperature": 26.514125000000003
+    },
+    {
+        "Date": "1873-10-01",
+        "AverageTemperature": 25.7514375
+    },
+    {
+        "Date": "1873-11-01",
+        "AverageTemperature": 26.03740625
+    },
+    {
+        "Date": "1873-12-01",
+        "AverageTemperature": 25.362000000000002
+    },
+    {
+        "Date": "1874-01-01",
+        "AverageTemperature": 25.70734375
+    },
+    {
+        "Date": "1874-02-01",
+        "AverageTemperature": 26.37815625
+    },
+    {
+        "Date": "1874-03-01",
+        "AverageTemperature": 27.099062500000002
+    },
+    {
+        "Date": "1874-04-01",
+        "AverageTemperature": 26.83134375
+    },
+    {
+        "Date": "1874-05-01",
+        "AverageTemperature": 27.50459375
+    },
+    {
+        "Date": "1874-06-01",
+        "AverageTemperature": 26.73075
+    },
+    {
+        "Date": "1874-07-01",
+        "AverageTemperature": 26.00390625
+    },
+    {
+        "Date": "1874-08-01",
+        "AverageTemperature": 25.79778125
+    },
+    {
+        "Date": "1874-09-01",
+        "AverageTemperature": 25.7201875
+    },
+    {
+        "Date": "1874-10-01",
+        "AverageTemperature": 25.284000000000002
+    },
+    {
+        "Date": "1874-11-01",
+        "AverageTemperature": 24.99071875
+    },
+    {
+        "Date": "1874-12-01",
+        "AverageTemperature": 24.663093749999998
+    },
+    {
+        "Date": "1875-01-01",
+        "AverageTemperature": 24.6473125
+    },
+    {
+        "Date": "1875-02-01",
+        "AverageTemperature": 25.09225
+    },
+    {
+        "Date": "1875-03-01",
+        "AverageTemperature": 25.637062500000003
+    },
+    {
+        "Date": "1875-04-01",
+        "AverageTemperature": 26.0535
+    },
+    {
+        "Date": "1875-05-01",
+        "AverageTemperature": 25.93925
+    },
+    {
+        "Date": "1875-06-01",
+        "AverageTemperature": 26.304156250000002
+    },
+    {
+        "Date": "1875-07-01",
+        "AverageTemperature": 26.23084375
+    },
+    {
+        "Date": "1875-08-01",
+        "AverageTemperature": 26.0159375
+    },
+    {
+        "Date": "1875-09-01",
+        "AverageTemperature": 25.8835
+    },
+    {
+        "Date": "1875-10-01",
+        "AverageTemperature": 25.30403125
+    },
+    {
+        "Date": "1875-11-01",
+        "AverageTemperature": 25.0981875
+    },
+    {
+        "Date": "1875-12-01",
+        "AverageTemperature": 24.18865625
+    },
+    {
+        "Date": "1876-01-01",
+        "AverageTemperature": 24.795624999999998
+    },
+    {
+        "Date": "1876-02-01",
+        "AverageTemperature": 25.302656250000002
+    },
+    {
+        "Date": "1876-03-01",
+        "AverageTemperature": 25.95003125
+    },
+    {
+        "Date": "1876-04-01",
+        "AverageTemperature": 26.37328125
+    },
+    {
+        "Date": "1876-05-01",
+        "AverageTemperature": 26.40078125
+    },
+    {
+        "Date": "1876-06-01",
+        "AverageTemperature": 26.3734375
+    },
+    {
+        "Date": "1876-07-01",
+        "AverageTemperature": 26.356625
+    },
+    {
+        "Date": "1876-08-01",
+        "AverageTemperature": 25.91409375
+    },
+    {
+        "Date": "1876-09-01",
+        "AverageTemperature": 25.674468750000003
+    },
+    {
+        "Date": "1876-10-01",
+        "AverageTemperature": 25.38734375
+    },
+    {
+        "Date": "1876-11-01",
+        "AverageTemperature": 24.9530625
+    },
+    {
+        "Date": "1876-12-01",
+        "AverageTemperature": 24.260281250000002
+    },
+    {
+        "Date": "1877-01-01",
+        "AverageTemperature": 24.923156249999998
+    },
+    {
+        "Date": "1877-02-01",
+        "AverageTemperature": 25.37915625
+    },
+    {
+        "Date": "1877-03-01",
+        "AverageTemperature": 25.95021875
+    },
+    {
+        "Date": "1877-04-01",
+        "AverageTemperature": 26.536625
+    },
+    {
+        "Date": "1877-05-01",
+        "AverageTemperature": 27.2519375
+    },
+    {
+        "Date": "1877-06-01",
+        "AverageTemperature": 26.29596875
+    },
+    {
+        "Date": "1877-07-01",
+        "AverageTemperature": 26.566312500000002
+    },
+    {
+        "Date": "1877-08-01",
+        "AverageTemperature": 26.7315
+    },
+    {
+        "Date": "1877-09-01",
+        "AverageTemperature": 26.38659375
+    },
+    {
+        "Date": "1877-10-01",
+        "AverageTemperature": 26.37809375
+    },
+    {
+        "Date": "1877-11-01",
+        "AverageTemperature": 26.5010625
+    },
+    {
+        "Date": "1877-12-01",
+        "AverageTemperature": 25.63021875
+    },
+    {
+        "Date": "1878-01-01",
+        "AverageTemperature": 25.84053125
+    },
+    {
+        "Date": "1878-02-01",
+        "AverageTemperature": 26.42471875
+    },
+    {
+        "Date": "1878-03-01",
+        "AverageTemperature": 27.43896875
+    },
+    {
+        "Date": "1878-04-01",
+        "AverageTemperature": 27.3591875
+    },
+    {
+        "Date": "1878-05-01",
+        "AverageTemperature": 27.249
+    },
+    {
+        "Date": "1878-06-01",
+        "AverageTemperature": 26.860875
+    },
+    {
+        "Date": "1878-07-01",
+        "AverageTemperature": 26.84221875
+    },
+    {
+        "Date": "1878-08-01",
+        "AverageTemperature": 26.325187500000002
+    },
+    {
+        "Date": "1878-09-01",
+        "AverageTemperature": 26.434875
+    },
+    {
+        "Date": "1878-10-01",
+        "AverageTemperature": 26.294875
+    },
+    {
+        "Date": "1878-11-01",
+        "AverageTemperature": 26.02846875
+    },
+    {
+        "Date": "1878-12-01",
+        "AverageTemperature": 25.139875000000004
+    },
+    {
+        "Date": "1879-01-01",
+        "AverageTemperature": 24.991656250000002
+    },
+    {
+        "Date": "1879-02-01",
+        "AverageTemperature": 25.75409375
+    },
+    {
+        "Date": "1879-03-01",
+        "AverageTemperature": 25.91503125
+    },
+    {
+        "Date": "1879-04-01",
+        "AverageTemperature": 26.054375
+    },
+    {
+        "Date": "1879-05-01",
+        "AverageTemperature": 26.6631875
+    },
+    {
+        "Date": "1879-06-01",
+        "AverageTemperature": 26.45475
+    },
+    {
+        "Date": "1879-07-01",
+        "AverageTemperature": 26.45115625
+    },
+    {
+        "Date": "1879-08-01",
+        "AverageTemperature": 25.68865625
+    },
+    {
+        "Date": "1879-09-01",
+        "AverageTemperature": 25.807156250000002
+    },
+    {
+        "Date": "1879-10-01",
+        "AverageTemperature": 25.4298125
+    },
+    {
+        "Date": "1879-11-01",
+        "AverageTemperature": 25.26184375
+    },
+    {
+        "Date": "1879-12-01",
+        "AverageTemperature": 25.1573125
+    },
+    {
+        "Date": "1880-01-01",
+        "AverageTemperature": 25.207875
+    },
+    {
+        "Date": "1880-02-01",
+        "AverageTemperature": 26.125187500000003
+    },
+    {
+        "Date": "1880-03-01",
+        "AverageTemperature": 26.25465625
+    },
+    {
+        "Date": "1880-04-01",
+        "AverageTemperature": 26.01559375
+    },
+    {
+        "Date": "1880-05-01",
+        "AverageTemperature": 26.662000000000003
+    },
+    {
+        "Date": "1880-06-01",
+        "AverageTemperature": 26.46696875
+    },
+    {
+        "Date": "1880-07-01",
+        "AverageTemperature": 26.374375
+    },
+    {
+        "Date": "1880-08-01",
+        "AverageTemperature": 26.39840625
+    },
+    {
+        "Date": "1880-09-01",
+        "AverageTemperature": 25.9728125
+    },
+    {
+        "Date": "1880-10-01",
+        "AverageTemperature": 25.922406249999998
+    },
+    {
+        "Date": "1880-11-01",
+        "AverageTemperature": 25.6325
+    },
+    {
+        "Date": "1880-12-01",
+        "AverageTemperature": 25.22296875
+    },
+    {
+        "Date": "1881-01-01",
+        "AverageTemperature": 25.491125
+    },
+    {
+        "Date": "1881-02-01",
+        "AverageTemperature": 26.07153125
+    },
+    {
+        "Date": "1881-03-01",
+        "AverageTemperature": 26.16378125
+    },
+    {
+        "Date": "1881-04-01",
+        "AverageTemperature": 26.2120625
+    },
+    {
+        "Date": "1881-05-01",
+        "AverageTemperature": 26.82728125
+    },
+    {
+        "Date": "1881-06-01",
+        "AverageTemperature": 26.936625
+    },
+    {
+        "Date": "1881-07-01",
+        "AverageTemperature": 26.783875000000002
+    },
+    {
+        "Date": "1881-08-01",
+        "AverageTemperature": 26.397687500000004
+    },
+    {
+        "Date": "1881-09-01",
+        "AverageTemperature": 26.1774375
+    },
+    {
+        "Date": "1881-10-01",
+        "AverageTemperature": 26.2590625
+    },
+    {
+        "Date": "1881-11-01",
+        "AverageTemperature": 26.04815625
+    },
+    {
+        "Date": "1881-12-01",
+        "AverageTemperature": 25.987750000000002
+    },
+    {
+        "Date": "1882-01-01",
+        "AverageTemperature": 26.117687500000002
+    },
+    {
+        "Date": "1882-02-01",
+        "AverageTemperature": 26.26175
+    },
+    {
+        "Date": "1882-03-01",
+        "AverageTemperature": 26.42759375
+    },
+    {
+        "Date": "1882-04-01",
+        "AverageTemperature": 26.6941875
+    },
+    {
+        "Date": "1882-05-01",
+        "AverageTemperature": 26.68740625
+    },
+    {
+        "Date": "1882-06-01",
+        "AverageTemperature": 26.57934375
+    },
+    {
+        "Date": "1882-07-01",
+        "AverageTemperature": 26.6445625
+    },
+    {
+        "Date": "1882-08-01",
+        "AverageTemperature": 26.0450625
+    },
+    {
+        "Date": "1882-09-01",
+        "AverageTemperature": 25.91784375
+    },
+    {
+        "Date": "1882-10-01",
+        "AverageTemperature": 25.52084375
+    },
+    {
+        "Date": "1882-11-01",
+        "AverageTemperature": 25.2563125
+    },
+    {
+        "Date": "1882-12-01",
+        "AverageTemperature": 24.88359375
+    },
+    {
+        "Date": "1883-01-01",
+        "AverageTemperature": 25.19359375
+    },
+    {
+        "Date": "1883-02-01",
+        "AverageTemperature": 25.5279375
+    },
+    {
+        "Date": "1883-03-01",
+        "AverageTemperature": 26.29384375
+    },
+    {
+        "Date": "1883-04-01",
+        "AverageTemperature": 26.179562500000003
+    },
+    {
+        "Date": "1883-05-01",
+        "AverageTemperature": 26.916406249999998
+    },
+    {
+        "Date": "1883-06-01",
+        "AverageTemperature": 26.7649375
+    },
+    {
+        "Date": "1883-07-01",
+        "AverageTemperature": 26.57259375
+    },
+    {
+        "Date": "1883-08-01",
+        "AverageTemperature": 26.49590625
+    },
+    {
+        "Date": "1883-09-01",
+        "AverageTemperature": 25.71315625
+    },
+    {
+        "Date": "1883-10-01",
+        "AverageTemperature": 25.60784375
+    },
+    {
+        "Date": "1883-11-01",
+        "AverageTemperature": 25.31328125
+    },
+    {
+        "Date": "1883-12-01",
+        "AverageTemperature": 24.94825
+    },
+    {
+        "Date": "1884-01-01",
+        "AverageTemperature": 24.8855
+    },
+    {
+        "Date": "1884-02-01",
+        "AverageTemperature": 25.5765625
+    },
+    {
+        "Date": "1884-03-01",
+        "AverageTemperature": 26.041656250000003
+    },
+    {
+        "Date": "1884-04-01",
+        "AverageTemperature": 26.256125
+    },
+    {
+        "Date": "1884-05-01",
+        "AverageTemperature": 26.45065625
+    },
+    {
+        "Date": "1884-06-01",
+        "AverageTemperature": 26.09759375
+    },
+    {
+        "Date": "1884-07-01",
+        "AverageTemperature": 26.417250000000003
+    },
+    {
+        "Date": "1884-08-01",
+        "AverageTemperature": 26.0105
+    },
+    {
+        "Date": "1884-09-01",
+        "AverageTemperature": 25.55978125
+    },
+    {
+        "Date": "1884-10-01",
+        "AverageTemperature": 25.637875
+    },
+    {
+        "Date": "1884-11-01",
+        "AverageTemperature": 25.73721875
+    },
+    {
+        "Date": "1884-12-01",
+        "AverageTemperature": 24.96140625
+    },
+    {
+        "Date": "1885-01-01",
+        "AverageTemperature": 25.812125
+    },
+    {
+        "Date": "1885-02-01",
+        "AverageTemperature": 25.79496875
+    },
+    {
+        "Date": "1885-03-01",
+        "AverageTemperature": 26.461375
+    },
+    {
+        "Date": "1885-04-01",
+        "AverageTemperature": 26.9393125
+    },
+    {
+        "Date": "1885-05-01",
+        "AverageTemperature": 26.9194375
+    },
+    {
+        "Date": "1885-06-01",
+        "AverageTemperature": 26.43784375
+    },
+    {
+        "Date": "1885-07-01",
+        "AverageTemperature": 26.2996875
+    },
+    {
+        "Date": "1885-08-01",
+        "AverageTemperature": 26.144125
+    },
+    {
+        "Date": "1885-09-01",
+        "AverageTemperature": 26.02678125
+    },
+    {
+        "Date": "1885-10-01",
+        "AverageTemperature": 25.8914375
+    },
+    {
+        "Date": "1885-11-01",
+        "AverageTemperature": 25.864125
+    },
+    {
+        "Date": "1885-12-01",
+        "AverageTemperature": 25.52490625
+    },
+    {
+        "Date": "1886-01-01",
+        "AverageTemperature": 25.46403125
+    },
+    {
+        "Date": "1886-02-01",
+        "AverageTemperature": 25.6376875
+    },
+    {
+        "Date": "1886-03-01",
+        "AverageTemperature": 26.510875
+    },
+    {
+        "Date": "1886-04-01",
+        "AverageTemperature": 26.40528125
+    },
+    {
+        "Date": "1886-05-01",
+        "AverageTemperature": 26.85321875
+    },
+    {
+        "Date": "1886-06-01",
+        "AverageTemperature": 26.73715625
+    },
+    {
+        "Date": "1886-07-01",
+        "AverageTemperature": 26.6064375
+    },
+    {
+        "Date": "1886-08-01",
+        "AverageTemperature": 26.22503125
+    },
+    {
+        "Date": "1886-09-01",
+        "AverageTemperature": 26.253
+    },
+    {
+        "Date": "1886-10-01",
+        "AverageTemperature": 25.9201875
+    },
+    {
+        "Date": "1886-11-01",
+        "AverageTemperature": 25.41865625
+    },
+    {
+        "Date": "1886-12-01",
+        "AverageTemperature": 24.81465625
+    },
+    {
+        "Date": "1887-01-01",
+        "AverageTemperature": 24.93765625
+    },
+    {
+        "Date": "1887-02-01",
+        "AverageTemperature": 25.00859375
+    },
+    {
+        "Date": "1887-03-01",
+        "AverageTemperature": 25.3651875
+    },
+    {
+        "Date": "1887-04-01",
+        "AverageTemperature": 25.7073125
+    },
+    {
+        "Date": "1887-05-01",
+        "AverageTemperature": 26.36671875
+    },
+    {
+        "Date": "1887-06-01",
+        "AverageTemperature": 25.933
+    },
+    {
+        "Date": "1887-07-01",
+        "AverageTemperature": 26.14446875
+    },
+    {
+        "Date": "1887-08-01",
+        "AverageTemperature": 25.65459375
+    },
+    {
+        "Date": "1887-09-01",
+        "AverageTemperature": 26.011468750000002
+    },
+    {
+        "Date": "1887-10-01",
+        "AverageTemperature": 25.51125
+    },
+    {
+        "Date": "1887-11-01",
+        "AverageTemperature": 25.1835625
+    },
+    {
+        "Date": "1887-12-01",
+        "AverageTemperature": 24.70946875
+    },
+    {
+        "Date": "1888-01-01",
+        "AverageTemperature": 24.97128125
+    },
+    {
+        "Date": "1888-02-01",
+        "AverageTemperature": 25.55709375
+    },
+    {
+        "Date": "1888-03-01",
+        "AverageTemperature": 26.217343749999998
+    },
+    {
+        "Date": "1888-04-01",
+        "AverageTemperature": 26.627312500000002
+    },
+    {
+        "Date": "1888-05-01",
+        "AverageTemperature": 26.9514375
+    },
+    {
+        "Date": "1888-06-01",
+        "AverageTemperature": 26.79734375
+    },
+    {
+        "Date": "1888-07-01",
+        "AverageTemperature": 26.54009375
+    },
+    {
+        "Date": "1888-08-01",
+        "AverageTemperature": 26.519750000000002
+    },
+    {
+        "Date": "1888-09-01",
+        "AverageTemperature": 26.13971875
+    },
+    {
+        "Date": "1888-10-01",
+        "AverageTemperature": 26.30034375
+    },
+    {
+        "Date": "1888-11-01",
+        "AverageTemperature": 26.0155
+    },
+    {
+        "Date": "1888-12-01",
+        "AverageTemperature": 25.75259375
+    },
+    {
+        "Date": "1889-01-01",
+        "AverageTemperature": 25.94465625
+    },
+    {
+        "Date": "1889-02-01",
+        "AverageTemperature": 26.04465625
+    },
+    {
+        "Date": "1889-03-01",
+        "AverageTemperature": 26.74371875
+    },
+    {
+        "Date": "1889-04-01",
+        "AverageTemperature": 27.29134375
+    },
+    {
+        "Date": "1889-05-01",
+        "AverageTemperature": 27.6158125
+    },
+    {
+        "Date": "1889-06-01",
+        "AverageTemperature": 27.04278125
+    },
+    {
+        "Date": "1889-07-01",
+        "AverageTemperature": 26.2851875
+    },
+    {
+        "Date": "1889-08-01",
+        "AverageTemperature": 26.36153125
+    },
+    {
+        "Date": "1889-09-01",
+        "AverageTemperature": 26.127656249999998
+    },
+    {
+        "Date": "1889-10-01",
+        "AverageTemperature": 26.07178125
+    },
+    {
+        "Date": "1889-11-01",
+        "AverageTemperature": 25.3055
+    },
+    {
+        "Date": "1889-12-01",
+        "AverageTemperature": 25.216718750000002
+    },
+    {
+        "Date": "1890-01-01",
+        "AverageTemperature": 25.340625
+    },
+    {
+        "Date": "1890-02-01",
+        "AverageTemperature": 25.52159375
+    },
+    {
+        "Date": "1890-03-01",
+        "AverageTemperature": 26.03846875
+    },
+    {
+        "Date": "1890-04-01",
+        "AverageTemperature": 26.3983125
+    },
+    {
+        "Date": "1890-05-01",
+        "AverageTemperature": 26.53596875
+    },
+    {
+        "Date": "1890-06-01",
+        "AverageTemperature": 26.2025625
+    },
+    {
+        "Date": "1890-07-01",
+        "AverageTemperature": 26.02546875
+    },
+    {
+        "Date": "1890-08-01",
+        "AverageTemperature": 25.5166875
+    },
+    {
+        "Date": "1890-09-01",
+        "AverageTemperature": 25.86153125
+    },
+    {
+        "Date": "1890-10-01",
+        "AverageTemperature": 25.437625
+    },
+    {
+        "Date": "1890-11-01",
+        "AverageTemperature": 25.33728125
+    },
+    {
+        "Date": "1890-12-01",
+        "AverageTemperature": 25.04828125
+    },
+    {
+        "Date": "1891-01-01",
+        "AverageTemperature": 25.19471875
+    },
+    {
+        "Date": "1891-02-01",
+        "AverageTemperature": 25.502875
+    },
+    {
+        "Date": "1891-03-01",
+        "AverageTemperature": 25.92425
+    },
+    {
+        "Date": "1891-04-01",
+        "AverageTemperature": 26.5814375
+    },
+    {
+        "Date": "1891-05-01",
+        "AverageTemperature": 27.127499999999998
+    },
+    {
+        "Date": "1891-06-01",
+        "AverageTemperature": 26.542125000000002
+    },
+    {
+        "Date": "1891-07-01",
+        "AverageTemperature": 26.4503125
+    },
+    {
+        "Date": "1891-08-01",
+        "AverageTemperature": 26.092875000000003
+    },
+    {
+        "Date": "1891-09-01",
+        "AverageTemperature": 26.111125
+    },
+    {
+        "Date": "1891-10-01",
+        "AverageTemperature": 26.0306875
+    },
+    {
+        "Date": "1891-11-01",
+        "AverageTemperature": 25.699406250000003
+    },
+    {
+        "Date": "1891-12-01",
+        "AverageTemperature": 25.2356875
+    },
+    {
+        "Date": "1892-01-01",
+        "AverageTemperature": 25.0765625
+    },
+    {
+        "Date": "1892-02-01",
+        "AverageTemperature": 25.85553125
+    },
+    {
+        "Date": "1892-03-01",
+        "AverageTemperature": 26.1985
+    },
+    {
+        "Date": "1892-04-01",
+        "AverageTemperature": 25.8946875
+    },
+    {
+        "Date": "1892-05-01",
+        "AverageTemperature": 26.32109375
+    },
+    {
+        "Date": "1892-06-01",
+        "AverageTemperature": 26.3506875
+    },
+    {
+        "Date": "1892-07-01",
+        "AverageTemperature": 26.50959375
+    },
+    {
+        "Date": "1892-08-01",
+        "AverageTemperature": 25.7005625
+    },
+    {
+        "Date": "1892-09-01",
+        "AverageTemperature": 25.94634375
+    },
+    {
+        "Date": "1892-10-01",
+        "AverageTemperature": 25.89509375
+    },
+    {
+        "Date": "1892-11-01",
+        "AverageTemperature": 25.519312499999998
+    },
+    {
+        "Date": "1892-12-01",
+        "AverageTemperature": 24.81296875
+    },
+    {
+        "Date": "1893-01-01",
+        "AverageTemperature": 24.66428125
+    },
+    {
+        "Date": "1893-02-01",
+        "AverageTemperature": 25.34509375
+    },
+    {
+        "Date": "1893-03-01",
+        "AverageTemperature": 25.845125
+    },
+    {
+        "Date": "1893-04-01",
+        "AverageTemperature": 26.1345625
+    },
+    {
+        "Date": "1893-05-01",
+        "AverageTemperature": 26.32896875
+    },
+    {
+        "Date": "1893-06-01",
+        "AverageTemperature": 26.2559375
+    },
+    {
+        "Date": "1893-07-01",
+        "AverageTemperature": 26.06709375
+    },
+    {
+        "Date": "1893-08-01",
+        "AverageTemperature": 25.9138125
+    },
+    {
+        "Date": "1893-09-01",
+        "AverageTemperature": 25.826968750000002
+    },
+    {
+        "Date": "1893-10-01",
+        "AverageTemperature": 25.36484375
+    },
+    {
+        "Date": "1893-11-01",
+        "AverageTemperature": 25.46225
+    },
+    {
+        "Date": "1893-12-01",
+        "AverageTemperature": 25.1314375
+    },
+    {
+        "Date": "1894-01-01",
+        "AverageTemperature": 25.05365625
+    },
+    {
+        "Date": "1894-02-01",
+        "AverageTemperature": 25.8938125
+    },
+    {
+        "Date": "1894-03-01",
+        "AverageTemperature": 26.1565625
+    },
+    {
+        "Date": "1894-04-01",
+        "AverageTemperature": 26.38965625
+    },
+    {
+        "Date": "1894-05-01",
+        "AverageTemperature": 26.51846875
+    },
+    {
+        "Date": "1894-06-01",
+        "AverageTemperature": 26.26859375
+    },
+    {
+        "Date": "1894-07-01",
+        "AverageTemperature": 26.0465625
+    },
+    {
+        "Date": "1894-08-01",
+        "AverageTemperature": 25.98040625
+    },
+    {
+        "Date": "1894-09-01",
+        "AverageTemperature": 26.19040625
+    },
+    {
+        "Date": "1894-10-01",
+        "AverageTemperature": 25.673125000000002
+    },
+    {
+        "Date": "1894-11-01",
+        "AverageTemperature": 25.43640625
+    },
+    {
+        "Date": "1894-12-01",
+        "AverageTemperature": 25.241343750000002
+    },
+    {
+        "Date": "1895-01-01",
+        "AverageTemperature": 25.17715625
+    },
+    {
+        "Date": "1895-02-01",
+        "AverageTemperature": 25.62121875
+    },
+    {
+        "Date": "1895-03-01",
+        "AverageTemperature": 26.073
+    },
+    {
+        "Date": "1895-04-01",
+        "AverageTemperature": 26.30103125
+    },
+    {
+        "Date": "1895-05-01",
+        "AverageTemperature": 26.615
+    },
+    {
+        "Date": "1895-06-01",
+        "AverageTemperature": 26.799968749999998
+    },
+    {
+        "Date": "1895-07-01",
+        "AverageTemperature": 26.32296875
+    },
+    {
+        "Date": "1895-08-01",
+        "AverageTemperature": 26.0884375
+    },
+    {
+        "Date": "1895-09-01",
+        "AverageTemperature": 26.405875
+    },
+    {
+        "Date": "1895-10-01",
+        "AverageTemperature": 26.00603125
+    },
+    {
+        "Date": "1895-11-01",
+        "AverageTemperature": 25.735687500000004
+    },
+    {
+        "Date": "1895-12-01",
+        "AverageTemperature": 25.25946875
+    },
+    {
+        "Date": "1896-01-01",
+        "AverageTemperature": 25.39153125
+    },
+    {
+        "Date": "1896-02-01",
+        "AverageTemperature": 25.963500000000003
+    },
+    {
+        "Date": "1896-03-01",
+        "AverageTemperature": 26.55890625
+    },
+    {
+        "Date": "1896-04-01",
+        "AverageTemperature": 26.731437500000002
+    },
+    {
+        "Date": "1896-05-01",
+        "AverageTemperature": 27.06009375
+    },
+    {
+        "Date": "1896-06-01",
+        "AverageTemperature": 26.76265625
+    },
+    {
+        "Date": "1896-07-01",
+        "AverageTemperature": 26.62409375
+    },
+    {
+        "Date": "1896-08-01",
+        "AverageTemperature": 26.4978125
+    },
+    {
+        "Date": "1896-09-01",
+        "AverageTemperature": 26.530718750000002
+    },
+    {
+        "Date": "1896-10-01",
+        "AverageTemperature": 26.337625000000003
+    },
+    {
+        "Date": "1896-11-01",
+        "AverageTemperature": 26.31571875
+    },
+    {
+        "Date": "1896-12-01",
+        "AverageTemperature": 25.82971875
+    },
+    {
+        "Date": "1897-01-01",
+        "AverageTemperature": 26.02540625
+    },
+    {
+        "Date": "1897-02-01",
+        "AverageTemperature": 26.4025
+    },
+    {
+        "Date": "1897-03-01",
+        "AverageTemperature": 26.7984375
+    },
+    {
+        "Date": "1897-04-01",
+        "AverageTemperature": 26.8229375
+    },
+    {
+        "Date": "1897-05-01",
+        "AverageTemperature": 27.04296875
+    },
+    {
+        "Date": "1897-06-01",
+        "AverageTemperature": 27.1545625
+    },
+    {
+        "Date": "1897-07-01",
+        "AverageTemperature": 26.672125
+    },
+    {
+        "Date": "1897-08-01",
+        "AverageTemperature": 26.75521875
+    },
+    {
+        "Date": "1897-09-01",
+        "AverageTemperature": 26.372187500000003
+    },
+    {
+        "Date": "1897-10-01",
+        "AverageTemperature": 26.08709375
+    },
+    {
+        "Date": "1897-11-01",
+        "AverageTemperature": 25.8544375
+    },
+    {
+        "Date": "1897-12-01",
+        "AverageTemperature": 25.35459375
+    },
+    {
+        "Date": "1898-01-01",
+        "AverageTemperature": 25.2868125
+    },
+    {
+        "Date": "1898-02-01",
+        "AverageTemperature": 25.70475
+    },
+    {
+        "Date": "1898-03-01",
+        "AverageTemperature": 26.27490625
+    },
+    {
+        "Date": "1898-04-01",
+        "AverageTemperature": 26.32209375
+    },
+    {
+        "Date": "1898-05-01",
+        "AverageTemperature": 26.884875
+    },
+    {
+        "Date": "1898-06-01",
+        "AverageTemperature": 26.7245
+    },
+    {
+        "Date": "1898-07-01",
+        "AverageTemperature": 26.345656249999998
+    },
+    {
+        "Date": "1898-08-01",
+        "AverageTemperature": 26.494125
+    },
+    {
+        "Date": "1898-09-01",
+        "AverageTemperature": 26.0859375
+    },
+    {
+        "Date": "1898-10-01",
+        "AverageTemperature": 25.98525
+    },
+    {
+        "Date": "1898-11-01",
+        "AverageTemperature": 25.714593750000002
+    },
+    {
+        "Date": "1898-12-01",
+        "AverageTemperature": 25.294843750000002
+    },
+    {
+        "Date": "1899-01-01",
+        "AverageTemperature": 25.0765625
+    },
+    {
+        "Date": "1899-02-01",
+        "AverageTemperature": 25.41690625
+    },
+    {
+        "Date": "1899-03-01",
+        "AverageTemperature": 25.7479375
+    },
+    {
+        "Date": "1899-04-01",
+        "AverageTemperature": 26.02825
+    },
+    {
+        "Date": "1899-05-01",
+        "AverageTemperature": 26.7304375
+    },
+    {
+        "Date": "1899-06-01",
+        "AverageTemperature": 26.3811875
+    },
+    {
+        "Date": "1899-07-01",
+        "AverageTemperature": 26.73975
+    },
+    {
+        "Date": "1899-08-01",
+        "AverageTemperature": 26.43790625
+    },
+    {
+        "Date": "1899-09-01",
+        "AverageTemperature": 26.356749999999998
+    },
+    {
+        "Date": "1899-10-01",
+        "AverageTemperature": 26.07484375
+    },
+    {
+        "Date": "1899-11-01",
+        "AverageTemperature": 25.54346875
+    },
+    {
+        "Date": "1899-12-01",
+        "AverageTemperature": 25.33128125
+    },
+    {
+        "Date": "1900-01-01",
+        "AverageTemperature": 25.69496875
+    },
+    {
+        "Date": "1900-02-01",
+        "AverageTemperature": 26.248718750000002
+    },
+    {
+        "Date": "1900-03-01",
+        "AverageTemperature": 26.67796875
+    },
+    {
+        "Date": "1900-04-01",
+        "AverageTemperature": 26.99471875
+    },
+    {
+        "Date": "1900-05-01",
+        "AverageTemperature": 27.15034375
+    },
+    {
+        "Date": "1900-06-01",
+        "AverageTemperature": 27.11215625
+    },
+    {
+        "Date": "1900-07-01",
+        "AverageTemperature": 26.53440625
+    },
+    {
+        "Date": "1900-08-01",
+        "AverageTemperature": 26.645937500000002
+    },
+    {
+        "Date": "1900-09-01",
+        "AverageTemperature": 26.551875000000003
+    },
+    {
+        "Date": "1900-10-01",
+        "AverageTemperature": 26.4345625
+    },
+    {
+        "Date": "1900-11-01",
+        "AverageTemperature": 25.711375
+    },
+    {
+        "Date": "1900-12-01",
+        "AverageTemperature": 25.653000000000002
+    },
+    {
+        "Date": "1901-01-01",
+        "AverageTemperature": 25.9206875
+    },
+    {
+        "Date": "1901-02-01",
+        "AverageTemperature": 25.943562500000002
+    },
+    {
+        "Date": "1901-03-01",
+        "AverageTemperature": 26.52078125
+    },
+    {
+        "Date": "1901-04-01",
+        "AverageTemperature": 26.911843750000003
+    },
+    {
+        "Date": "1901-05-01",
+        "AverageTemperature": 26.84509375
+    },
+    {
+        "Date": "1901-06-01",
+        "AverageTemperature": 26.751406250000002
+    },
+    {
+        "Date": "1901-07-01",
+        "AverageTemperature": 26.19896875
+    },
+    {
+        "Date": "1901-08-01",
+        "AverageTemperature": 26.02315625
+    },
+    {
+        "Date": "1901-09-01",
+        "AverageTemperature": 25.9990625
+    },
+    {
+        "Date": "1901-10-01",
+        "AverageTemperature": 25.569187499999998
+    },
+    {
+        "Date": "1901-11-01",
+        "AverageTemperature": 25.424093749999997
+    },
+    {
+        "Date": "1901-12-01",
+        "AverageTemperature": 25.067406249999998
+    },
+    {
+        "Date": "1902-01-01",
+        "AverageTemperature": 25.131
+    },
+    {
+        "Date": "1902-02-01",
+        "AverageTemperature": 25.24928125
+    },
+    {
+        "Date": "1902-03-01",
+        "AverageTemperature": 26.08753125
+    },
+    {
+        "Date": "1902-04-01",
+        "AverageTemperature": 26.4135
+    },
+    {
+        "Date": "1902-05-01",
+        "AverageTemperature": 26.773625
+    },
+    {
+        "Date": "1902-06-01",
+        "AverageTemperature": 26.65984375
+    },
+    {
+        "Date": "1902-07-01",
+        "AverageTemperature": 26.6344375
+    },
+    {
+        "Date": "1902-08-01",
+        "AverageTemperature": 26.332718749999998
+    },
+    {
+        "Date": "1902-09-01",
+        "AverageTemperature": 26.1531875
+    },
+    {
+        "Date": "1902-10-01",
+        "AverageTemperature": 25.743593750000002
+    },
+    {
+        "Date": "1902-11-01",
+        "AverageTemperature": 25.69234375
+    },
+    {
+        "Date": "1902-12-01",
+        "AverageTemperature": 25.39690625
+    },
+    {
+        "Date": "1903-01-01",
+        "AverageTemperature": 25.93628125
+    },
+    {
+        "Date": "1903-02-01",
+        "AverageTemperature": 26.0348125
+    },
+    {
+        "Date": "1903-03-01",
+        "AverageTemperature": 26.366125
+    },
+    {
+        "Date": "1903-04-01",
+        "AverageTemperature": 26.671625
+    },
+    {
+        "Date": "1903-05-01",
+        "AverageTemperature": 27.03009375
+    },
+    {
+        "Date": "1903-06-01",
+        "AverageTemperature": 26.7809375
+    },
+    {
+        "Date": "1903-07-01",
+        "AverageTemperature": 26.308937500000003
+    },
+    {
+        "Date": "1903-08-01",
+        "AverageTemperature": 26.133375
+    },
+    {
+        "Date": "1903-09-01",
+        "AverageTemperature": 26.11534375
+    },
+    {
+        "Date": "1903-10-01",
+        "AverageTemperature": 25.71859375
+    },
+    {
+        "Date": "1903-11-01",
+        "AverageTemperature": 25.378125
+    },
+    {
+        "Date": "1903-12-01",
+        "AverageTemperature": 24.796875
+    },
+    {
+        "Date": "1904-01-01",
+        "AverageTemperature": 24.7985625
+    },
+    {
+        "Date": "1904-02-01",
+        "AverageTemperature": 25.23946875
+    },
+    {
+        "Date": "1904-03-01",
+        "AverageTemperature": 25.85715625
+    },
+    {
+        "Date": "1904-04-01",
+        "AverageTemperature": 25.8100625
+    },
+    {
+        "Date": "1904-05-01",
+        "AverageTemperature": 26.5988125
+    },
+    {
+        "Date": "1904-06-01",
+        "AverageTemperature": 26.38146875
+    },
+    {
+        "Date": "1904-07-01",
+        "AverageTemperature": 26.32440625
+    },
+    {
+        "Date": "1904-08-01",
+        "AverageTemperature": 26.1160625
+    },
+    {
+        "Date": "1904-09-01",
+        "AverageTemperature": 26.02153125
+    },
+    {
+        "Date": "1904-10-01",
+        "AverageTemperature": 25.7288125
+    },
+    {
+        "Date": "1904-11-01",
+        "AverageTemperature": 25.6495
+    },
+    {
+        "Date": "1904-12-01",
+        "AverageTemperature": 25.069875
+    },
+    {
+        "Date": "1905-01-01",
+        "AverageTemperature": 25.6794375
+    },
+    {
+        "Date": "1905-02-01",
+        "AverageTemperature": 25.88971875
+    },
+    {
+        "Date": "1905-03-01",
+        "AverageTemperature": 26.8008125
+    },
+    {
+        "Date": "1905-04-01",
+        "AverageTemperature": 26.916625
+    },
+    {
+        "Date": "1905-05-01",
+        "AverageTemperature": 27.12678125
+    },
+    {
+        "Date": "1905-06-01",
+        "AverageTemperature": 27.2546875
+    },
+    {
+        "Date": "1905-07-01",
+        "AverageTemperature": 26.70340625
+    },
+    {
+        "Date": "1905-08-01",
+        "AverageTemperature": 26.64771875
+    },
+    {
+        "Date": "1905-09-01",
+        "AverageTemperature": 26.37109375
+    },
+    {
+        "Date": "1905-10-01",
+        "AverageTemperature": 26.0759375
+    },
+    {
+        "Date": "1905-11-01",
+        "AverageTemperature": 26.03915625
+    },
+    {
+        "Date": "1905-12-01",
+        "AverageTemperature": 25.879875
+    },
+    {
+        "Date": "1906-01-01",
+        "AverageTemperature": 25.7270625
+    },
+    {
+        "Date": "1906-02-01",
+        "AverageTemperature": 26.448500000000003
+    },
+    {
+        "Date": "1906-03-01",
+        "AverageTemperature": 26.564375000000002
+    },
+    {
+        "Date": "1906-04-01",
+        "AverageTemperature": 26.448375
+    },
+    {
+        "Date": "1906-05-01",
+        "AverageTemperature": 26.98615625
+    },
+    {
+        "Date": "1906-06-01",
+        "AverageTemperature": 26.44621875
+    },
+    {
+        "Date": "1906-07-01",
+        "AverageTemperature": 26.3850625
+    },
+    {
+        "Date": "1906-08-01",
+        "AverageTemperature": 26.0575
+    },
+    {
+        "Date": "1906-09-01",
+        "AverageTemperature": 26.372125
+    },
+    {
+        "Date": "1906-10-01",
+        "AverageTemperature": 25.971125
+    },
+    {
+        "Date": "1906-11-01",
+        "AverageTemperature": 25.839625
+    },
+    {
+        "Date": "1906-12-01",
+        "AverageTemperature": 25.381375000000002
+    },
+    {
+        "Date": "1907-01-01",
+        "AverageTemperature": 25.7241875
+    },
+    {
+        "Date": "1907-02-01",
+        "AverageTemperature": 25.72403125
+    },
+    {
+        "Date": "1907-03-01",
+        "AverageTemperature": 26.20346875
+    },
+    {
+        "Date": "1907-04-01",
+        "AverageTemperature": 27.032937500000003
+    },
+    {
+        "Date": "1907-05-01",
+        "AverageTemperature": 26.90246875
+    },
+    {
+        "Date": "1907-06-01",
+        "AverageTemperature": 26.86221875
+    },
+    {
+        "Date": "1907-07-01",
+        "AverageTemperature": 26.39890625
+    },
+    {
+        "Date": "1907-08-01",
+        "AverageTemperature": 26.2803125
+    },
+    {
+        "Date": "1907-09-01",
+        "AverageTemperature": 26.221625
+    },
+    {
+        "Date": "1907-10-01",
+        "AverageTemperature": 25.76546875
+    },
+    {
+        "Date": "1907-11-01",
+        "AverageTemperature": 25.574
+    },
+    {
+        "Date": "1907-12-01",
+        "AverageTemperature": 25.02896875
+    },
+    {
+        "Date": "1908-01-01",
+        "AverageTemperature": 25.94084375
+    },
+    {
+        "Date": "1908-02-01",
+        "AverageTemperature": 26.01096875
+    },
+    {
+        "Date": "1908-03-01",
+        "AverageTemperature": 26.36390625
+    },
+    {
+        "Date": "1908-04-01",
+        "AverageTemperature": 26.70546875
+    },
+    {
+        "Date": "1908-05-01",
+        "AverageTemperature": 27.064656250000002
+    },
+    {
+        "Date": "1908-06-01",
+        "AverageTemperature": 26.729343749999998
+    },
+    {
+        "Date": "1908-07-01",
+        "AverageTemperature": 26.144750000000002
+    },
+    {
+        "Date": "1908-08-01",
+        "AverageTemperature": 26.43778125
+    },
+    {
+        "Date": "1908-09-01",
+        "AverageTemperature": 25.999875
+    },
+    {
+        "Date": "1908-10-01",
+        "AverageTemperature": 25.80771875
+    },
+    {
+        "Date": "1908-11-01",
+        "AverageTemperature": 24.98409375
+    },
+    {
+        "Date": "1908-12-01",
+        "AverageTemperature": 25.26503125
+    },
+    {
+        "Date": "1909-01-01",
+        "AverageTemperature": 25.68259375
+    },
+    {
+        "Date": "1909-02-01",
+        "AverageTemperature": 25.8605625
+    },
+    {
+        "Date": "1909-03-01",
+        "AverageTemperature": 26.4463125
+    },
+    {
+        "Date": "1909-04-01",
+        "AverageTemperature": 26.655874999999998
+    },
+    {
+        "Date": "1909-05-01",
+        "AverageTemperature": 27.154500000000002
+    },
+    {
+        "Date": "1909-06-01",
+        "AverageTemperature": 26.6343125
+    },
+    {
+        "Date": "1909-07-01",
+        "AverageTemperature": 26.500812500000002
+    },
+    {
+        "Date": "1909-08-01",
+        "AverageTemperature": 26.290468750000002
+    },
+    {
+        "Date": "1909-09-01",
+        "AverageTemperature": 26.3748125
+    },
+    {
+        "Date": "1909-10-01",
+        "AverageTemperature": 25.98653125
+    },
+    {
+        "Date": "1909-11-01",
+        "AverageTemperature": 25.578781250000002
+    },
+    {
+        "Date": "1909-12-01",
+        "AverageTemperature": 25.0870625
+    },
+    {
+        "Date": "1910-01-01",
+        "AverageTemperature": 25.47253125
+    },
+    {
+        "Date": "1910-02-01",
+        "AverageTemperature": 25.599531250000002
+    },
+    {
+        "Date": "1910-03-01",
+        "AverageTemperature": 25.93371875
+    },
+    {
+        "Date": "1910-04-01",
+        "AverageTemperature": 26.21534375
+    },
+    {
+        "Date": "1910-05-01",
+        "AverageTemperature": 26.60628125
+    },
+    {
+        "Date": "1910-06-01",
+        "AverageTemperature": 26.41703125
+    },
+    {
+        "Date": "1910-07-01",
+        "AverageTemperature": 26.429625
+    },
+    {
+        "Date": "1910-08-01",
+        "AverageTemperature": 26.3984375
+    },
+    {
+        "Date": "1910-09-01",
+        "AverageTemperature": 26.259125
+    },
+    {
+        "Date": "1910-10-01",
+        "AverageTemperature": 25.807468749999998
+    },
+    {
+        "Date": "1910-11-01",
+        "AverageTemperature": 25.50384375
+    },
+    {
+        "Date": "1910-12-01",
+        "AverageTemperature": 25.160375
+    },
+    {
+        "Date": "1911-01-01",
+        "AverageTemperature": 25.3400625
+    },
+    {
+        "Date": "1911-02-01",
+        "AverageTemperature": 25.6546875
+    },
+    {
+        "Date": "1911-03-01",
+        "AverageTemperature": 26.3280625
+    },
+    {
+        "Date": "1911-04-01",
+        "AverageTemperature": 26.49065625
+    },
+    {
+        "Date": "1911-05-01",
+        "AverageTemperature": 26.94190625
+    },
+    {
+        "Date": "1911-06-01",
+        "AverageTemperature": 27.09203125
+    },
+    {
+        "Date": "1911-07-01",
+        "AverageTemperature": 26.7886875
+    },
+    {
+        "Date": "1911-08-01",
+        "AverageTemperature": 26.19065625
+    },
+    {
+        "Date": "1911-09-01",
+        "AverageTemperature": 26.25646875
+    },
+    {
+        "Date": "1911-10-01",
+        "AverageTemperature": 25.7741875
+    },
+    {
+        "Date": "1911-11-01",
+        "AverageTemperature": 25.81821875
+    },
+    {
+        "Date": "1911-12-01",
+        "AverageTemperature": 25.53209375
+    },
+    {
+        "Date": "1912-01-01",
+        "AverageTemperature": 25.83553125
+    },
+    {
+        "Date": "1912-02-01",
+        "AverageTemperature": 26.36778125
+    },
+    {
+        "Date": "1912-03-01",
+        "AverageTemperature": 26.82034375
+    },
+    {
+        "Date": "1912-04-01",
+        "AverageTemperature": 27.157937500000003
+    },
+    {
+        "Date": "1912-05-01",
+        "AverageTemperature": 27.34078125
+    },
+    {
+        "Date": "1912-06-01",
+        "AverageTemperature": 27.08809375
+    },
+    {
+        "Date": "1912-07-01",
+        "AverageTemperature": 26.552500000000002
+    },
+    {
+        "Date": "1912-08-01",
+        "AverageTemperature": 26.268124999999998
+    },
+    {
+        "Date": "1912-09-01",
+        "AverageTemperature": 26.214125
+    },
+    {
+        "Date": "1912-10-01",
+        "AverageTemperature": 25.845718750000003
+    },
+    {
+        "Date": "1912-11-01",
+        "AverageTemperature": 25.429281250000003
+    },
+    {
+        "Date": "1912-12-01",
+        "AverageTemperature": 25.24175
+    },
+    {
+        "Date": "1913-01-01",
+        "AverageTemperature": 25.33259375
+    },
+    {
+        "Date": "1913-02-01",
+        "AverageTemperature": 26.126562500000002
+    },
+    {
+        "Date": "1913-03-01",
+        "AverageTemperature": 26.313625000000002
+    },
+    {
+        "Date": "1913-04-01",
+        "AverageTemperature": 26.35309375
+    },
+    {
+        "Date": "1913-05-01",
+        "AverageTemperature": 26.700125
+    },
+    {
+        "Date": "1913-06-01",
+        "AverageTemperature": 26.612375
+    },
+    {
+        "Date": "1913-07-01",
+        "AverageTemperature": 26.27753125
+    },
+    {
+        "Date": "1913-08-01",
+        "AverageTemperature": 26.3175625
+    },
+    {
+        "Date": "1913-09-01",
+        "AverageTemperature": 26.05625
+    },
+    {
+        "Date": "1913-10-01",
+        "AverageTemperature": 25.655875
+    },
+    {
+        "Date": "1913-11-01",
+        "AverageTemperature": 25.47134375
+    },
+    {
+        "Date": "1913-12-01",
+        "AverageTemperature": 25.2955625
+    },
+    {
+        "Date": "1914-01-01",
+        "AverageTemperature": 25.452375
+    },
+    {
+        "Date": "1914-02-01",
+        "AverageTemperature": 26.2424375
+    },
+    {
+        "Date": "1914-03-01",
+        "AverageTemperature": 26.5220625
+    },
+    {
+        "Date": "1914-04-01",
+        "AverageTemperature": 26.78521875
+    },
+    {
+        "Date": "1914-05-01",
+        "AverageTemperature": 27.69878125
+    },
+    {
+        "Date": "1914-06-01",
+        "AverageTemperature": 26.90178125
+    },
+    {
+        "Date": "1914-07-01",
+        "AverageTemperature": 26.7968125
+    },
+    {
+        "Date": "1914-08-01",
+        "AverageTemperature": 26.5599375
+    },
+    {
+        "Date": "1914-09-01",
+        "AverageTemperature": 26.6531875
+    },
+    {
+        "Date": "1914-10-01",
+        "AverageTemperature": 26.34971875
+    },
+    {
+        "Date": "1914-11-01",
+        "AverageTemperature": 26.4514375
+    },
+    {
+        "Date": "1914-12-01",
+        "AverageTemperature": 26.15921875
+    },
+    {
+        "Date": "1915-01-01",
+        "AverageTemperature": 25.97428125
+    },
+    {
+        "Date": "1915-02-01",
+        "AverageTemperature": 26.772750000000002
+    },
+    {
+        "Date": "1915-03-01",
+        "AverageTemperature": 26.82115625
+    },
+    {
+        "Date": "1915-04-01",
+        "AverageTemperature": 26.995375
+    },
+    {
+        "Date": "1915-05-01",
+        "AverageTemperature": 27.41934375
+    },
+    {
+        "Date": "1915-06-01",
+        "AverageTemperature": 27.42396875
+    },
+    {
+        "Date": "1915-07-01",
+        "AverageTemperature": 26.80296875
+    },
+    {
+        "Date": "1915-08-01",
+        "AverageTemperature": 26.99825
+    },
+    {
+        "Date": "1915-09-01",
+        "AverageTemperature": 26.290875
+    },
+    {
+        "Date": "1915-10-01",
+        "AverageTemperature": 26.073
+    },
+    {
+        "Date": "1915-11-01",
+        "AverageTemperature": 25.803062500000003
+    },
+    {
+        "Date": "1915-12-01",
+        "AverageTemperature": 25.003812500000002
+    },
+    {
+        "Date": "1916-01-01",
+        "AverageTemperature": 25.3551875
+    },
+    {
+        "Date": "1916-02-01",
+        "AverageTemperature": 25.91228125
+    },
+    {
+        "Date": "1916-03-01",
+        "AverageTemperature": 26.18375
+    },
+    {
+        "Date": "1916-04-01",
+        "AverageTemperature": 26.56975
+    },
+    {
+        "Date": "1916-05-01",
+        "AverageTemperature": 26.79028125
+    },
+    {
+        "Date": "1916-06-01",
+        "AverageTemperature": 26.57978125
+    },
+    {
+        "Date": "1916-07-01",
+        "AverageTemperature": 26.05403125
+    },
+    {
+        "Date": "1916-08-01",
+        "AverageTemperature": 26.278375
+    },
+    {
+        "Date": "1916-09-01",
+        "AverageTemperature": 26.16028125
+    },
+    {
+        "Date": "1916-10-01",
+        "AverageTemperature": 25.83740625
+    },
+    {
+        "Date": "1916-11-01",
+        "AverageTemperature": 25.549906250000003
+    },
+    {
+        "Date": "1916-12-01",
+        "AverageTemperature": 25.141718750000003
+    },
+    {
+        "Date": "1917-01-01",
+        "AverageTemperature": 24.9533125
+    },
+    {
+        "Date": "1917-02-01",
+        "AverageTemperature": 25.201531250000002
+    },
+    {
+        "Date": "1917-03-01",
+        "AverageTemperature": 25.8223125
+    },
+    {
+        "Date": "1917-04-01",
+        "AverageTemperature": 26.328343750000002
+    },
+    {
+        "Date": "1917-05-01",
+        "AverageTemperature": 26.19934375
+    },
+    {
+        "Date": "1917-06-01",
+        "AverageTemperature": 26.53028125
+    },
+    {
+        "Date": "1917-07-01",
+        "AverageTemperature": 26.480531250000002
+    },
+    {
+        "Date": "1917-08-01",
+        "AverageTemperature": 26.115375
+    },
+    {
+        "Date": "1917-09-01",
+        "AverageTemperature": 26.030531250000003
+    },
+    {
+        "Date": "1917-10-01",
+        "AverageTemperature": 25.57621875
+    },
+    {
+        "Date": "1917-11-01",
+        "AverageTemperature": 25.46940625
+    },
+    {
+        "Date": "1917-12-01",
+        "AverageTemperature": 24.9421875
+    },
+    {
+        "Date": "1918-01-01",
+        "AverageTemperature": 24.12571875
+    },
+    {
+        "Date": "1918-02-01",
+        "AverageTemperature": 24.91184375
+    },
+    {
+        "Date": "1918-03-01",
+        "AverageTemperature": 25.978
+    },
+    {
+        "Date": "1918-04-01",
+        "AverageTemperature": 25.94471875
+    },
+    {
+        "Date": "1918-05-01",
+        "AverageTemperature": 26.46471875
+    },
+    {
+        "Date": "1918-06-01",
+        "AverageTemperature": 26.1875
+    },
+    {
+        "Date": "1918-07-01",
+        "AverageTemperature": 26.74915625
+    },
+    {
+        "Date": "1918-08-01",
+        "AverageTemperature": 26.4691875
+    },
+    {
+        "Date": "1918-09-01",
+        "AverageTemperature": 26.3756875
+    },
+    {
+        "Date": "1918-10-01",
+        "AverageTemperature": 26.0265
+    },
+    {
+        "Date": "1918-11-01",
+        "AverageTemperature": 26.0195
+    },
+    {
+        "Date": "1918-12-01",
+        "AverageTemperature": 25.55053125
+    },
+    {
+        "Date": "1919-01-01",
+        "AverageTemperature": 25.94325
+    },
+    {
+        "Date": "1919-02-01",
+        "AverageTemperature": 26.44340625
+    },
+    {
+        "Date": "1919-03-01",
+        "AverageTemperature": 26.78046875
+    },
+    {
+        "Date": "1919-04-01",
+        "AverageTemperature": 26.87590625
+    },
+    {
+        "Date": "1919-05-01",
+        "AverageTemperature": 27.176000000000002
+    },
+    {
+        "Date": "1919-06-01",
+        "AverageTemperature": 27.11171875
+    },
+    {
+        "Date": "1919-07-01",
+        "AverageTemperature": 26.4631875
+    },
+    {
+        "Date": "1919-08-01",
+        "AverageTemperature": 26.77971875
+    },
+    {
+        "Date": "1919-09-01",
+        "AverageTemperature": 26.25325
+    },
+    {
+        "Date": "1919-10-01",
+        "AverageTemperature": 25.93671875
+    },
+    {
+        "Date": "1919-11-01",
+        "AverageTemperature": 25.7748125
+    },
+    {
+        "Date": "1919-12-01",
+        "AverageTemperature": 25.46371875
+    },
+    {
+        "Date": "1920-01-01",
+        "AverageTemperature": 25.29059375
+    },
+    {
+        "Date": "1920-02-01",
+        "AverageTemperature": 26.06621875
+    },
+    {
+        "Date": "1920-03-01",
+        "AverageTemperature": 26.5193125
+    },
+    {
+        "Date": "1920-04-01",
+        "AverageTemperature": 26.640812500000003
+    },
+    {
+        "Date": "1920-05-01",
+        "AverageTemperature": 26.9873125
+    },
+    {
+        "Date": "1920-06-01",
+        "AverageTemperature": 26.90821875
+    },
+    {
+        "Date": "1920-07-01",
+        "AverageTemperature": 26.77115625
+    },
+    {
+        "Date": "1920-08-01",
+        "AverageTemperature": 26.27825
+    },
+    {
+        "Date": "1920-09-01",
+        "AverageTemperature": 26.24309375
+    },
+    {
+        "Date": "1920-10-01",
+        "AverageTemperature": 25.756125
+    },
+    {
+        "Date": "1920-11-01",
+        "AverageTemperature": 26.059125
+    },
+    {
+        "Date": "1920-12-01",
+        "AverageTemperature": 25.76690625
+    },
+    {
+        "Date": "1921-01-01",
+        "AverageTemperature": 25.34909375
+    },
+    {
+        "Date": "1921-02-01",
+        "AverageTemperature": 25.732625000000002
+    },
+    {
+        "Date": "1921-03-01",
+        "AverageTemperature": 26.03890625
+    },
+    {
+        "Date": "1921-04-01",
+        "AverageTemperature": 26.58603125
+    },
+    {
+        "Date": "1921-05-01",
+        "AverageTemperature": 26.718375
+    },
+    {
+        "Date": "1921-06-01",
+        "AverageTemperature": 26.735875
+    },
+    {
+        "Date": "1921-07-01",
+        "AverageTemperature": 26.480875
+    },
+    {
+        "Date": "1921-08-01",
+        "AverageTemperature": 26.54440625
+    },
+    {
+        "Date": "1921-09-01",
+        "AverageTemperature": 25.997531249999998
+    },
+    {
+        "Date": "1921-10-01",
+        "AverageTemperature": 25.8825625
+    },
+    {
+        "Date": "1921-11-01",
+        "AverageTemperature": 25.6395
+    },
+    {
+        "Date": "1921-12-01",
+        "AverageTemperature": 25.707531250000002
+    },
+    {
+        "Date": "1922-01-01",
+        "AverageTemperature": 25.966562500000002
+    },
+    {
+        "Date": "1922-02-01",
+        "AverageTemperature": 25.998625
+    },
+    {
+        "Date": "1922-03-01",
+        "AverageTemperature": 25.8636875
+    },
+    {
+        "Date": "1922-04-01",
+        "AverageTemperature": 26.5018125
+    },
+    {
+        "Date": "1922-05-01",
+        "AverageTemperature": 26.71884375
+    },
+    {
+        "Date": "1922-06-01",
+        "AverageTemperature": 26.61025
+    },
+    {
+        "Date": "1922-07-01",
+        "AverageTemperature": 26.483249999999998
+    },
+    {
+        "Date": "1922-08-01",
+        "AverageTemperature": 26.24703125
+    },
+    {
+        "Date": "1922-09-01",
+        "AverageTemperature": 26.272625
+    },
+    {
+        "Date": "1922-10-01",
+        "AverageTemperature": 25.91275
+    },
+    {
+        "Date": "1922-11-01",
+        "AverageTemperature": 25.99740625
+    },
+    {
+        "Date": "1922-12-01",
+        "AverageTemperature": 25.62215625
+    },
+    {
+        "Date": "1923-01-01",
+        "AverageTemperature": 25.306843750000002
+    },
+    {
+        "Date": "1923-02-01",
+        "AverageTemperature": 25.8570625
+    },
+    {
+        "Date": "1923-03-01",
+        "AverageTemperature": 25.9545625
+    },
+    {
+        "Date": "1923-04-01",
+        "AverageTemperature": 26.53478125
+    },
+    {
+        "Date": "1923-05-01",
+        "AverageTemperature": 26.6975
+    },
+    {
+        "Date": "1923-06-01",
+        "AverageTemperature": 26.9750625
+    },
+    {
+        "Date": "1923-07-01",
+        "AverageTemperature": 26.178875
+    },
+    {
+        "Date": "1923-08-01",
+        "AverageTemperature": 26.2489375
+    },
+    {
+        "Date": "1923-09-01",
+        "AverageTemperature": 26.07090625
+    },
+    {
+        "Date": "1923-10-01",
+        "AverageTemperature": 26.15559375
+    },
+    {
+        "Date": "1923-11-01",
+        "AverageTemperature": 26.02578125
+    },
+    {
+        "Date": "1923-12-01",
+        "AverageTemperature": 25.931125
+    },
+    {
+        "Date": "1924-01-01",
+        "AverageTemperature": 25.868125
+    },
+    {
+        "Date": "1924-02-01",
+        "AverageTemperature": 26.2645
+    },
+    {
+        "Date": "1924-03-01",
+        "AverageTemperature": 26.36478125
+    },
+    {
+        "Date": "1924-04-01",
+        "AverageTemperature": 26.67015625
+    },
+    {
+        "Date": "1924-05-01",
+        "AverageTemperature": 26.898812500000002
+    },
+    {
+        "Date": "1924-06-01",
+        "AverageTemperature": 26.69878125
+    },
+    {
+        "Date": "1924-07-01",
+        "AverageTemperature": 26.72575
+    },
+    {
+        "Date": "1924-08-01",
+        "AverageTemperature": 26.76471875
+    },
+    {
+        "Date": "1924-09-01",
+        "AverageTemperature": 26.295437500000002
+    },
+    {
+        "Date": "1924-10-01",
+        "AverageTemperature": 25.8799375
+    },
+    {
+        "Date": "1924-11-01",
+        "AverageTemperature": 25.618375
+    },
+    {
+        "Date": "1924-12-01",
+        "AverageTemperature": 25.17665625
+    },
+    {
+        "Date": "1925-01-01",
+        "AverageTemperature": 25.543
+    },
+    {
+        "Date": "1925-02-01",
+        "AverageTemperature": 25.4320625
+    },
+    {
+        "Date": "1925-03-01",
+        "AverageTemperature": 25.8128125
+    },
+    {
+        "Date": "1925-04-01",
+        "AverageTemperature": 26.3295625
+    },
+    {
+        "Date": "1925-05-01",
+        "AverageTemperature": 27.0205
+    },
+    {
+        "Date": "1925-06-01",
+        "AverageTemperature": 26.69440625
+    },
+    {
+        "Date": "1925-07-01",
+        "AverageTemperature": 26.389312500000003
+    },
+    {
+        "Date": "1925-08-01",
+        "AverageTemperature": 26.3428125
+    },
+    {
+        "Date": "1925-09-01",
+        "AverageTemperature": 26.3000625
+    },
+    {
+        "Date": "1925-10-01",
+        "AverageTemperature": 25.844
+    },
+    {
+        "Date": "1925-11-01",
+        "AverageTemperature": 25.89965625
+    },
+    {
+        "Date": "1925-12-01",
+        "AverageTemperature": 25.3684375
+    },
+    {
+        "Date": "1926-01-01",
+        "AverageTemperature": 25.40225
+    },
+    {
+        "Date": "1926-02-01",
+        "AverageTemperature": 26.2816875
+    },
+    {
+        "Date": "1926-03-01",
+        "AverageTemperature": 26.78275
+    },
+    {
+        "Date": "1926-04-01",
+        "AverageTemperature": 27.3205625
+    },
+    {
+        "Date": "1926-05-01",
+        "AverageTemperature": 27.51790625
+    },
+    {
+        "Date": "1926-06-01",
+        "AverageTemperature": 27.08653125
+    },
+    {
+        "Date": "1926-07-01",
+        "AverageTemperature": 26.7745
+    },
+    {
+        "Date": "1926-08-01",
+        "AverageTemperature": 26.668
+    },
+    {
+        "Date": "1926-09-01",
+        "AverageTemperature": 26.3145625
+    },
+    {
+        "Date": "1926-10-01",
+        "AverageTemperature": 26.216749999999998
+    },
+    {
+        "Date": "1926-11-01",
+        "AverageTemperature": 26.19421875
+    },
+    {
+        "Date": "1926-12-01",
+        "AverageTemperature": 25.555812500000002
+    },
+    {
+        "Date": "1927-01-01",
+        "AverageTemperature": 25.71309375
+    },
+    {
+        "Date": "1927-02-01",
+        "AverageTemperature": 26.122468750000003
+    },
+    {
+        "Date": "1927-03-01",
+        "AverageTemperature": 26.552062499999998
+    },
+    {
+        "Date": "1927-04-01",
+        "AverageTemperature": 26.48928125
+    },
+    {
+        "Date": "1927-05-01",
+        "AverageTemperature": 26.7976875
+    },
+    {
+        "Date": "1927-06-01",
+        "AverageTemperature": 26.674500000000002
+    },
+    {
+        "Date": "1927-07-01",
+        "AverageTemperature": 26.74846875
+    },
+    {
+        "Date": "1927-08-01",
+        "AverageTemperature": 26.665468750000002
+    },
+    {
+        "Date": "1927-09-01",
+        "AverageTemperature": 26.3238125
+    },
+    {
+        "Date": "1927-10-01",
+        "AverageTemperature": 25.98525
+    },
+    {
+        "Date": "1927-11-01",
+        "AverageTemperature": 26.09934375
+    },
+    {
+        "Date": "1927-12-01",
+        "AverageTemperature": 26.04128125
+    },
+    {
+        "Date": "1928-01-01",
+        "AverageTemperature": 26.0918125
+    },
+    {
+        "Date": "1928-02-01",
+        "AverageTemperature": 26.20134375
+    },
+    {
+        "Date": "1928-03-01",
+        "AverageTemperature": 26.47496875
+    },
+    {
+        "Date": "1928-04-01",
+        "AverageTemperature": 26.49934375
+    },
+    {
+        "Date": "1928-05-01",
+        "AverageTemperature": 27.0800625
+    },
+    {
+        "Date": "1928-06-01",
+        "AverageTemperature": 26.8294375
+    },
+    {
+        "Date": "1928-07-01",
+        "AverageTemperature": 26.72278125
+    },
+    {
+        "Date": "1928-08-01",
+        "AverageTemperature": 26.549062499999998
+    },
+    {
+        "Date": "1928-09-01",
+        "AverageTemperature": 26.55565625
+    },
+    {
+        "Date": "1928-10-01",
+        "AverageTemperature": 26.06671875
+    },
+    {
+        "Date": "1928-11-01",
+        "AverageTemperature": 25.8350625
+    },
+    {
+        "Date": "1928-12-01",
+        "AverageTemperature": 25.7074375
+    },
+    {
+        "Date": "1929-01-01",
+        "AverageTemperature": 25.68953125
+    },
+    {
+        "Date": "1929-02-01",
+        "AverageTemperature": 26.0125
+    },
+    {
+        "Date": "1929-03-01",
+        "AverageTemperature": 26.07275
+    },
+    {
+        "Date": "1929-04-01",
+        "AverageTemperature": 26.662375
+    },
+    {
+        "Date": "1929-05-01",
+        "AverageTemperature": 27.00375
+    },
+    {
+        "Date": "1929-06-01",
+        "AverageTemperature": 26.61840625
+    },
+    {
+        "Date": "1929-07-01",
+        "AverageTemperature": 26.735875
+    },
+    {
+        "Date": "1929-08-01",
+        "AverageTemperature": 26.8855
+    },
+    {
+        "Date": "1929-09-01",
+        "AverageTemperature": 26.5384375
+    },
+    {
+        "Date": "1929-10-01",
+        "AverageTemperature": 26.239875
+    },
+    {
+        "Date": "1929-11-01",
+        "AverageTemperature": 26.00471875
+    },
+    {
+        "Date": "1929-12-01",
+        "AverageTemperature": 26.030125
+    },
+    {
+        "Date": "1930-01-01",
+        "AverageTemperature": 26.08003125
+    },
+    {
+        "Date": "1930-02-01",
+        "AverageTemperature": 26.41909375
+    },
+    {
+        "Date": "1930-03-01",
+        "AverageTemperature": 26.87265625
+    },
+    {
+        "Date": "1930-04-01",
+        "AverageTemperature": 27.01478125
+    },
+    {
+        "Date": "1930-05-01",
+        "AverageTemperature": 27.21546875
+    },
+    {
+        "Date": "1930-06-01",
+        "AverageTemperature": 26.77
+    },
+    {
+        "Date": "1930-07-01",
+        "AverageTemperature": 27.20715625
+    },
+    {
+        "Date": "1930-08-01",
+        "AverageTemperature": 27.02471875
+    },
+    {
+        "Date": "1930-09-01",
+        "AverageTemperature": 26.731375
+    },
+    {
+        "Date": "1930-10-01",
+        "AverageTemperature": 26.213124999999998
+    },
+    {
+        "Date": "1930-11-01",
+        "AverageTemperature": 26.23690625
+    },
+    {
+        "Date": "1930-12-01",
+        "AverageTemperature": 26.1299375
+    },
+    {
+        "Date": "1931-01-01",
+        "AverageTemperature": 26.104125
+    },
+    {
+        "Date": "1931-02-01",
+        "AverageTemperature": 26.868156250000002
+    },
+    {
+        "Date": "1931-03-01",
+        "AverageTemperature": 27.32671875
+    },
+    {
+        "Date": "1931-04-01",
+        "AverageTemperature": 27.26725
+    },
+    {
+        "Date": "1931-05-01",
+        "AverageTemperature": 27.6685
+    },
+    {
+        "Date": "1931-06-01",
+        "AverageTemperature": 27.22778125
+    },
+    {
+        "Date": "1931-07-01",
+        "AverageTemperature": 26.692968750000002
+    },
+    {
+        "Date": "1931-08-01",
+        "AverageTemperature": 27.25396875
+    },
+    {
+        "Date": "1931-09-01",
+        "AverageTemperature": 26.6254375
+    },
+    {
+        "Date": "1931-10-01",
+        "AverageTemperature": 26.2733125
+    },
+    {
+        "Date": "1931-11-01",
+        "AverageTemperature": 26.00815625
+    },
+    {
+        "Date": "1931-12-01",
+        "AverageTemperature": 25.62415625
+    },
+    {
+        "Date": "1932-01-01",
+        "AverageTemperature": 25.431562500000002
+    },
+    {
+        "Date": "1932-02-01",
+        "AverageTemperature": 26.15325
+    },
+    {
+        "Date": "1932-03-01",
+        "AverageTemperature": 26.3219375
+    },
+    {
+        "Date": "1932-04-01",
+        "AverageTemperature": 26.638
+    },
+    {
+        "Date": "1932-05-01",
+        "AverageTemperature": 27.15575
+    },
+    {
+        "Date": "1932-06-01",
+        "AverageTemperature": 26.92171875
+    },
+    {
+        "Date": "1932-07-01",
+        "AverageTemperature": 26.71765625
+    },
+    {
+        "Date": "1932-08-01",
+        "AverageTemperature": 26.75340625
+    },
+    {
+        "Date": "1932-09-01",
+        "AverageTemperature": 26.54459375
+    },
+    {
+        "Date": "1932-10-01",
+        "AverageTemperature": 26.2791875
+    },
+    {
+        "Date": "1932-11-01",
+        "AverageTemperature": 25.973625
+    },
+    {
+        "Date": "1932-12-01",
+        "AverageTemperature": 25.7385625
+    },
+    {
+        "Date": "1933-01-01",
+        "AverageTemperature": 25.798375
+    },
+    {
+        "Date": "1933-02-01",
+        "AverageTemperature": 26.05678125
+    },
+    {
+        "Date": "1933-03-01",
+        "AverageTemperature": 26.46128125
+    },
+    {
+        "Date": "1933-04-01",
+        "AverageTemperature": 26.55509375
+    },
+    {
+        "Date": "1933-05-01",
+        "AverageTemperature": 27.2709375
+    },
+    {
+        "Date": "1933-06-01",
+        "AverageTemperature": 27.05096875
+    },
+    {
+        "Date": "1933-07-01",
+        "AverageTemperature": 26.62165625
+    },
+    {
+        "Date": "1933-08-01",
+        "AverageTemperature": 26.82534375
+    },
+    {
+        "Date": "1933-09-01",
+        "AverageTemperature": 26.49171875
+    },
+    {
+        "Date": "1933-10-01",
+        "AverageTemperature": 26.01525
+    },
+    {
+        "Date": "1933-11-01",
+        "AverageTemperature": 25.84815625
+    },
+    {
+        "Date": "1933-12-01",
+        "AverageTemperature": 25.482187500000002
+    },
+    {
+        "Date": "1934-01-01",
+        "AverageTemperature": 25.169875
+    },
+    {
+        "Date": "1934-02-01",
+        "AverageTemperature": 25.4086875
+    },
+    {
+        "Date": "1934-03-01",
+        "AverageTemperature": 25.88290625
+    },
+    {
+        "Date": "1934-04-01",
+        "AverageTemperature": 26.4216875
+    },
+    {
+        "Date": "1934-05-01",
+        "AverageTemperature": 26.9835625
+    },
+    {
+        "Date": "1934-06-01",
+        "AverageTemperature": 26.7405625
+    },
+    {
+        "Date": "1934-07-01",
+        "AverageTemperature": 26.83578125
+    },
+    {
+        "Date": "1934-08-01",
+        "AverageTemperature": 26.579437499999997
+    },
+    {
+        "Date": "1934-09-01",
+        "AverageTemperature": 26.5653125
+    },
+    {
+        "Date": "1934-10-01",
+        "AverageTemperature": 26.142781250000002
+    },
+    {
+        "Date": "1934-11-01",
+        "AverageTemperature": 25.815531250000003
+    },
+    {
+        "Date": "1934-12-01",
+        "AverageTemperature": 25.58715625
+    },
+    {
+        "Date": "1935-01-01",
+        "AverageTemperature": 25.762312500000004
+    },
+    {
+        "Date": "1935-02-01",
+        "AverageTemperature": 26.2438125
+    },
+    {
+        "Date": "1935-03-01",
+        "AverageTemperature": 26.72290625
+    },
+    {
+        "Date": "1935-04-01",
+        "AverageTemperature": 26.69775
+    },
+    {
+        "Date": "1935-05-01",
+        "AverageTemperature": 26.9526875
+    },
+    {
+        "Date": "1935-06-01",
+        "AverageTemperature": 26.65846875
+    },
+    {
+        "Date": "1935-07-01",
+        "AverageTemperature": 26.793375
+    },
+    {
+        "Date": "1935-08-01",
+        "AverageTemperature": 26.53503125
+    },
+    {
+        "Date": "1935-09-01",
+        "AverageTemperature": 26.62828125
+    },
+    {
+        "Date": "1935-10-01",
+        "AverageTemperature": 26.2593125
+    },
+    {
+        "Date": "1935-11-01",
+        "AverageTemperature": 26.127750000000002
+    },
+    {
+        "Date": "1935-12-01",
+        "AverageTemperature": 25.904625
+    },
+    {
+        "Date": "1936-01-01",
+        "AverageTemperature": 25.645781250000002
+    },
+    {
+        "Date": "1936-02-01",
+        "AverageTemperature": 26.5208125
+    },
+    {
+        "Date": "1936-03-01",
+        "AverageTemperature": 26.45534375
+    },
+    {
+        "Date": "1936-04-01",
+        "AverageTemperature": 26.989218750000003
+    },
+    {
+        "Date": "1936-05-01",
+        "AverageTemperature": 27.17240625
+    },
+    {
+        "Date": "1936-06-01",
+        "AverageTemperature": 26.820625
+    },
+    {
+        "Date": "1936-07-01",
+        "AverageTemperature": 26.801875
+    },
+    {
+        "Date": "1936-08-01",
+        "AverageTemperature": 26.55296875
+    },
+    {
+        "Date": "1936-09-01",
+        "AverageTemperature": 26.6605
+    },
+    {
+        "Date": "1936-10-01",
+        "AverageTemperature": 26.089375
+    },
+    {
+        "Date": "1936-11-01",
+        "AverageTemperature": 26.06615625
+    },
+    {
+        "Date": "1936-12-01",
+        "AverageTemperature": 26.10603125
+    },
+    {
+        "Date": "1937-01-01",
+        "AverageTemperature": 25.97609375
+    },
+    {
+        "Date": "1937-02-01",
+        "AverageTemperature": 26.549625000000002
+    },
+    {
+        "Date": "1937-03-01",
+        "AverageTemperature": 27.1376875
+    },
+    {
+        "Date": "1937-04-01",
+        "AverageTemperature": 26.96965625
+    },
+    {
+        "Date": "1937-05-01",
+        "AverageTemperature": 27.0349375
+    },
+    {
+        "Date": "1937-06-01",
+        "AverageTemperature": 27.268531250000002
+    },
+    {
+        "Date": "1937-07-01",
+        "AverageTemperature": 26.8448125
+    },
+    {
+        "Date": "1937-08-01",
+        "AverageTemperature": 27.05678125
+    },
+    {
+        "Date": "1937-09-01",
+        "AverageTemperature": 26.68353125
+    },
+    {
+        "Date": "1937-10-01",
+        "AverageTemperature": 26.1849375
+    },
+    {
+        "Date": "1937-11-01",
+        "AverageTemperature": 26.364
+    },
+    {
+        "Date": "1937-12-01",
+        "AverageTemperature": 25.653875
+    },
+    {
+        "Date": "1938-01-01",
+        "AverageTemperature": 25.92403125
+    },
+    {
+        "Date": "1938-02-01",
+        "AverageTemperature": 26.65078125
+    },
+    {
+        "Date": "1938-03-01",
+        "AverageTemperature": 26.488812499999998
+    },
+    {
+        "Date": "1938-04-01",
+        "AverageTemperature": 26.88975
+    },
+    {
+        "Date": "1938-05-01",
+        "AverageTemperature": 27.07965625
+    },
+    {
+        "Date": "1938-06-01",
+        "AverageTemperature": 27.0466875
+    },
+    {
+        "Date": "1938-07-01",
+        "AverageTemperature": 26.934875
+    },
+    {
+        "Date": "1938-08-01",
+        "AverageTemperature": 26.49875
+    },
+    {
+        "Date": "1938-09-01",
+        "AverageTemperature": 26.5603125
+    },
+    {
+        "Date": "1938-10-01",
+        "AverageTemperature": 26.34296875
+    },
+    {
+        "Date": "1938-11-01",
+        "AverageTemperature": 26.028593750000002
+    },
+    {
+        "Date": "1938-12-01",
+        "AverageTemperature": 25.63740625
+    },
+    {
+        "Date": "1939-01-01",
+        "AverageTemperature": 25.624312500000002
+    },
+    {
+        "Date": "1939-02-01",
+        "AverageTemperature": 25.7899375
+    },
+    {
+        "Date": "1939-03-01",
+        "AverageTemperature": 26.53925
+    },
+    {
+        "Date": "1939-04-01",
+        "AverageTemperature": 26.713625
+    },
+    {
+        "Date": "1939-05-01",
+        "AverageTemperature": 27.01759375
+    },
+    {
+        "Date": "1939-06-01",
+        "AverageTemperature": 26.89446875
+    },
+    {
+        "Date": "1939-07-01",
+        "AverageTemperature": 27.19828125
+    },
+    {
+        "Date": "1939-08-01",
+        "AverageTemperature": 27.040375
+    },
+    {
+        "Date": "1939-09-01",
+        "AverageTemperature": 26.42546875
+    },
+    {
+        "Date": "1939-10-01",
+        "AverageTemperature": 26.04815625
+    },
+    {
+        "Date": "1939-11-01",
+        "AverageTemperature": 26.34275
+    },
+    {
+        "Date": "1939-12-01",
+        "AverageTemperature": 25.6616875
+    },
+    {
+        "Date": "1940-01-01",
+        "AverageTemperature": 25.7116875
+    },
+    {
+        "Date": "1940-02-01",
+        "AverageTemperature": 26.04021875
+    },
+    {
+        "Date": "1940-03-01",
+        "AverageTemperature": 27.078125
+    },
+    {
+        "Date": "1940-04-01",
+        "AverageTemperature": 27.4093125
+    },
+    {
+        "Date": "1940-05-01",
+        "AverageTemperature": 27.5415
+    },
+    {
+        "Date": "1940-06-01",
+        "AverageTemperature": 27.3826875
+    },
+    {
+        "Date": "1940-07-01",
+        "AverageTemperature": 27.22596875
+    },
+    {
+        "Date": "1940-08-01",
+        "AverageTemperature": 26.633781250000002
+    },
+    {
+        "Date": "1940-09-01",
+        "AverageTemperature": 26.6478125
+    },
+    {
+        "Date": "1940-10-01",
+        "AverageTemperature": 26.634531250000002
+    },
+    {
+        "Date": "1940-11-01",
+        "AverageTemperature": 26.402781250000004
+    },
+    {
+        "Date": "1940-12-01",
+        "AverageTemperature": 26.150875
+    },
+    {
+        "Date": "1941-01-01",
+        "AverageTemperature": 26.392125
+    },
+    {
+        "Date": "1941-02-01",
+        "AverageTemperature": 26.84028125
+    },
+    {
+        "Date": "1941-03-01",
+        "AverageTemperature": 27.45865625
+    },
+    {
+        "Date": "1941-04-01",
+        "AverageTemperature": 27.68490625
+    },
+    {
+        "Date": "1941-05-01",
+        "AverageTemperature": 28.03715625
+    },
+    {
+        "Date": "1941-06-01",
+        "AverageTemperature": 27.98725
+    },
+    {
+        "Date": "1941-07-01",
+        "AverageTemperature": 27.288531250000002
+    },
+    {
+        "Date": "1941-08-01",
+        "AverageTemperature": 27.20009375
+    },
+    {
+        "Date": "1941-09-01",
+        "AverageTemperature": 26.829406249999998
+    },
+    {
+        "Date": "1941-10-01",
+        "AverageTemperature": 26.87428125
+    },
+    {
+        "Date": "1941-11-01",
+        "AverageTemperature": 26.782875
+    },
+    {
+        "Date": "1941-12-01",
+        "AverageTemperature": 26.4850625
+    },
+    {
+        "Date": "1942-01-01",
+        "AverageTemperature": 26.3114375
+    },
+    {
+        "Date": "1942-02-01",
+        "AverageTemperature": 27.35546875
+    },
+    {
+        "Date": "1942-03-01",
+        "AverageTemperature": 27.81490625
+    },
+    {
+        "Date": "1942-04-01",
+        "AverageTemperature": 27.20234375
+    },
+    {
+        "Date": "1942-05-01",
+        "AverageTemperature": 27.55353125
+    },
+    {
+        "Date": "1942-06-01",
+        "AverageTemperature": 27.48525
+    },
+    {
+        "Date": "1942-07-01",
+        "AverageTemperature": 26.81028125
+    },
+    {
+        "Date": "1942-08-01",
+        "AverageTemperature": 26.4733125
+    },
+    {
+        "Date": "1942-09-01",
+        "AverageTemperature": 26.15434375
+    },
+    {
+        "Date": "1942-10-01",
+        "AverageTemperature": 26.39234375
+    },
+    {
+        "Date": "1942-11-01",
+        "AverageTemperature": 26.09528125
+    },
+    {
+        "Date": "1942-12-01",
+        "AverageTemperature": 26.07440625
+    },
+    {
+        "Date": "1943-01-01",
+        "AverageTemperature": 25.532218750000002
+    },
+    {
+        "Date": "1943-02-01",
+        "AverageTemperature": 26.345031249999998
+    },
+    {
+        "Date": "1943-03-01",
+        "AverageTemperature": 26.75365625
+    },
+    {
+        "Date": "1943-04-01",
+        "AverageTemperature": 26.521375000000003
+    },
+    {
+        "Date": "1943-05-01",
+        "AverageTemperature": 26.99778125
+    },
+    {
+        "Date": "1943-06-01",
+        "AverageTemperature": 26.764625
+    },
+    {
+        "Date": "1943-07-01",
+        "AverageTemperature": 26.938937499999998
+    },
+    {
+        "Date": "1943-08-01",
+        "AverageTemperature": 26.851625
+    },
+    {
+        "Date": "1943-09-01",
+        "AverageTemperature": 26.4686875
+    },
+    {
+        "Date": "1943-10-01",
+        "AverageTemperature": 26.0345625
+    },
+    {
+        "Date": "1943-11-01",
+        "AverageTemperature": 25.765
+    },
+    {
+        "Date": "1943-12-01",
+        "AverageTemperature": 25.5174375
+    },
+    {
+        "Date": "1944-01-01",
+        "AverageTemperature": 26.10434375
+    },
+    {
+        "Date": "1944-02-01",
+        "AverageTemperature": 26.40584375
+    },
+    {
+        "Date": "1944-03-01",
+        "AverageTemperature": 26.52040625
+    },
+    {
+        "Date": "1944-04-01",
+        "AverageTemperature": 26.80178125
+    },
+    {
+        "Date": "1944-05-01",
+        "AverageTemperature": 27.31809375
+    },
+    {
+        "Date": "1944-06-01",
+        "AverageTemperature": 26.912375
+    },
+    {
+        "Date": "1944-07-01",
+        "AverageTemperature": 26.6334375
+    },
+    {
+        "Date": "1944-08-01",
+        "AverageTemperature": 26.6745625
+    },
+    {
+        "Date": "1944-09-01",
+        "AverageTemperature": 26.464593750000002
+    },
+    {
+        "Date": "1944-10-01",
+        "AverageTemperature": 26.38403125
+    },
+    {
+        "Date": "1944-11-01",
+        "AverageTemperature": 26.60521875
+    },
+    {
+        "Date": "1944-12-01",
+        "AverageTemperature": 25.526656250000002
+    },
+    {
+        "Date": "1945-01-01",
+        "AverageTemperature": 25.96778125
+    },
+    {
+        "Date": "1945-02-01",
+        "AverageTemperature": 26.1694375
+    },
+    {
+        "Date": "1945-03-01",
+        "AverageTemperature": 26.7045625
+    },
+    {
+        "Date": "1945-04-01",
+        "AverageTemperature": 26.968875
+    },
+    {
+        "Date": "1945-05-01",
+        "AverageTemperature": 27.09684375
+    },
+    {
+        "Date": "1945-06-01",
+        "AverageTemperature": 26.8881875
+    },
+    {
+        "Date": "1945-07-01",
+        "AverageTemperature": 26.919875
+    },
+    {
+        "Date": "1945-08-01",
+        "AverageTemperature": 27.3303125
+    },
+    {
+        "Date": "1945-09-01",
+        "AverageTemperature": 26.59296875
+    },
+    {
+        "Date": "1945-10-01",
+        "AverageTemperature": 26.0094375
+    },
+    {
+        "Date": "1945-11-01",
+        "AverageTemperature": 26.4520625
+    },
+    {
+        "Date": "1945-12-01",
+        "AverageTemperature": 25.742375000000003
+    },
+    {
+        "Date": "1946-01-01",
+        "AverageTemperature": 25.928
+    },
+    {
+        "Date": "1946-02-01",
+        "AverageTemperature": 26.58675
+    },
+    {
+        "Date": "1946-03-01",
+        "AverageTemperature": 26.803250000000002
+    },
+    {
+        "Date": "1946-04-01",
+        "AverageTemperature": 27.06971875
+    },
+    {
+        "Date": "1946-05-01",
+        "AverageTemperature": 26.97040625
+    },
+    {
+        "Date": "1946-06-01",
+        "AverageTemperature": 27.360125
+    },
+    {
+        "Date": "1946-07-01",
+        "AverageTemperature": 27.28834375
+    },
+    {
+        "Date": "1946-08-01",
+        "AverageTemperature": 27.008375
+    },
+    {
+        "Date": "1946-09-01",
+        "AverageTemperature": 26.54084375
+    },
+    {
+        "Date": "1946-10-01",
+        "AverageTemperature": 26.46559375
+    },
+    {
+        "Date": "1946-11-01",
+        "AverageTemperature": 26.71696875
+    },
+    {
+        "Date": "1946-12-01",
+        "AverageTemperature": 26.21325
+    },
+    {
+        "Date": "1947-01-01",
+        "AverageTemperature": 26.697
+    },
+    {
+        "Date": "1947-02-01",
+        "AverageTemperature": 26.571375
+    },
+    {
+        "Date": "1947-03-01",
+        "AverageTemperature": 27.02246875
+    },
+    {
+        "Date": "1947-04-01",
+        "AverageTemperature": 27.05340625
+    },
+    {
+        "Date": "1947-05-01",
+        "AverageTemperature": 27.414125000000002
+    },
+    {
+        "Date": "1947-06-01",
+        "AverageTemperature": 27.2876875
+    },
+    {
+        "Date": "1947-07-01",
+        "AverageTemperature": 27.075625
+    },
+    {
+        "Date": "1947-08-01",
+        "AverageTemperature": 27.042625
+    },
+    {
+        "Date": "1947-09-01",
+        "AverageTemperature": 26.844906249999998
+    },
+    {
+        "Date": "1947-10-01",
+        "AverageTemperature": 26.66728125
+    },
+    {
+        "Date": "1947-11-01",
+        "AverageTemperature": 26.32459375
+    },
+    {
+        "Date": "1947-12-01",
+        "AverageTemperature": 25.79759375
+    },
+    {
+        "Date": "1948-01-01",
+        "AverageTemperature": 25.8160625
+    },
+    {
+        "Date": "1948-02-01",
+        "AverageTemperature": 26.3288125
+    },
+    {
+        "Date": "1948-03-01",
+        "AverageTemperature": 26.75978125
+    },
+    {
+        "Date": "1948-04-01",
+        "AverageTemperature": 27.17565625
+    },
+    {
+        "Date": "1948-05-01",
+        "AverageTemperature": 27.439468750000003
+    },
+    {
+        "Date": "1948-06-01",
+        "AverageTemperature": 27.311687499999998
+    },
+    {
+        "Date": "1948-07-01",
+        "AverageTemperature": 26.93
+    },
+    {
+        "Date": "1948-08-01",
+        "AverageTemperature": 26.89740625
+    },
+    {
+        "Date": "1948-09-01",
+        "AverageTemperature": 26.54878125
+    },
+    {
+        "Date": "1948-10-01",
+        "AverageTemperature": 26.4313125
+    },
+    {
+        "Date": "1948-11-01",
+        "AverageTemperature": 25.920125000000002
+    },
+    {
+        "Date": "1948-12-01",
+        "AverageTemperature": 26.24459375
+    },
+    {
+        "Date": "1949-01-01",
+        "AverageTemperature": 26.21121875
+    },
+    {
+        "Date": "1949-02-01",
+        "AverageTemperature": 26.392125
+    },
+    {
+        "Date": "1949-03-01",
+        "AverageTemperature": 26.97521875
+    },
+    {
+        "Date": "1949-04-01",
+        "AverageTemperature": 26.9259375
+    },
+    {
+        "Date": "1949-05-01",
+        "AverageTemperature": 27.175562499999998
+    },
+    {
+        "Date": "1949-06-01",
+        "AverageTemperature": 27.0206875
+    },
+    {
+        "Date": "1949-07-01",
+        "AverageTemperature": 26.657937500000003
+    },
+    {
+        "Date": "1949-08-01",
+        "AverageTemperature": 26.66325
+    },
+    {
+        "Date": "1949-09-01",
+        "AverageTemperature": 26.5773125
+    },
+    {
+        "Date": "1949-10-01",
+        "AverageTemperature": 26.23634375
+    },
+    {
+        "Date": "1949-11-01",
+        "AverageTemperature": 26.153125
+    },
+    {
+        "Date": "1949-12-01",
+        "AverageTemperature": 25.802500000000002
+    },
+    {
+        "Date": "1950-01-01",
+        "AverageTemperature": 26.107781250000002
+    },
+    {
+        "Date": "1950-02-01",
+        "AverageTemperature": 26.34584375
+    },
+    {
+        "Date": "1950-03-01",
+        "AverageTemperature": 26.94559375
+    },
+    {
+        "Date": "1950-04-01",
+        "AverageTemperature": 26.84690625
+    },
+    {
+        "Date": "1950-05-01",
+        "AverageTemperature": 27.10415625
+    },
+    {
+        "Date": "1950-06-01",
+        "AverageTemperature": 27.1670625
+    },
+    {
+        "Date": "1950-07-01",
+        "AverageTemperature": 26.73225
+    },
+    {
+        "Date": "1950-08-01",
+        "AverageTemperature": 26.5271875
+    },
+    {
+        "Date": "1950-09-01",
+        "AverageTemperature": 26.4835625
+    },
+    {
+        "Date": "1950-10-01",
+        "AverageTemperature": 26.059625
+    },
+    {
+        "Date": "1950-11-01",
+        "AverageTemperature": 25.940875000000002
+    },
+    {
+        "Date": "1950-12-01",
+        "AverageTemperature": 25.58815625
+    },
+    {
+        "Date": "1951-01-01",
+        "AverageTemperature": 25.557375
+    },
+    {
+        "Date": "1951-02-01",
+        "AverageTemperature": 25.96065625
+    },
+    {
+        "Date": "1951-03-01",
+        "AverageTemperature": 26.827875
+    },
+    {
+        "Date": "1951-04-01",
+        "AverageTemperature": 27.08840625
+    },
+    {
+        "Date": "1951-05-01",
+        "AverageTemperature": 27.16640625
+    },
+    {
+        "Date": "1951-06-01",
+        "AverageTemperature": 27.48809375
+    },
+    {
+        "Date": "1951-07-01",
+        "AverageTemperature": 26.74859375
+    },
+    {
+        "Date": "1951-08-01",
+        "AverageTemperature": 27.0476875
+    },
+    {
+        "Date": "1951-09-01",
+        "AverageTemperature": 26.7301875
+    },
+    {
+        "Date": "1951-10-01",
+        "AverageTemperature": 26.52703125
+    },
+    {
+        "Date": "1951-11-01",
+        "AverageTemperature": 26.93628125
+    },
+    {
+        "Date": "1951-12-01",
+        "AverageTemperature": 26.37021875
+    },
+    {
+        "Date": "1952-01-01",
+        "AverageTemperature": 26.34859375
+    },
+    {
+        "Date": "1952-02-01",
+        "AverageTemperature": 26.641625
+    },
+    {
+        "Date": "1952-03-01",
+        "AverageTemperature": 27.023000000000003
+    },
+    {
+        "Date": "1952-04-01",
+        "AverageTemperature": 27.1396875
+    },
+    {
+        "Date": "1952-05-01",
+        "AverageTemperature": 27.39584375
+    },
+    {
+        "Date": "1952-06-01",
+        "AverageTemperature": 27.376
+    },
+    {
+        "Date": "1952-07-01",
+        "AverageTemperature": 26.95703125
+    },
+    {
+        "Date": "1952-08-01",
+        "AverageTemperature": 26.690281249999998
+    },
+    {
+        "Date": "1952-09-01",
+        "AverageTemperature": 26.624875
+    },
+    {
+        "Date": "1952-10-01",
+        "AverageTemperature": 26.54465625
+    },
+    {
+        "Date": "1952-11-01",
+        "AverageTemperature": 26.24675
+    },
+    {
+        "Date": "1952-12-01",
+        "AverageTemperature": 25.86825
+    },
+    {
+        "Date": "1953-01-01",
+        "AverageTemperature": 25.93171875
+    },
+    {
+        "Date": "1953-02-01",
+        "AverageTemperature": 26.142374999999998
+    },
+    {
+        "Date": "1953-03-01",
+        "AverageTemperature": 26.7804375
+    },
+    {
+        "Date": "1953-04-01",
+        "AverageTemperature": 27.10128125
+    },
+    {
+        "Date": "1953-05-01",
+        "AverageTemperature": 27.229875
+    },
+    {
+        "Date": "1953-06-01",
+        "AverageTemperature": 27.4114375
+    },
+    {
+        "Date": "1953-07-01",
+        "AverageTemperature": 26.67784375
+    },
+    {
+        "Date": "1953-08-01",
+        "AverageTemperature": 27.265968750000003
+    },
+    {
+        "Date": "1953-09-01",
+        "AverageTemperature": 26.6314375
+    },
+    {
+        "Date": "1953-10-01",
+        "AverageTemperature": 26.63959375
+    },
+    {
+        "Date": "1953-11-01",
+        "AverageTemperature": 26.64753125
+    },
+    {
+        "Date": "1953-12-01",
+        "AverageTemperature": 26.39765625
+    },
+    {
+        "Date": "1954-01-01",
+        "AverageTemperature": 26.22034375
+    },
+    {
+        "Date": "1954-02-01",
+        "AverageTemperature": 26.61040625
+    },
+    {
+        "Date": "1954-03-01",
+        "AverageTemperature": 26.88871875
+    },
+    {
+        "Date": "1954-04-01",
+        "AverageTemperature": 27.07134375
+    },
+    {
+        "Date": "1954-05-01",
+        "AverageTemperature": 27.2215625
+    },
+    {
+        "Date": "1954-06-01",
+        "AverageTemperature": 27.00075
+    },
+    {
+        "Date": "1954-07-01",
+        "AverageTemperature": 26.542625
+    },
+    {
+        "Date": "1954-08-01",
+        "AverageTemperature": 26.67025
+    },
+    {
+        "Date": "1954-09-01",
+        "AverageTemperature": 26.49571875
+    },
+    {
+        "Date": "1954-10-01",
+        "AverageTemperature": 25.95459375
+    },
+    {
+        "Date": "1954-11-01",
+        "AverageTemperature": 26.04515625
+    },
+    {
+        "Date": "1954-12-01",
+        "AverageTemperature": 25.8151875
+    },
+    {
+        "Date": "1955-01-01",
+        "AverageTemperature": 25.70428125
+    },
+    {
+        "Date": "1955-02-01",
+        "AverageTemperature": 26.32809375
+    },
+    {
+        "Date": "1955-03-01",
+        "AverageTemperature": 26.92478125
+    },
+    {
+        "Date": "1955-04-01",
+        "AverageTemperature": 26.78478125
+    },
+    {
+        "Date": "1955-05-01",
+        "AverageTemperature": 27.39884375
+    },
+    {
+        "Date": "1955-06-01",
+        "AverageTemperature": 26.99859375
+    },
+    {
+        "Date": "1955-07-01",
+        "AverageTemperature": 26.6253125
+    },
+    {
+        "Date": "1955-08-01",
+        "AverageTemperature": 26.3754375
+    },
+    {
+        "Date": "1955-09-01",
+        "AverageTemperature": 26.5105625
+    },
+    {
+        "Date": "1955-10-01",
+        "AverageTemperature": 26.4156875
+    },
+    {
+        "Date": "1955-11-01",
+        "AverageTemperature": 26.2944375
+    },
+    {
+        "Date": "1955-12-01",
+        "AverageTemperature": 25.651656250000002
+    },
+    {
+        "Date": "1956-01-01",
+        "AverageTemperature": 25.45253125
+    },
+    {
+        "Date": "1956-02-01",
+        "AverageTemperature": 26.23946875
+    },
+    {
+        "Date": "1956-03-01",
+        "AverageTemperature": 26.83590625
+    },
+    {
+        "Date": "1956-04-01",
+        "AverageTemperature": 27.0175625
+    },
+    {
+        "Date": "1956-05-01",
+        "AverageTemperature": 27.0613125
+    },
+    {
+        "Date": "1956-06-01",
+        "AverageTemperature": 26.88553125
+    },
+    {
+        "Date": "1956-07-01",
+        "AverageTemperature": 26.6155
+    },
+    {
+        "Date": "1956-08-01",
+        "AverageTemperature": 26.47653125
+    },
+    {
+        "Date": "1956-09-01",
+        "AverageTemperature": 26.38540625
+    },
+    {
+        "Date": "1956-10-01",
+        "AverageTemperature": 26.171343750000002
+    },
+    {
+        "Date": "1956-11-01",
+        "AverageTemperature": 26.1669375
+    },
+    {
+        "Date": "1956-12-01",
+        "AverageTemperature": 25.605531250000002
+    },
+    {
+        "Date": "1957-01-01",
+        "AverageTemperature": 25.8563125
+    },
+    {
+        "Date": "1957-02-01",
+        "AverageTemperature": 26.34496875
+    },
+    {
+        "Date": "1957-03-01",
+        "AverageTemperature": 26.8353125
+    },
+    {
+        "Date": "1957-04-01",
+        "AverageTemperature": 27.054375
+    },
+    {
+        "Date": "1957-05-01",
+        "AverageTemperature": 27.328500000000002
+    },
+    {
+        "Date": "1957-06-01",
+        "AverageTemperature": 27.59578125
+    },
+    {
+        "Date": "1957-07-01",
+        "AverageTemperature": 27.03484375
+    },
+    {
+        "Date": "1957-08-01",
+        "AverageTemperature": 26.905843750000003
+    },
+    {
+        "Date": "1957-09-01",
+        "AverageTemperature": 26.75009375
+    },
+    {
+        "Date": "1957-10-01",
+        "AverageTemperature": 26.49478125
+    },
+    {
+        "Date": "1957-11-01",
+        "AverageTemperature": 26.64775
+    },
+    {
+        "Date": "1957-12-01",
+        "AverageTemperature": 26.14296875
+    },
+    {
+        "Date": "1958-01-01",
+        "AverageTemperature": 26.50075
+    },
+    {
+        "Date": "1958-02-01",
+        "AverageTemperature": 26.763
+    },
+    {
+        "Date": "1958-03-01",
+        "AverageTemperature": 27.26684375
+    },
+    {
+        "Date": "1958-04-01",
+        "AverageTemperature": 27.64978125
+    },
+    {
+        "Date": "1958-05-01",
+        "AverageTemperature": 27.69621875
+    },
+    {
+        "Date": "1958-06-01",
+        "AverageTemperature": 27.612593750000002
+    },
+    {
+        "Date": "1958-07-01",
+        "AverageTemperature": 27.47175
+    },
+    {
+        "Date": "1958-08-01",
+        "AverageTemperature": 26.812593749999998
+    },
+    {
+        "Date": "1958-09-01",
+        "AverageTemperature": 27.0165
+    },
+    {
+        "Date": "1958-10-01",
+        "AverageTemperature": 26.63984375
+    },
+    {
+        "Date": "1958-11-01",
+        "AverageTemperature": 26.145125
+    },
+    {
+        "Date": "1958-12-01",
+        "AverageTemperature": 26.213625
+    },
+    {
+        "Date": "1959-01-01",
+        "AverageTemperature": 26.27078125
+    },
+    {
+        "Date": "1959-02-01",
+        "AverageTemperature": 26.96040625
+    },
+    {
+        "Date": "1959-03-01",
+        "AverageTemperature": 27.05534375
+    },
+    {
+        "Date": "1959-04-01",
+        "AverageTemperature": 26.9765625
+    },
+    {
+        "Date": "1959-05-01",
+        "AverageTemperature": 27.432156250000002
+    },
+    {
+        "Date": "1959-06-01",
+        "AverageTemperature": 27.27128125
+    },
+    {
+        "Date": "1959-07-01",
+        "AverageTemperature": 26.9325625
+    },
+    {
+        "Date": "1959-08-01",
+        "AverageTemperature": 26.61046875
+    },
+    {
+        "Date": "1959-09-01",
+        "AverageTemperature": 26.630343749999998
+    },
+    {
+        "Date": "1959-10-01",
+        "AverageTemperature": 26.472875000000002
+    },
+    {
+        "Date": "1959-11-01",
+        "AverageTemperature": 26.34675
+    },
+    {
+        "Date": "1959-12-01",
+        "AverageTemperature": 26.28178125
+    },
+    {
+        "Date": "1960-01-01",
+        "AverageTemperature": 26.16425
+    },
+    {
+        "Date": "1960-02-01",
+        "AverageTemperature": 26.4254375
+    },
+    {
+        "Date": "1960-03-01",
+        "AverageTemperature": 27.024625
+    },
+    {
+        "Date": "1960-04-01",
+        "AverageTemperature": 27.11965625
+    },
+    {
+        "Date": "1960-05-01",
+        "AverageTemperature": 27.573375000000002
+    },
+    {
+        "Date": "1960-06-01",
+        "AverageTemperature": 27.2371875
+    },
+    {
+        "Date": "1960-07-01",
+        "AverageTemperature": 26.8928125
+    },
+    {
+        "Date": "1960-08-01",
+        "AverageTemperature": 27.2668125
+    },
+    {
+        "Date": "1960-09-01",
+        "AverageTemperature": 26.7496875
+    },
+    {
+        "Date": "1960-10-01",
+        "AverageTemperature": 26.764031250000002
+    },
+    {
+        "Date": "1960-11-01",
+        "AverageTemperature": 26.38325
+    },
+    {
+        "Date": "1960-12-01",
+        "AverageTemperature": 26.2353125
+    },
+    {
+        "Date": "1961-01-01",
+        "AverageTemperature": 25.814875
+    },
+    {
+        "Date": "1961-02-01",
+        "AverageTemperature": 26.5786875
+    },
+    {
+        "Date": "1961-03-01",
+        "AverageTemperature": 26.98090625
+    },
+    {
+        "Date": "1961-04-01",
+        "AverageTemperature": 27.0101875
+    },
+    {
+        "Date": "1961-05-01",
+        "AverageTemperature": 27.567531250000002
+    },
+    {
+        "Date": "1961-06-01",
+        "AverageTemperature": 26.95640625
+    },
+    {
+        "Date": "1961-07-01",
+        "AverageTemperature": 26.860781250000002
+    },
+    {
+        "Date": "1961-08-01",
+        "AverageTemperature": 26.88734375
+    },
+    {
+        "Date": "1961-09-01",
+        "AverageTemperature": 26.50696875
+    },
+    {
+        "Date": "1961-10-01",
+        "AverageTemperature": 26.1776875
+    },
+    {
+        "Date": "1961-11-01",
+        "AverageTemperature": 26.362406250000003
+    },
+    {
+        "Date": "1961-12-01",
+        "AverageTemperature": 25.86240625
+    },
+    {
+        "Date": "1962-01-01",
+        "AverageTemperature": 25.71090625
+    },
+    {
+        "Date": "1962-02-01",
+        "AverageTemperature": 26.09815625
+    },
+    {
+        "Date": "1962-03-01",
+        "AverageTemperature": 26.53859375
+    },
+    {
+        "Date": "1962-04-01",
+        "AverageTemperature": 26.905718750000002
+    },
+    {
+        "Date": "1962-05-01",
+        "AverageTemperature": 27.5816875
+    },
+    {
+        "Date": "1962-06-01",
+        "AverageTemperature": 27.0360625
+    },
+    {
+        "Date": "1962-07-01",
+        "AverageTemperature": 27.11859375
+    },
+    {
+        "Date": "1962-08-01",
+        "AverageTemperature": 26.4131875
+    },
+    {
+        "Date": "1962-09-01",
+        "AverageTemperature": 26.6885625
+    },
+    {
+        "Date": "1962-10-01",
+        "AverageTemperature": 26.37884375
+    },
+    {
+        "Date": "1962-11-01",
+        "AverageTemperature": 26.3660625
+    },
+    {
+        "Date": "1962-12-01",
+        "AverageTemperature": 25.92040625
+    },
+    {
+        "Date": "1963-01-01",
+        "AverageTemperature": 25.2018125
+    },
+    {
+        "Date": "1963-02-01",
+        "AverageTemperature": 25.757093750000003
+    },
+    {
+        "Date": "1963-03-01",
+        "AverageTemperature": 26.75775
+    },
+    {
+        "Date": "1963-04-01",
+        "AverageTemperature": 27.36796875
+    },
+    {
+        "Date": "1963-05-01",
+        "AverageTemperature": 27.62253125
+    },
+    {
+        "Date": "1963-06-01",
+        "AverageTemperature": 27.39240625
+    },
+    {
+        "Date": "1963-07-01",
+        "AverageTemperature": 27.172093750000002
+    },
+    {
+        "Date": "1963-08-01",
+        "AverageTemperature": 26.88025
+    },
+    {
+        "Date": "1963-09-01",
+        "AverageTemperature": 26.9615625
+    },
+    {
+        "Date": "1963-10-01",
+        "AverageTemperature": 26.3426875
+    },
+    {
+        "Date": "1963-11-01",
+        "AverageTemperature": 26.59284375
+    },
+    {
+        "Date": "1963-12-01",
+        "AverageTemperature": 26.1321875
+    },
+    {
+        "Date": "1964-01-01",
+        "AverageTemperature": 26.67734375
+    },
+    {
+        "Date": "1964-02-01",
+        "AverageTemperature": 26.59371875
+    },
+    {
+        "Date": "1964-03-01",
+        "AverageTemperature": 26.98371875
+    },
+    {
+        "Date": "1964-04-01",
+        "AverageTemperature": 27.206125
+    },
+    {
+        "Date": "1964-05-01",
+        "AverageTemperature": 27.51853125
+    },
+    {
+        "Date": "1964-06-01",
+        "AverageTemperature": 27.04075
+    },
+    {
+        "Date": "1964-07-01",
+        "AverageTemperature": 26.542625
+    },
+    {
+        "Date": "1964-08-01",
+        "AverageTemperature": 26.75303125
+    },
+    {
+        "Date": "1964-09-01",
+        "AverageTemperature": 26.557156250000002
+    },
+    {
+        "Date": "1964-10-01",
+        "AverageTemperature": 26.15728125
+    },
+    {
+        "Date": "1964-11-01",
+        "AverageTemperature": 26.138093750000003
+    },
+    {
+        "Date": "1964-12-01",
+        "AverageTemperature": 25.488656250000002
+    },
+    {
+        "Date": "1965-01-01",
+        "AverageTemperature": 25.3783125
+    },
+    {
+        "Date": "1965-02-01",
+        "AverageTemperature": 26.2975
+    },
+    {
+        "Date": "1965-03-01",
+        "AverageTemperature": 26.558875
+    },
+    {
+        "Date": "1965-04-01",
+        "AverageTemperature": 26.687125
+    },
+    {
+        "Date": "1965-05-01",
+        "AverageTemperature": 27.149125
+    },
+    {
+        "Date": "1965-06-01",
+        "AverageTemperature": 27.18884375
+    },
+    {
+        "Date": "1965-07-01",
+        "AverageTemperature": 26.8460625
+    },
+    {
+        "Date": "1965-08-01",
+        "AverageTemperature": 26.597625
+    },
+    {
+        "Date": "1965-09-01",
+        "AverageTemperature": 26.59646875
+    },
+    {
+        "Date": "1965-10-01",
+        "AverageTemperature": 26.41815625
+    },
+    {
+        "Date": "1965-11-01",
+        "AverageTemperature": 26.643843750000002
+    },
+    {
+        "Date": "1965-12-01",
+        "AverageTemperature": 26.091531250000003
+    },
+    {
+        "Date": "1966-01-01",
+        "AverageTemperature": 26.1514375
+    },
+    {
+        "Date": "1966-02-01",
+        "AverageTemperature": 26.753062500000002
+    },
+    {
+        "Date": "1966-03-01",
+        "AverageTemperature": 27.07325
+    },
+    {
+        "Date": "1966-04-01",
+        "AverageTemperature": 27.288875
+    },
+    {
+        "Date": "1966-05-01",
+        "AverageTemperature": 27.5060625
+    },
+    {
+        "Date": "1966-06-01",
+        "AverageTemperature": 26.977687500000002
+    },
+    {
+        "Date": "1966-07-01",
+        "AverageTemperature": 26.87378125
+    },
+    {
+        "Date": "1966-08-01",
+        "AverageTemperature": 26.7916875
+    },
+    {
+        "Date": "1966-09-01",
+        "AverageTemperature": 26.88978125
+    },
+    {
+        "Date": "1966-10-01",
+        "AverageTemperature": 26.32
+    },
+    {
+        "Date": "1966-11-01",
+        "AverageTemperature": 26.37709375
+    },
+    {
+        "Date": "1966-12-01",
+        "AverageTemperature": 26.04171875
+    },
+    {
+        "Date": "1967-01-01",
+        "AverageTemperature": 25.63021875
+    },
+    {
+        "Date": "1967-02-01",
+        "AverageTemperature": 26.08384375
+    },
+    {
+        "Date": "1967-03-01",
+        "AverageTemperature": 26.7051875
+    },
+    {
+        "Date": "1967-04-01",
+        "AverageTemperature": 26.80321875
+    },
+    {
+        "Date": "1967-05-01",
+        "AverageTemperature": 27.23575
+    },
+    {
+        "Date": "1967-06-01",
+        "AverageTemperature": 27.115437500000002
+    },
+    {
+        "Date": "1967-07-01",
+        "AverageTemperature": 26.9220625
+    },
+    {
+        "Date": "1967-08-01",
+        "AverageTemperature": 26.93209375
+    },
+    {
+        "Date": "1967-09-01",
+        "AverageTemperature": 26.676906250000002
+    },
+    {
+        "Date": "1967-10-01",
+        "AverageTemperature": 26.286375
+    },
+    {
+        "Date": "1967-11-01",
+        "AverageTemperature": 26.156937499999998
+    },
+    {
+        "Date": "1967-12-01",
+        "AverageTemperature": 25.84025
+    },
+    {
+        "Date": "1968-01-01",
+        "AverageTemperature": 25.802750000000003
+    },
+    {
+        "Date": "1968-02-01",
+        "AverageTemperature": 26.38040625
+    },
+    {
+        "Date": "1968-03-01",
+        "AverageTemperature": 26.903375
+    },
+    {
+        "Date": "1968-04-01",
+        "AverageTemperature": 26.97703125
+    },
+    {
+        "Date": "1968-05-01",
+        "AverageTemperature": 27.2225625
+    },
+    {
+        "Date": "1968-06-01",
+        "AverageTemperature": 27.27615625
+    },
+    {
+        "Date": "1968-07-01",
+        "AverageTemperature": 26.97396875
+    },
+    {
+        "Date": "1968-08-01",
+        "AverageTemperature": 27.067375000000002
+    },
+    {
+        "Date": "1968-09-01",
+        "AverageTemperature": 26.8034375
+    },
+    {
+        "Date": "1968-10-01",
+        "AverageTemperature": 26.332093750000002
+    },
+    {
+        "Date": "1968-11-01",
+        "AverageTemperature": 26.52628125
+    },
+    {
+        "Date": "1968-12-01",
+        "AverageTemperature": 26.085
+    },
+    {
+        "Date": "1969-01-01",
+        "AverageTemperature": 26.47621875
+    },
+    {
+        "Date": "1969-02-01",
+        "AverageTemperature": 26.739125
+    },
+    {
+        "Date": "1969-03-01",
+        "AverageTemperature": 27.344375
+    },
+    {
+        "Date": "1969-04-01",
+        "AverageTemperature": 27.590656250000002
+    },
+    {
+        "Date": "1969-05-01",
+        "AverageTemperature": 27.88665625
+    },
+    {
+        "Date": "1969-06-01",
+        "AverageTemperature": 27.47825
+    },
+    {
+        "Date": "1969-07-01",
+        "AverageTemperature": 27.08003125
+    },
+    {
+        "Date": "1969-08-01",
+        "AverageTemperature": 26.7425
+    },
+    {
+        "Date": "1969-09-01",
+        "AverageTemperature": 27.0255625
+    },
+    {
+        "Date": "1969-10-01",
+        "AverageTemperature": 26.56121875
+    },
+    {
+        "Date": "1969-11-01",
+        "AverageTemperature": 26.244625000000003
+    },
+    {
+        "Date": "1969-12-01",
+        "AverageTemperature": 26.073531250000002
+    },
+    {
+        "Date": "1970-01-01",
+        "AverageTemperature": 26.30521875
+    },
+    {
+        "Date": "1970-02-01",
+        "AverageTemperature": 26.7484375
+    },
+    {
+        "Date": "1970-03-01",
+        "AverageTemperature": 27.283125
+    },
+    {
+        "Date": "1970-04-01",
+        "AverageTemperature": 27.28703125
+    },
+    {
+        "Date": "1970-05-01",
+        "AverageTemperature": 27.595156250000002
+    },
+    {
+        "Date": "1970-06-01",
+        "AverageTemperature": 27.43028125
+    },
+    {
+        "Date": "1970-07-01",
+        "AverageTemperature": 26.90140625
+    },
+    {
+        "Date": "1970-08-01",
+        "AverageTemperature": 26.900593750000002
+    },
+    {
+        "Date": "1970-09-01",
+        "AverageTemperature": 26.58440625
+    },
+    {
+        "Date": "1970-10-01",
+        "AverageTemperature": 26.352687500000002
+    },
+    {
+        "Date": "1970-11-01",
+        "AverageTemperature": 26.344625
+    },
+    {
+        "Date": "1970-12-01",
+        "AverageTemperature": 25.97375
+    },
+    {
+        "Date": "1971-01-01",
+        "AverageTemperature": 25.50315625
+    },
+    {
+        "Date": "1971-02-01",
+        "AverageTemperature": 25.91521875
+    },
+    {
+        "Date": "1971-03-01",
+        "AverageTemperature": 26.47365625
+    },
+    {
+        "Date": "1971-04-01",
+        "AverageTemperature": 27.076249999999998
+    },
+    {
+        "Date": "1971-05-01",
+        "AverageTemperature": 27.355625
+    },
+    {
+        "Date": "1971-06-01",
+        "AverageTemperature": 27.02390625
+    },
+    {
+        "Date": "1971-07-01",
+        "AverageTemperature": 26.91353125
+    },
+    {
+        "Date": "1971-08-01",
+        "AverageTemperature": 26.3294375
+    },
+    {
+        "Date": "1971-09-01",
+        "AverageTemperature": 26.774
+    },
+    {
+        "Date": "1971-10-01",
+        "AverageTemperature": 26.41778125
+    },
+    {
+        "Date": "1971-11-01",
+        "AverageTemperature": 26.022437500000002
+    },
+    {
+        "Date": "1971-12-01",
+        "AverageTemperature": 25.620250000000002
+    },
+    {
+        "Date": "1972-01-01",
+        "AverageTemperature": 25.58946875
+    },
+    {
+        "Date": "1972-02-01",
+        "AverageTemperature": 26.503593750000004
+    },
+    {
+        "Date": "1972-03-01",
+        "AverageTemperature": 26.697499999999998
+    },
+    {
+        "Date": "1972-04-01",
+        "AverageTemperature": 26.770625000000003
+    },
+    {
+        "Date": "1972-05-01",
+        "AverageTemperature": 27.5543125
+    },
+    {
+        "Date": "1972-06-01",
+        "AverageTemperature": 27.3844375
+    },
+    {
+        "Date": "1972-07-01",
+        "AverageTemperature": 27.66675
+    },
+    {
+        "Date": "1972-08-01",
+        "AverageTemperature": 27.24221875
+    },
+    {
+        "Date": "1972-09-01",
+        "AverageTemperature": 26.925093750000002
+    },
+    {
+        "Date": "1972-10-01",
+        "AverageTemperature": 26.869125
+    },
+    {
+        "Date": "1972-11-01",
+        "AverageTemperature": 26.84203125
+    },
+    {
+        "Date": "1972-12-01",
+        "AverageTemperature": 26.5025
+    },
+    {
+        "Date": "1973-01-01",
+        "AverageTemperature": 26.5135
+    },
+    {
+        "Date": "1973-02-01",
+        "AverageTemperature": 27.2233125
+    },
+    {
+        "Date": "1973-03-01",
+        "AverageTemperature": 27.295906249999998
+    },
+    {
+        "Date": "1973-04-01",
+        "AverageTemperature": 27.47378125
+    },
+    {
+        "Date": "1973-05-01",
+        "AverageTemperature": 27.47421875
+    },
+    {
+        "Date": "1973-06-01",
+        "AverageTemperature": 27.63184375
+    },
+    {
+        "Date": "1973-07-01",
+        "AverageTemperature": 27.32290625
+    },
+    {
+        "Date": "1973-08-01",
+        "AverageTemperature": 27.020875
+    },
+    {
+        "Date": "1973-09-01",
+        "AverageTemperature": 26.65690625
+    },
+    {
+        "Date": "1973-10-01",
+        "AverageTemperature": 26.5970625
+    },
+    {
+        "Date": "1973-11-01",
+        "AverageTemperature": 26.419843750000002
+    },
+    {
+        "Date": "1973-12-01",
+        "AverageTemperature": 25.4689375
+    },
+    {
+        "Date": "1974-01-01",
+        "AverageTemperature": 25.439500000000002
+    },
+    {
+        "Date": "1974-02-01",
+        "AverageTemperature": 26.0275
+    },
+    {
+        "Date": "1974-03-01",
+        "AverageTemperature": 26.613625
+    },
+    {
+        "Date": "1974-04-01",
+        "AverageTemperature": 26.939
+    },
+    {
+        "Date": "1974-05-01",
+        "AverageTemperature": 27.14825
+    },
+    {
+        "Date": "1974-06-01",
+        "AverageTemperature": 27.09725
+    },
+    {
+        "Date": "1974-07-01",
+        "AverageTemperature": 26.77478125
+    },
+    {
+        "Date": "1974-08-01",
+        "AverageTemperature": 27.1909375
+    },
+    {
+        "Date": "1974-09-01",
+        "AverageTemperature": 26.5095625
+    },
+    {
+        "Date": "1974-10-01",
+        "AverageTemperature": 26.6471875
+    },
+    {
+        "Date": "1974-11-01",
+        "AverageTemperature": 26.49046875
+    },
+    {
+        "Date": "1974-12-01",
+        "AverageTemperature": 26.10103125
+    },
+    {
+        "Date": "1975-01-01",
+        "AverageTemperature": 26.190875000000002
+    },
+    {
+        "Date": "1975-02-01",
+        "AverageTemperature": 26.30603125
+    },
+    {
+        "Date": "1975-03-01",
+        "AverageTemperature": 26.6451875
+    },
+    {
+        "Date": "1975-04-01",
+        "AverageTemperature": 27.162
+    },
+    {
+        "Date": "1975-05-01",
+        "AverageTemperature": 27.18328125
+    },
+    {
+        "Date": "1975-06-01",
+        "AverageTemperature": 26.9345
+    },
+    {
+        "Date": "1975-07-01",
+        "AverageTemperature": 26.489124999999998
+    },
+    {
+        "Date": "1975-08-01",
+        "AverageTemperature": 27.00684375
+    },
+    {
+        "Date": "1975-09-01",
+        "AverageTemperature": 26.47021875
+    },
+    {
+        "Date": "1975-10-01",
+        "AverageTemperature": 26.43775
+    },
+    {
+        "Date": "1975-11-01",
+        "AverageTemperature": 25.948999999999998
+    },
+    {
+        "Date": "1975-12-01",
+        "AverageTemperature": 25.51915625
+    },
+    {
+        "Date": "1976-01-01",
+        "AverageTemperature": 25.20746875
+    },
+    {
+        "Date": "1976-02-01",
+        "AverageTemperature": 26.10715625
+    },
+    {
+        "Date": "1976-03-01",
+        "AverageTemperature": 26.65221875
+    },
+    {
+        "Date": "1976-04-01",
+        "AverageTemperature": 26.68784375
+    },
+    {
+        "Date": "1976-05-01",
+        "AverageTemperature": 27.2061875
+    },
+    {
+        "Date": "1976-06-01",
+        "AverageTemperature": 26.82978125
+    },
+    {
+        "Date": "1976-07-01",
+        "AverageTemperature": 26.88340625
+    },
+    {
+        "Date": "1976-08-01",
+        "AverageTemperature": 26.7549375
+    },
+    {
+        "Date": "1976-09-01",
+        "AverageTemperature": 26.668875
+    },
+    {
+        "Date": "1976-10-01",
+        "AverageTemperature": 26.305031250000003
+    },
+    {
+        "Date": "1976-11-01",
+        "AverageTemperature": 26.1670625
+    },
+    {
+        "Date": "1976-12-01",
+        "AverageTemperature": 26.028625
+    },
+    {
+        "Date": "1977-01-01",
+        "AverageTemperature": 26.177625
+    },
+    {
+        "Date": "1977-02-01",
+        "AverageTemperature": 25.94746875
+    },
+    {
+        "Date": "1977-03-01",
+        "AverageTemperature": 26.722125000000002
+    },
+    {
+        "Date": "1977-04-01",
+        "AverageTemperature": 27.37725
+    },
+    {
+        "Date": "1977-05-01",
+        "AverageTemperature": 27.5403125
+    },
+    {
+        "Date": "1977-06-01",
+        "AverageTemperature": 27.233531250000002
+    },
+    {
+        "Date": "1977-07-01",
+        "AverageTemperature": 27.235125
+    },
+    {
+        "Date": "1977-08-01",
+        "AverageTemperature": 26.69559375
+    },
+    {
+        "Date": "1977-09-01",
+        "AverageTemperature": 26.9433125
+    },
+    {
+        "Date": "1977-10-01",
+        "AverageTemperature": 26.538125
+    },
+    {
+        "Date": "1977-11-01",
+        "AverageTemperature": 26.38309375
+    },
+    {
+        "Date": "1977-12-01",
+        "AverageTemperature": 26.4133125
+    },
+    {
+        "Date": "1978-01-01",
+        "AverageTemperature": 26.310937499999998
+    },
+    {
+        "Date": "1978-02-01",
+        "AverageTemperature": 26.892781250000002
+    },
+    {
+        "Date": "1978-03-01",
+        "AverageTemperature": 27.277
+    },
+    {
+        "Date": "1978-04-01",
+        "AverageTemperature": 27.0649375
+    },
+    {
+        "Date": "1978-05-01",
+        "AverageTemperature": 27.66559375
+    },
+    {
+        "Date": "1978-06-01",
+        "AverageTemperature": 27.297
+    },
+    {
+        "Date": "1978-07-01",
+        "AverageTemperature": 26.90065625
+    },
+    {
+        "Date": "1978-08-01",
+        "AverageTemperature": 27.14190625
+    },
+    {
+        "Date": "1978-09-01",
+        "AverageTemperature": 26.61803125
+    },
+    {
+        "Date": "1978-10-01",
+        "AverageTemperature": 26.42309375
+    },
+    {
+        "Date": "1978-11-01",
+        "AverageTemperature": 26.28321875
+    },
+    {
+        "Date": "1978-12-01",
+        "AverageTemperature": 26.1855625
+    },
+    {
+        "Date": "1979-01-01",
+        "AverageTemperature": 26.356749999999998
+    },
+    {
+        "Date": "1979-02-01",
+        "AverageTemperature": 26.89784375
+    },
+    {
+        "Date": "1979-03-01",
+        "AverageTemperature": 27.372
+    },
+    {
+        "Date": "1979-04-01",
+        "AverageTemperature": 27.229875
+    },
+    {
+        "Date": "1979-05-01",
+        "AverageTemperature": 27.78184375
+    },
+    {
+        "Date": "1979-06-01",
+        "AverageTemperature": 27.3051875
+    },
+    {
+        "Date": "1979-07-01",
+        "AverageTemperature": 26.87965625
+    },
+    {
+        "Date": "1979-08-01",
+        "AverageTemperature": 27.26515625
+    },
+    {
+        "Date": "1979-09-01",
+        "AverageTemperature": 26.7165
+    },
+    {
+        "Date": "1979-10-01",
+        "AverageTemperature": 26.55796875
+    },
+    {
+        "Date": "1979-11-01",
+        "AverageTemperature": 26.327906249999998
+    },
+    {
+        "Date": "1979-12-01",
+        "AverageTemperature": 26.2440625
+    },
+    {
+        "Date": "1980-01-01",
+        "AverageTemperature": 26.279500000000002
+    },
+    {
+        "Date": "1980-02-01",
+        "AverageTemperature": 26.7558125
+    },
+    {
+        "Date": "1980-03-01",
+        "AverageTemperature": 27.0145625
+    },
+    {
+        "Date": "1980-04-01",
+        "AverageTemperature": 27.203125
+    },
+    {
+        "Date": "1980-05-01",
+        "AverageTemperature": 27.72271875
+    },
+    {
+        "Date": "1980-06-01",
+        "AverageTemperature": 27.402875
+    },
+    {
+        "Date": "1980-07-01",
+        "AverageTemperature": 27.25946875
+    },
+    {
+        "Date": "1980-08-01",
+        "AverageTemperature": 26.52896875
+    },
+    {
+        "Date": "1980-09-01",
+        "AverageTemperature": 26.88334375
+    },
+    {
+        "Date": "1980-10-01",
+        "AverageTemperature": 26.53059375
+    },
+    {
+        "Date": "1980-11-01",
+        "AverageTemperature": 26.3488125
+    },
+    {
+        "Date": "1980-12-01",
+        "AverageTemperature": 25.974531250000002
+    },
+    {
+        "Date": "1981-01-01",
+        "AverageTemperature": 25.767187500000002
+    },
+    {
+        "Date": "1981-02-01",
+        "AverageTemperature": 26.543875
+    },
+    {
+        "Date": "1981-03-01",
+        "AverageTemperature": 27.20084375
+    },
+    {
+        "Date": "1981-04-01",
+        "AverageTemperature": 27.0988125
+    },
+    {
+        "Date": "1981-05-01",
+        "AverageTemperature": 27.3656875
+    },
+    {
+        "Date": "1981-06-01",
+        "AverageTemperature": 27.61765625
+    },
+    {
+        "Date": "1981-07-01",
+        "AverageTemperature": 27.108656250000003
+    },
+    {
+        "Date": "1981-08-01",
+        "AverageTemperature": 27.565
+    },
+    {
+        "Date": "1981-09-01",
+        "AverageTemperature": 26.655718750000002
+    },
+    {
+        "Date": "1981-10-01",
+        "AverageTemperature": 26.6083125
+    },
+    {
+        "Date": "1981-11-01",
+        "AverageTemperature": 26.42940625
+    },
+    {
+        "Date": "1981-12-01",
+        "AverageTemperature": 25.9405625
+    },
+    {
+        "Date": "1982-01-01",
+        "AverageTemperature": 25.997375
+    },
+    {
+        "Date": "1982-02-01",
+        "AverageTemperature": 26.680968749999998
+    },
+    {
+        "Date": "1982-03-01",
+        "AverageTemperature": 26.99915625
+    },
+    {
+        "Date": "1982-04-01",
+        "AverageTemperature": 26.866
+    },
+    {
+        "Date": "1982-05-01",
+        "AverageTemperature": 27.35490625
+    },
+    {
+        "Date": "1982-06-01",
+        "AverageTemperature": 27.3530625
+    },
+    {
+        "Date": "1982-07-01",
+        "AverageTemperature": 26.94809375
+    },
+    {
+        "Date": "1982-08-01",
+        "AverageTemperature": 26.83965625
+    },
+    {
+        "Date": "1982-09-01",
+        "AverageTemperature": 26.87071875
+    },
+    {
+        "Date": "1982-10-01",
+        "AverageTemperature": 26.220781249999998
+    },
+    {
+        "Date": "1982-11-01",
+        "AverageTemperature": 26.596062500000002
+    },
+    {
+        "Date": "1982-12-01",
+        "AverageTemperature": 26.32575
+    },
+    {
+        "Date": "1983-01-01",
+        "AverageTemperature": 26.576625
+    },
+    {
+        "Date": "1983-02-01",
+        "AverageTemperature": 27.39540625
+    },
+    {
+        "Date": "1983-03-01",
+        "AverageTemperature": 28.051125000000003
+    },
+    {
+        "Date": "1983-04-01",
+        "AverageTemperature": 28.176625
+    },
+    {
+        "Date": "1983-05-01",
+        "AverageTemperature": 27.89259375
+    },
+    {
+        "Date": "1983-06-01",
+        "AverageTemperature": 27.73134375
+    },
+    {
+        "Date": "1983-07-01",
+        "AverageTemperature": 27.19728125
+    },
+    {
+        "Date": "1983-08-01",
+        "AverageTemperature": 27.20628125
+    },
+    {
+        "Date": "1983-09-01",
+        "AverageTemperature": 26.683531249999998
+    },
+    {
+        "Date": "1983-10-01",
+        "AverageTemperature": 26.711875
+    },
+    {
+        "Date": "1983-11-01",
+        "AverageTemperature": 26.505156250000002
+    },
+    {
+        "Date": "1983-12-01",
+        "AverageTemperature": 25.672093750000002
+    },
+    {
+        "Date": "1984-01-01",
+        "AverageTemperature": 25.6031875
+    },
+    {
+        "Date": "1984-02-01",
+        "AverageTemperature": 25.8895625
+    },
+    {
+        "Date": "1984-03-01",
+        "AverageTemperature": 26.62153125
+    },
+    {
+        "Date": "1984-04-01",
+        "AverageTemperature": 26.87734375
+    },
+    {
+        "Date": "1984-05-01",
+        "AverageTemperature": 27.044687500000002
+    },
+    {
+        "Date": "1984-06-01",
+        "AverageTemperature": 27.03425
+    },
+    {
+        "Date": "1984-07-01",
+        "AverageTemperature": 26.5801875
+    },
+    {
+        "Date": "1984-08-01",
+        "AverageTemperature": 27.026968749999998
+    },
+    {
+        "Date": "1984-09-01",
+        "AverageTemperature": 26.39009375
+    },
+    {
+        "Date": "1984-10-01",
+        "AverageTemperature": 26.41978125
+    },
+    {
+        "Date": "1984-11-01",
+        "AverageTemperature": 26.350937500000004
+    },
+    {
+        "Date": "1984-12-01",
+        "AverageTemperature": 25.918343750000002
+    },
+    {
+        "Date": "1985-01-01",
+        "AverageTemperature": 26.2038125
+    },
+    {
+        "Date": "1985-02-01",
+        "AverageTemperature": 26.92509375
+    },
+    {
+        "Date": "1985-03-01",
+        "AverageTemperature": 26.8373125
+    },
+    {
+        "Date": "1985-04-01",
+        "AverageTemperature": 27.10525
+    },
+    {
+        "Date": "1985-05-01",
+        "AverageTemperature": 27.341375
+    },
+    {
+        "Date": "1985-06-01",
+        "AverageTemperature": 27.4831875
+    },
+    {
+        "Date": "1985-07-01",
+        "AverageTemperature": 26.6325625
+    },
+    {
+        "Date": "1985-08-01",
+        "AverageTemperature": 26.90934375
+    },
+    {
+        "Date": "1985-09-01",
+        "AverageTemperature": 26.4605
+    },
+    {
+        "Date": "1985-10-01",
+        "AverageTemperature": 26.299
+    },
+    {
+        "Date": "1985-11-01",
+        "AverageTemperature": 26.29128125
+    },
+    {
+        "Date": "1985-12-01",
+        "AverageTemperature": 26.08359375
+    },
+    {
+        "Date": "1986-01-01",
+        "AverageTemperature": 25.793312500000003
+    },
+    {
+        "Date": "1986-02-01",
+        "AverageTemperature": 26.52203125
+    },
+    {
+        "Date": "1986-03-01",
+        "AverageTemperature": 26.702562500000003
+    },
+    {
+        "Date": "1986-04-01",
+        "AverageTemperature": 27.174
+    },
+    {
+        "Date": "1986-05-01",
+        "AverageTemperature": 27.64709375
+    },
+    {
+        "Date": "1986-06-01",
+        "AverageTemperature": 27.38853125
+    },
+    {
+        "Date": "1986-07-01",
+        "AverageTemperature": 27.252156250000002
+    },
+    {
+        "Date": "1986-08-01",
+        "AverageTemperature": 27.41478125
+    },
+    {
+        "Date": "1986-09-01",
+        "AverageTemperature": 26.625
+    },
+    {
+        "Date": "1986-10-01",
+        "AverageTemperature": 26.393125
+    },
+    {
+        "Date": "1986-11-01",
+        "AverageTemperature": 26.259687500000002
+    },
+    {
+        "Date": "1986-12-01",
+        "AverageTemperature": 26.29815625
+    },
+    {
+        "Date": "1987-01-01",
+        "AverageTemperature": 26.02659375
+    },
+    {
+        "Date": "1987-02-01",
+        "AverageTemperature": 26.656125
+    },
+    {
+        "Date": "1987-03-01",
+        "AverageTemperature": 27.5086875
+    },
+    {
+        "Date": "1987-04-01",
+        "AverageTemperature": 27.5585
+    },
+    {
+        "Date": "1987-05-01",
+        "AverageTemperature": 27.54040625
+    },
+    {
+        "Date": "1987-06-01",
+        "AverageTemperature": 27.994968749999998
+    },
+    {
+        "Date": "1987-07-01",
+        "AverageTemperature": 27.58421875
+    },
+    {
+        "Date": "1987-08-01",
+        "AverageTemperature": 27.118000000000002
+    },
+    {
+        "Date": "1987-09-01",
+        "AverageTemperature": 27.121375
+    },
+    {
+        "Date": "1987-10-01",
+        "AverageTemperature": 26.983125
+    },
+    {
+        "Date": "1987-11-01",
+        "AverageTemperature": 27.028468750000002
+    },
+    {
+        "Date": "1987-12-01",
+        "AverageTemperature": 26.3105625
+    },
+    {
+        "Date": "1988-01-01",
+        "AverageTemperature": 26.82265625
+    },
+    {
+        "Date": "1988-02-01",
+        "AverageTemperature": 27.069312500000002
+    },
+    {
+        "Date": "1988-03-01",
+        "AverageTemperature": 27.478468749999998
+    },
+    {
+        "Date": "1988-04-01",
+        "AverageTemperature": 27.56190625
+    },
+    {
+        "Date": "1988-05-01",
+        "AverageTemperature": 27.88546875
+    },
+    {
+        "Date": "1988-06-01",
+        "AverageTemperature": 27.5076875
+    },
+    {
+        "Date": "1988-07-01",
+        "AverageTemperature": 27.0589375
+    },
+    {
+        "Date": "1988-08-01",
+        "AverageTemperature": 26.8155
+    },
+    {
+        "Date": "1988-09-01",
+        "AverageTemperature": 26.7066875
+    },
+    {
+        "Date": "1988-10-01",
+        "AverageTemperature": 26.81575
+    },
+    {
+        "Date": "1988-11-01",
+        "AverageTemperature": 26.302687499999998
+    },
+    {
+        "Date": "1988-12-01",
+        "AverageTemperature": 25.7393125
+    },
+    {
+        "Date": "1989-01-01",
+        "AverageTemperature": 26.369125
+    },
+    {
+        "Date": "1989-02-01",
+        "AverageTemperature": 26.3586875
+    },
+    {
+        "Date": "1989-03-01",
+        "AverageTemperature": 26.5794375
+    },
+    {
+        "Date": "1989-04-01",
+        "AverageTemperature": 26.889375
+    },
+    {
+        "Date": "1989-05-01",
+        "AverageTemperature": 27.34528125
+    },
+    {
+        "Date": "1989-06-01",
+        "AverageTemperature": 27.181125
+    },
+    {
+        "Date": "1989-07-01",
+        "AverageTemperature": 27.15846875
+    },
+    {
+        "Date": "1989-08-01",
+        "AverageTemperature": 26.9356875
+    },
+    {
+        "Date": "1989-09-01",
+        "AverageTemperature": 26.582125
+    },
+    {
+        "Date": "1989-10-01",
+        "AverageTemperature": 26.40878125
+    },
+    {
+        "Date": "1989-11-01",
+        "AverageTemperature": 26.605375000000002
+    },
+    {
+        "Date": "1989-12-01",
+        "AverageTemperature": 26.25340625
+    },
+    {
+        "Date": "1990-01-01",
+        "AverageTemperature": 26.17275
+    },
+    {
+        "Date": "1990-02-01",
+        "AverageTemperature": 27.2369375
+    },
+    {
+        "Date": "1990-03-01",
+        "AverageTemperature": 27.5634375
+    },
+    {
+        "Date": "1990-04-01",
+        "AverageTemperature": 27.660625
+    },
+    {
+        "Date": "1990-05-01",
+        "AverageTemperature": 27.703
+    },
+    {
+        "Date": "1990-06-01",
+        "AverageTemperature": 27.76390625
+    },
+    {
+        "Date": "1990-07-01",
+        "AverageTemperature": 26.97084375
+    },
+    {
+        "Date": "1990-08-01",
+        "AverageTemperature": 27.35209375
+    },
+    {
+        "Date": "1990-09-01",
+        "AverageTemperature": 26.7664375
+    },
+    {
+        "Date": "1990-10-01",
+        "AverageTemperature": 26.62928125
+    },
+    {
+        "Date": "1990-11-01",
+        "AverageTemperature": 26.608874999999998
+    },
+    {
+        "Date": "1990-12-01",
+        "AverageTemperature": 26.2809375
+    },
+    {
+        "Date": "1991-01-01",
+        "AverageTemperature": 26.44953125
+    },
+    {
+        "Date": "1991-02-01",
+        "AverageTemperature": 26.91659375
+    },
+    {
+        "Date": "1991-03-01",
+        "AverageTemperature": 27.3473125
+    },
+    {
+        "Date": "1991-04-01",
+        "AverageTemperature": 27.32828125
+    },
+    {
+        "Date": "1991-05-01",
+        "AverageTemperature": 27.38215625
+    },
+    {
+        "Date": "1991-06-01",
+        "AverageTemperature": 27.87953125
+    },
+    {
+        "Date": "1991-07-01",
+        "AverageTemperature": 27.33553125
+    },
+    {
+        "Date": "1991-08-01",
+        "AverageTemperature": 27.20665625
+    },
+    {
+        "Date": "1991-09-01",
+        "AverageTemperature": 26.864406250000002
+    },
+    {
+        "Date": "1991-10-01",
+        "AverageTemperature": 26.345875
+    },
+    {
+        "Date": "1991-11-01",
+        "AverageTemperature": 26.198968750000002
+    },
+    {
+        "Date": "1991-12-01",
+        "AverageTemperature": 25.87915625
+    },
+    {
+        "Date": "1992-01-01",
+        "AverageTemperature": 26.28365625
+    },
+    {
+        "Date": "1992-02-01",
+        "AverageTemperature": 26.78978125
+    },
+    {
+        "Date": "1992-03-01",
+        "AverageTemperature": 27.558468750000003
+    },
+    {
+        "Date": "1992-04-01",
+        "AverageTemperature": 27.7979375
+    },
+    {
+        "Date": "1992-05-01",
+        "AverageTemperature": 27.67503125
+    },
+    {
+        "Date": "1992-06-01",
+        "AverageTemperature": 27.54753125
+    },
+    {
+        "Date": "1992-07-01",
+        "AverageTemperature": 26.853125000000002
+    },
+    {
+        "Date": "1992-08-01",
+        "AverageTemperature": 27.17640625
+    },
+    {
+        "Date": "1992-09-01",
+        "AverageTemperature": 26.827406250000003
+    },
+    {
+        "Date": "1992-10-01",
+        "AverageTemperature": 26.4476875
+    },
+    {
+        "Date": "1992-11-01",
+        "AverageTemperature": 26.04765625
+    },
+    {
+        "Date": "1992-12-01",
+        "AverageTemperature": 25.86071875
+    },
+    {
+        "Date": "1993-01-01",
+        "AverageTemperature": 26.1861875
+    },
+    {
+        "Date": "1993-02-01",
+        "AverageTemperature": 26.4469375
+    },
+    {
+        "Date": "1993-03-01",
+        "AverageTemperature": 26.7093125
+    },
+    {
+        "Date": "1993-04-01",
+        "AverageTemperature": 27.1566875
+    },
+    {
+        "Date": "1993-05-01",
+        "AverageTemperature": 27.544031250000003
+    },
+    {
+        "Date": "1993-06-01",
+        "AverageTemperature": 27.63803125
+    },
+    {
+        "Date": "1993-07-01",
+        "AverageTemperature": 27.1045
+    },
+    {
+        "Date": "1993-08-01",
+        "AverageTemperature": 27.1824375
+    },
+    {
+        "Date": "1993-09-01",
+        "AverageTemperature": 26.69121875
+    },
+    {
+        "Date": "1993-10-01",
+        "AverageTemperature": 26.35725
+    },
+    {
+        "Date": "1993-11-01",
+        "AverageTemperature": 26.5671875
+    },
+    {
+        "Date": "1993-12-01",
+        "AverageTemperature": 26.2365
+    },
+    {
+        "Date": "1994-01-01",
+        "AverageTemperature": 26.49528125
+    },
+    {
+        "Date": "1994-02-01",
+        "AverageTemperature": 26.772125
+    },
+    {
+        "Date": "1994-03-01",
+        "AverageTemperature": 26.550625
+    },
+    {
+        "Date": "1994-04-01",
+        "AverageTemperature": 27.1930625
+    },
+    {
+        "Date": "1994-05-01",
+        "AverageTemperature": 27.422
+    },
+    {
+        "Date": "1994-06-01",
+        "AverageTemperature": 27.28715625
+    },
+    {
+        "Date": "1994-07-01",
+        "AverageTemperature": 27.4350625
+    },
+    {
+        "Date": "1994-08-01",
+        "AverageTemperature": 26.945531250000002
+    },
+    {
+        "Date": "1994-09-01",
+        "AverageTemperature": 26.88778125
+    },
+    {
+        "Date": "1994-10-01",
+        "AverageTemperature": 26.489687500000002
+    },
+    {
+        "Date": "1994-11-01",
+        "AverageTemperature": 26.34875
+    },
+    {
+        "Date": "1994-12-01",
+        "AverageTemperature": 26.520187500000002
+    },
+    {
+        "Date": "1995-01-01",
+        "AverageTemperature": 26.46140625
+    },
+    {
+        "Date": "1995-02-01",
+        "AverageTemperature": 26.4765625
+    },
+    {
+        "Date": "1995-03-01",
+        "AverageTemperature": 27.10290625
+    },
+    {
+        "Date": "1995-04-01",
+        "AverageTemperature": 27.396406250000002
+    },
+    {
+        "Date": "1995-05-01",
+        "AverageTemperature": 27.85009375
+    },
+    {
+        "Date": "1995-06-01",
+        "AverageTemperature": 27.764812499999998
+    },
+    {
+        "Date": "1995-07-01",
+        "AverageTemperature": 27.201125
+    },
+    {
+        "Date": "1995-08-01",
+        "AverageTemperature": 26.790875
+    },
+    {
+        "Date": "1995-09-01",
+        "AverageTemperature": 27.03246875
+    },
+    {
+        "Date": "1995-10-01",
+        "AverageTemperature": 26.826656250000003
+    },
+    {
+        "Date": "1995-11-01",
+        "AverageTemperature": 26.5383125
+    },
+    {
+        "Date": "1995-12-01",
+        "AverageTemperature": 25.9575
+    },
+    {
+        "Date": "1996-01-01",
+        "AverageTemperature": 25.863875
+    },
+    {
+        "Date": "1996-02-01",
+        "AverageTemperature": 26.2891875
+    },
+    {
+        "Date": "1996-03-01",
+        "AverageTemperature": 27.26384375
+    },
+    {
+        "Date": "1996-04-01",
+        "AverageTemperature": 27.346343750000003
+    },
+    {
+        "Date": "1996-05-01",
+        "AverageTemperature": 27.75225
+    },
+    {
+        "Date": "1996-06-01",
+        "AverageTemperature": 27.55975
+    },
+    {
+        "Date": "1996-07-01",
+        "AverageTemperature": 27.45853125
+    },
+    {
+        "Date": "1996-08-01",
+        "AverageTemperature": 26.92496875
+    },
+    {
+        "Date": "1996-09-01",
+        "AverageTemperature": 27.09725
+    },
+    {
+        "Date": "1996-10-01",
+        "AverageTemperature": 26.41175
+    },
+    {
+        "Date": "1996-11-01",
+        "AverageTemperature": 26.5855625
+    },
+    {
+        "Date": "1996-12-01",
+        "AverageTemperature": 25.8508125
+    },
+    {
+        "Date": "1997-01-01",
+        "AverageTemperature": 26.31665625
+    },
+    {
+        "Date": "1997-02-01",
+        "AverageTemperature": 26.58496875
+    },
+    {
+        "Date": "1997-03-01",
+        "AverageTemperature": 27.35303125
+    },
+    {
+        "Date": "1997-04-01",
+        "AverageTemperature": 27.13084375
+    },
+    {
+        "Date": "1997-05-01",
+        "AverageTemperature": 28.04121875
+    },
+    {
+        "Date": "1997-06-01",
+        "AverageTemperature": 27.7409375
+    },
+    {
+        "Date": "1997-07-01",
+        "AverageTemperature": 27.47009375
+    },
+    {
+        "Date": "1997-08-01",
+        "AverageTemperature": 27.71546875
+    },
+    {
+        "Date": "1997-09-01",
+        "AverageTemperature": 27.22146875
+    },
+    {
+        "Date": "1997-10-01",
+        "AverageTemperature": 26.76340625
+    },
+    {
+        "Date": "1997-11-01",
+        "AverageTemperature": 26.8680625
+    },
+    {
+        "Date": "1997-12-01",
+        "AverageTemperature": 26.79625
+    },
+    {
+        "Date": "1998-01-01",
+        "AverageTemperature": 27.41440625
+    },
+    {
+        "Date": "1998-02-01",
+        "AverageTemperature": 28.16503125
+    },
+    {
+        "Date": "1998-03-01",
+        "AverageTemperature": 28.6235
+    },
+    {
+        "Date": "1998-04-01",
+        "AverageTemperature": 28.7505625
+    },
+    {
+        "Date": "1998-05-01",
+        "AverageTemperature": 28.956812499999998
+    },
+    {
+        "Date": "1998-06-01",
+        "AverageTemperature": 28.09753125
+    },
+    {
+        "Date": "1998-07-01",
+        "AverageTemperature": 27.60759375
+    },
+    {
+        "Date": "1998-08-01",
+        "AverageTemperature": 27.11540625
+    },
+    {
+        "Date": "1998-09-01",
+        "AverageTemperature": 27.28271875
+    },
+    {
+        "Date": "1998-10-01",
+        "AverageTemperature": 27.07884375
+    },
+    {
+        "Date": "1998-11-01",
+        "AverageTemperature": 26.943125000000002
+    },
+    {
+        "Date": "1998-12-01",
+        "AverageTemperature": 26.23665625
+    },
+    {
+        "Date": "1999-01-01",
+        "AverageTemperature": 26.28821875
+    },
+    {
+        "Date": "1999-02-01",
+        "AverageTemperature": 26.681375000000003
+    },
+    {
+        "Date": "1999-03-01",
+        "AverageTemperature": 26.97690625
+    },
+    {
+        "Date": "1999-04-01",
+        "AverageTemperature": 27.35253125
+    },
+    {
+        "Date": "1999-05-01",
+        "AverageTemperature": 27.262999999999998
+    },
+    {
+        "Date": "1999-06-01",
+        "AverageTemperature": 27.357343750000002
+    },
+    {
+        "Date": "1999-07-01",
+        "AverageTemperature": 27.1216875
+    },
+    {
+        "Date": "1999-08-01",
+        "AverageTemperature": 26.883218749999997
+    },
+    {
+        "Date": "1999-09-01",
+        "AverageTemperature": 26.84259375
+    },
+    {
+        "Date": "1999-10-01",
+        "AverageTemperature": 26.351281250000003
+    },
+    {
+        "Date": "1999-11-01",
+        "AverageTemperature": 26.58828125
+    },
+    {
+        "Date": "1999-12-01",
+        "AverageTemperature": 26.1260625
+    },
+    {
+        "Date": "2000-01-01",
+        "AverageTemperature": 26.207
+    },
+    {
+        "Date": "2000-02-01",
+        "AverageTemperature": 26.463250000000002
+    },
+    {
+        "Date": "2000-03-01",
+        "AverageTemperature": 26.976375
+    },
+    {
+        "Date": "2000-04-01",
+        "AverageTemperature": 27.09221875
+    },
+    {
+        "Date": "2000-05-01",
+        "AverageTemperature": 27.9375625
+    },
+    {
+        "Date": "2000-06-01",
+        "AverageTemperature": 27.132406250000003
+    },
+    {
+        "Date": "2000-07-01",
+        "AverageTemperature": 27.5254375
+    },
+    {
+        "Date": "2000-08-01",
+        "AverageTemperature": 27.06984375
+    },
+    {
+        "Date": "2000-09-01",
+        "AverageTemperature": 27.033875000000002
+    },
+    {
+        "Date": "2000-10-01",
+        "AverageTemperature": 26.84153125
+    },
+    {
+        "Date": "2000-11-01",
+        "AverageTemperature": 26.77528125
+    },
+    {
+        "Date": "2000-12-01",
+        "AverageTemperature": 26.669062500000003
+    },
+    {
+        "Date": "2001-01-01",
+        "AverageTemperature": 26.259437499999997
+    },
+    {
+        "Date": "2001-02-01",
+        "AverageTemperature": 26.71734375
+    },
+    {
+        "Date": "2001-03-01",
+        "AverageTemperature": 27.2496875
+    },
+    {
+        "Date": "2001-04-01",
+        "AverageTemperature": 27.3376875
+    },
+    {
+        "Date": "2001-05-01",
+        "AverageTemperature": 27.943
+    },
+    {
+        "Date": "2001-06-01",
+        "AverageTemperature": 27.449125
+    },
+    {
+        "Date": "2001-07-01",
+        "AverageTemperature": 27.65725
+    },
+    {
+        "Date": "2001-08-01",
+        "AverageTemperature": 27.5511875
+    },
+    {
+        "Date": "2001-09-01",
+        "AverageTemperature": 27.1135
+    },
+    {
+        "Date": "2001-10-01",
+        "AverageTemperature": 26.82828125
+    },
+    {
+        "Date": "2001-11-01",
+        "AverageTemperature": 26.72703125
+    },
+    {
+        "Date": "2001-12-01",
+        "AverageTemperature": 26.5076875
+    },
+    {
+        "Date": "2002-01-01",
+        "AverageTemperature": 26.66025
+    },
+    {
+        "Date": "2002-02-01",
+        "AverageTemperature": 27.12021875
+    },
+    {
+        "Date": "2002-03-01",
+        "AverageTemperature": 27.71765625
+    },
+    {
+        "Date": "2002-04-01",
+        "AverageTemperature": 27.70009375
+    },
+    {
+        "Date": "2002-05-01",
+        "AverageTemperature": 28.23846875
+    },
+    {
+        "Date": "2002-06-01",
+        "AverageTemperature": 27.8583125
+    },
+    {
+        "Date": "2002-07-01",
+        "AverageTemperature": 27.86603125
+    },
+    {
+        "Date": "2002-08-01",
+        "AverageTemperature": 27.42875
+    },
+    {
+        "Date": "2002-09-01",
+        "AverageTemperature": 26.961375
+    },
+    {
+        "Date": "2002-10-01",
+        "AverageTemperature": 27.08290625
+    },
+    {
+        "Date": "2002-11-01",
+        "AverageTemperature": 26.87621875
+    },
+    {
+        "Date": "2002-12-01",
+        "AverageTemperature": 27.089
+    },
+    {
+        "Date": "2003-01-01",
+        "AverageTemperature": 26.7064375
+    },
+    {
+        "Date": "2003-02-01",
+        "AverageTemperature": 27.04815625
+    },
+    {
+        "Date": "2003-03-01",
+        "AverageTemperature": 27.56625
+    },
+    {
+        "Date": "2003-04-01",
+        "AverageTemperature": 27.57903125
+    },
+    {
+        "Date": "2003-05-01",
+        "AverageTemperature": 28.207375
+    },
+    {
+        "Date": "2003-06-01",
+        "AverageTemperature": 27.744375
+    },
+    {
+        "Date": "2003-07-01",
+        "AverageTemperature": 27.2266875
+    },
+    {
+        "Date": "2003-08-01",
+        "AverageTemperature": 27.48990625
+    },
+    {
+        "Date": "2003-09-01",
+        "AverageTemperature": 27.0600625
+    },
+    {
+        "Date": "2003-10-01",
+        "AverageTemperature": 26.552875
+    },
+    {
+        "Date": "2003-11-01",
+        "AverageTemperature": 26.83309375
+    },
+    {
+        "Date": "2003-12-01",
+        "AverageTemperature": 26.3300625
+    },
+    {
+        "Date": "2004-01-01",
+        "AverageTemperature": 26.923625
+    },
+    {
+        "Date": "2004-02-01",
+        "AverageTemperature": 27.0908125
+    },
+    {
+        "Date": "2004-03-01",
+        "AverageTemperature": 27.56134375
+    },
+    {
+        "Date": "2004-04-01",
+        "AverageTemperature": 27.80459375
+    },
+    {
+        "Date": "2004-05-01",
+        "AverageTemperature": 28.027
+    },
+    {
+        "Date": "2004-06-01",
+        "AverageTemperature": 27.8314375
+    },
+    {
+        "Date": "2004-07-01",
+        "AverageTemperature": 26.84790625
+    },
+    {
+        "Date": "2004-08-01",
+        "AverageTemperature": 27.54871875
+    },
+    {
+        "Date": "2004-09-01",
+        "AverageTemperature": 26.8715
+    },
+    {
+        "Date": "2004-10-01",
+        "AverageTemperature": 26.6623125
+    },
+    {
+        "Date": "2004-11-01",
+        "AverageTemperature": 26.8964375
+    },
+    {
+        "Date": "2004-12-01",
+        "AverageTemperature": 26.480625
+    },
+    {
+        "Date": "2005-01-01",
+        "AverageTemperature": 26.60896875
+    },
+    {
+        "Date": "2005-02-01",
+        "AverageTemperature": 27.74596875
+    },
+    {
+        "Date": "2005-03-01",
+        "AverageTemperature": 27.80640625
+    },
+    {
+        "Date": "2005-04-01",
+        "AverageTemperature": 27.873375
+    },
+    {
+        "Date": "2005-05-01",
+        "AverageTemperature": 27.81465625
+    },
+    {
+        "Date": "2005-06-01",
+        "AverageTemperature": 27.932375
+    },
+    {
+        "Date": "2005-07-01",
+        "AverageTemperature": 27.452906249999998
+    },
+    {
+        "Date": "2005-08-01",
+        "AverageTemperature": 27.603718750000002
+    },
+    {
+        "Date": "2005-09-01",
+        "AverageTemperature": 27.5959375
+    },
+    {
+        "Date": "2005-10-01",
+        "AverageTemperature": 26.66009375
+    },
+    {
+        "Date": "2005-11-01",
+        "AverageTemperature": 26.60040625
+    },
+    {
+        "Date": "2005-12-01",
+        "AverageTemperature": 26.273812500000002
+    },
+    {
+        "Date": "2006-01-01",
+        "AverageTemperature": 26.51153125
+    },
+    {
+        "Date": "2006-02-01",
+        "AverageTemperature": 27.1491875
+    },
+    {
+        "Date": "2006-03-01",
+        "AverageTemperature": 27.59434375
+    },
+    {
+        "Date": "2006-04-01",
+        "AverageTemperature": 27.2703125
+    },
+    {
+        "Date": "2006-05-01",
+        "AverageTemperature": 27.46146875
+    },
+    {
+        "Date": "2006-06-01",
+        "AverageTemperature": 27.2985625
+    },
+    {
+        "Date": "2006-07-01",
+        "AverageTemperature": 27.71975
+    },
+    {
+        "Date": "2006-08-01",
+        "AverageTemperature": 27.479875
+    },
+    {
+        "Date": "2006-09-01",
+        "AverageTemperature": 26.93840625
+    },
+    {
+        "Date": "2006-10-01",
+        "AverageTemperature": 26.93590625
+    },
+    {
+        "Date": "2006-11-01",
+        "AverageTemperature": 26.81671875
+    },
+    {
+        "Date": "2006-12-01",
+        "AverageTemperature": 26.780718750000002
+    },
+    {
+        "Date": "2007-01-01",
+        "AverageTemperature": 26.4485
+    },
+    {
+        "Date": "2007-02-01",
+        "AverageTemperature": 26.96325
+    },
+    {
+        "Date": "2007-03-01",
+        "AverageTemperature": 27.3434375
+    },
+    {
+        "Date": "2007-04-01",
+        "AverageTemperature": 27.46209375
+    },
+    {
+        "Date": "2007-05-01",
+        "AverageTemperature": 27.910656250000002
+    },
+    {
+        "Date": "2007-06-01",
+        "AverageTemperature": 27.70796875
+    },
+    {
+        "Date": "2007-07-01",
+        "AverageTemperature": 27.285375
+    },
+    {
+        "Date": "2007-08-01",
+        "AverageTemperature": 27.216125
+    },
+    {
+        "Date": "2007-09-01",
+        "AverageTemperature": 27.097593749999998
+    },
+    {
+        "Date": "2007-10-01",
+        "AverageTemperature": 26.640406249999998
+    },
+    {
+        "Date": "2007-11-01",
+        "AverageTemperature": 26.5494375
+    },
+    {
+        "Date": "2007-12-01",
+        "AverageTemperature": 26.2746875
+    },
+    {
+        "Date": "2008-01-01",
+        "AverageTemperature": 26.63040625
+    },
+    {
+        "Date": "2008-02-01",
+        "AverageTemperature": 26.583625
+    },
+    {
+        "Date": "2008-03-01",
+        "AverageTemperature": 26.57278125
+    },
+    {
+        "Date": "2008-04-01",
+        "AverageTemperature": 27.12871875
+    },
+    {
+        "Date": "2008-05-01",
+        "AverageTemperature": 27.645500000000002
+    },
+    {
+        "Date": "2008-06-01",
+        "AverageTemperature": 27.2528125
+    },
+    {
+        "Date": "2008-07-01",
+        "AverageTemperature": 26.995281249999998
+    },
+    {
+        "Date": "2008-08-01",
+        "AverageTemperature": 27.0584375
+    },
+    {
+        "Date": "2008-09-01",
+        "AverageTemperature": 26.948375
+    },
+    {
+        "Date": "2008-10-01",
+        "AverageTemperature": 26.7693125
+    },
+    {
+        "Date": "2008-11-01",
+        "AverageTemperature": 26.8063125
+    },
+    {
+        "Date": "2008-12-01",
+        "AverageTemperature": 26.3911875
+    },
+    {
+        "Date": "2009-01-01",
+        "AverageTemperature": 26.1539375
+    },
+    {
+        "Date": "2009-02-01",
+        "AverageTemperature": 26.87303125
+    },
+    {
+        "Date": "2009-03-01",
+        "AverageTemperature": 26.946625
+    },
+    {
+        "Date": "2009-04-01",
+        "AverageTemperature": 27.59265625
+    },
+    {
+        "Date": "2009-05-01",
+        "AverageTemperature": 27.98478125
+    },
+    {
+        "Date": "2009-06-01",
+        "AverageTemperature": 28.2068125
+    },
+    {
+        "Date": "2009-07-01",
+        "AverageTemperature": 27.637999999999998
+    },
+    {
+        "Date": "2009-08-01",
+        "AverageTemperature": 27.5486875
+    },
+    {
+        "Date": "2009-09-01",
+        "AverageTemperature": 27.557312500000002
+    },
+    {
+        "Date": "2009-10-01",
+        "AverageTemperature": 27.0609375
+    },
+    {
+        "Date": "2009-11-01",
+        "AverageTemperature": 26.76034375
+    },
+    {
+        "Date": "2009-12-01",
+        "AverageTemperature": 26.70665625
+    },
+    {
+        "Date": "2010-01-01",
+        "AverageTemperature": 26.89575
+    },
+    {
+        "Date": "2010-02-01",
+        "AverageTemperature": 27.97865625
+    },
+    {
+        "Date": "2010-03-01",
+        "AverageTemperature": 28.08621875
+    },
+    {
+        "Date": "2010-04-01",
+        "AverageTemperature": 28.1876875
+    },
+    {
+        "Date": "2010-05-01",
+        "AverageTemperature": 28.65759375
+    },
+    {
+        "Date": "2010-06-01",
+        "AverageTemperature": 27.902125
+    },
+    {
+        "Date": "2010-07-01",
+        "AverageTemperature": 27.30853125
+    },
+    {
+        "Date": "2010-08-01",
+        "AverageTemperature": 27.526875
+    },
+    {
+        "Date": "2010-09-01",
+        "AverageTemperature": 27.14428125
+    },
+    {
+        "Date": "2010-10-01",
+        "AverageTemperature": 27.306093750000002
+    },
+    {
+        "Date": "2010-11-01",
+        "AverageTemperature": 26.832125
+    },
+    {
+        "Date": "2010-12-01",
+        "AverageTemperature": 26.186062500000002
+    },
+    {
+        "Date": "2011-01-01",
+        "AverageTemperature": 26.07578125
+    },
+    {
+        "Date": "2011-02-01",
+        "AverageTemperature": 26.83721875
+    },
+    {
+        "Date": "2011-03-01",
+        "AverageTemperature": 26.737
+    },
+    {
+        "Date": "2011-04-01",
+        "AverageTemperature": 27.27315625
+    },
+    {
+        "Date": "2011-05-01",
+        "AverageTemperature": 27.883625
+    },
+    {
+        "Date": "2011-06-01",
+        "AverageTemperature": 27.8405625
+    },
+    {
+        "Date": "2011-07-01",
+        "AverageTemperature": 27.784375
+    },
+    {
+        "Date": "2011-08-01",
+        "AverageTemperature": 27.345
+    },
+    {
+        "Date": "2011-09-01",
+        "AverageTemperature": 27.243875
+    },
+    {
+        "Date": "2011-10-01",
+        "AverageTemperature": 26.75384375
+    },
+    {
+        "Date": "2011-11-01",
+        "AverageTemperature": 26.8379375
+    },
+    {
+        "Date": "2011-12-01",
+        "AverageTemperature": 26.49490625
+    },
+    {
+        "Date": "2012-01-01",
+        "AverageTemperature": 26.66759375
+    },
+    {
+        "Date": "2012-02-01",
+        "AverageTemperature": 26.982375
+    },
+    {
+        "Date": "2012-03-01",
+        "AverageTemperature": 27.058812500000002
+    },
+    {
+        "Date": "2012-04-01",
+        "AverageTemperature": 27.28109375
+    },
+    {
+        "Date": "2012-05-01",
+        "AverageTemperature": 27.88221875
+    },
+    {
+        "Date": "2012-06-01",
+        "AverageTemperature": 28.136375
+    },
+    {
+        "Date": "2012-07-01",
+        "AverageTemperature": 27.35546875
+    },
+    {
+        "Date": "2012-08-01",
+        "AverageTemperature": 27.5288125
+    },
+    {
+        "Date": "2012-09-01",
+        "AverageTemperature": 27.296000000000003
+    },
+    {
+        "Date": "2012-10-01",
+        "AverageTemperature": 26.948718749999998
+    },
+    {
+        "Date": "2012-11-01",
+        "AverageTemperature": 26.979125
+    },
+    {
+        "Date": "2012-12-01",
+        "AverageTemperature": 26.6999375
+    },
+    {
+        "Date": "2013-01-01",
+        "AverageTemperature": 26.9171875
+    },
+    {
+        "Date": "2013-02-01",
+        "AverageTemperature": 26.7784375
+    },
+    {
+        "Date": "2013-03-01",
+        "AverageTemperature": 28.046375
+    },
+    {
+        "Date": "2013-04-01",
+        "AverageTemperature": 27.86515625
+    },
+    {
+        "Date": "2013-05-01",
+        "AverageTemperature": 28.1591875
+    },
+    {
+        "Date": "2013-06-01",
+        "AverageTemperature": 28.41996875
+    },
+    {
+        "Date": "2013-07-01",
+        "AverageTemperature": 27.53384375
+    },
+    {
+        "Date": "2013-08-01",
+        "AverageTemperature": 27.42446875
+    }
+]

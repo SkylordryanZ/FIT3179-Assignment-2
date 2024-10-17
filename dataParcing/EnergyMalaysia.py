@@ -21,7 +21,7 @@ with open(input_csv, mode='r', encoding='utf-8') as file:
         if row['Country'] == 'Malaysia':
             # Renewable Energy Generation Data
             if row['Energy Type'] == 'Total Renewable':
-                for year in range(2000, 2024):
+                for year in range(2000, 2023):
                     if row[str(year)]:  # Check if the year column is not empty
                         renewable_data.append({
                             'Year': year,
@@ -31,7 +31,7 @@ with open(input_csv, mode='r', encoding='utf-8') as file:
             
             # Non-Renewable Energy Generation Data
             if row['Energy Type'] == 'Total Non-Renewable':
-                for year in range(2000, 2024):
+                for year in range(2000, 2023):
                     if row[str(year)]:  # Check if the year column is not empty
                         non_renewable_data.append({
                             'Year': year,
@@ -41,7 +41,7 @@ with open(input_csv, mode='r', encoding='utf-8') as file:
             
             # Installed Capacity Data
             if row['Energy Type'] in ['Total Renewable', 'Total Non-Renewable']:
-                for year in range(2000, 2024):
+                for year in range(2000, 2023):
                     if row[str(year)]:  # Check if the year column is not empty
                         capacity_data.append({
                             'Year': year,

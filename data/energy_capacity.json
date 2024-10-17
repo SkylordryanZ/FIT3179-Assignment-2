@@ -230,11 +230,6 @@
         "Technology": "Bioenergy"
     },
     {
-        "Year": 2023,
-        "Capacity": 904.35,
-        "Technology": "Bioenergy"
-    },
-    {
         "Year": 2000,
         "Capacity": 57287.0,
         "Technology": "Fossil fuels"
@@ -461,11 +456,6 @@
     },
     {
         "Year": 2022,
-        "Capacity": 30630.67,
-        "Technology": "Fossil fuels"
-    },
-    {
-        "Year": 2023,
         "Capacity": 30630.67,
         "Technology": "Fossil fuels"
     },
@@ -700,11 +690,6 @@
         "Technology": "Hydropower (excl. Pumped Storage)"
     },
     {
-        "Year": 2023,
-        "Capacity": 6214.855,
-        "Technology": "Hydropower (excl. Pumped Storage)"
-    },
-    {
         "Year": 2007,
         "Capacity": 0.554,
         "Technology": "Solar energy"
@@ -861,11 +846,6 @@
     },
     {
         "Year": 2022,
-        "Capacity": 1933.251,
-        "Technology": "Solar energy"
-    },
-    {
-        "Year": 2023,
         "Capacity": 1933.251,
         "Technology": "Solar energy"
     }
