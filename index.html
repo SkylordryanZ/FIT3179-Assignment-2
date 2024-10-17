@@ -3,80 +3,120 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vega-Lite Map of Malaysia</title>
+    <title>Climate Change Visualizations by State</title>
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
     <style>
-        #vis {
-            width: 800px;
-            height: 500px;
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            padding: 1rem;
+            text-align: center;
+            border-radius: 5px;
+            margin-bottom: 2rem;
+        }
+        h1 {
+            margin: 0;
+        }
+        .chart-container {
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            padding: 1rem;
+            margin-bottom: 2rem;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 0;
         }
     </style>
 </head>
 <body>
+    <header>
+        <h1>Climate Change Visualizations by State</h1>
+    </header>
 
-<div id="vis"></div>
+    <main>
+        <!-- 1. Temperature Map of Malaysia by State -->
+        <div class="chart-container">
+            <h2>Map: Average Temperatures in Malaysian States</h2>
+            <div id="chart1"></div>
+        </div>
 
-<script>
-    // TopoJSON data for Malaysia
-    const topojsonData = {
-        "type": "Topology",
-        "objects": {
-            "collection": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Polygon",
-                        "arcs": [[0]]
+        <!-- 2. Temporal Trend of State Temperatures -->
+        <div class="chart-container">
+            <h2>Line Chart: Temporal Trend of Average State Temperatures</h2>
+            <div id="chart2"></div>
+        </div>
+    </main>
+
+    <script>
+        // 1. Temperature Map of Malaysia by State (Using TopoJSON)
+        const temperatureMapByState = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": 800,
+            "height": 600,
+            "projection": {"type": "mercator"},
+            "layer": [
+                {
+                    "data": {
+                        "url": "data/malaysia-states.topojson",  // TopoJSON file for Malaysia's states
+                        "format": {"type": "topojson", "feature": "states"}  // Ensure 'states' is the correct feature name
+                    },
+                    "mark": {"type": "geoshape", "fill": "#87CEEB", "stroke": "black"}
+                },
+                {
+                    "data": {
+                        "url": "data/global_land_temperatures_by_state_malaysia.json"  // Parsed temperature data by state
+                    },
+                    "mark": "circle",
+                    "encoding": {
+                        "longitude": {"field": "longitude", "type": "quantitative"},
+                        "latitude": {"field": "latitude", "type": "quantitative"},
+                        "size": {"field": "AverageTemperature", "type": "quantitative", "scale": {"range": [10, 100]}},
+                        "color": {"field": "AverageTemperature", "type": "quantitative", "scale": {"scheme": "inferno"}},
+                        "tooltip": [
+                            {"field": "State", "type": "nominal"},
+                            {"field": "AverageTemperature", "type": "quantitative"},
+                            {"field": "Date", "type": "temporal"}
+                        ]
                     }
+                }
+            ]
+        };
+
+        // 2. Temporal Trend of State Temperatures
+        const temperatureTrendByState = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": 800,
+            "height": 400,
+            "data": {"url": "data/global_land_temperatures_by_state_malaysia.json"},
+            "mark": "line",
+            "encoding": {
+                "x": {"field": "Date", "type": "temporal"},
+                "y": {"field": "AverageTemperature", "type": "quantitative"},
+                "color": {"field": "State", "type": "nominal"},
+                "tooltip": [
+                    {"field": "State", "type": "nominal"},
+                    {"field": "Date", "type": "temporal"},
+                    {"field": "AverageTemperature", "type": "quantitative"}
                 ]
             }
-        },
-        "arcs": [
-            [
-                [99.69421867155984, 10.123095272534059],
-                [99.69421867155984, -2.2277952014643887],
-                [119.21804866145203, -2.2277952014643887],
-                [119.21804866145203, 10.123095272534059],
-                [99.69421867155984, 10.123095272534059]
-            ]
-        ],
-        "bbox": [99.69421867155984, -2.2277952014643887, 119.21804866145203, 10.123095272534059]
-    };
+        };
 
-    // Define the Vega-Lite specification
-    const spec = {
-        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "description": "A simple map of Malaysia using TopoJSON.",
-        "data": {
-            "name": "malaysia", // Name for data reference
-            "url": "data:application/json," + encodeURIComponent(JSON.stringify(topojsonData)), // Encode TopoJSON
-            "format": {
-                "type": "topojson",
-                "feature": "collection"
-            }
-        },
-        "mark": {
-            "type": "geoshape",
-            "fill": "#74c476",
-            "stroke": "#ffffff"
-        },
-        "projection": {
-            "type": "mercator"
-        },
-        "width": 800,
-        "height": 500,
-        "config": {
-            "view": {
-                "stroke": null
-            }
-        }
-    };
-
-    // Embed the visualization
-    vegaEmbed('#vis', spec).catch(console.error);
-</script>
-
+        // Render charts
+        vegaEmbed('#chart1', temperatureMapByState);
+        vegaEmbed('#chart2', temperatureTrendByState);
+    </script>
 </body>
 </html>
