@@ -1,0 +1,42 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 500,
+    "data": {
+        "url": "data/co2_emissions_by_demand_production_trade.json",
+        "format": {"type": "json"}
+    },
+    "mark": "bar",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "ordinal",
+            "title": "Year",
+            "axis": {"labelAngle": 0}
+        },
+        "y": {
+            "field": "CO2_Emissions",
+            "type": "quantitative",
+            "title": "CO₂ Emissions (Millions of Metric Tons)"
+        },
+        "color": {
+            "field": "Emission_Type",
+            "type": "nominal",
+            "title": "Emission Type"
+        },
+        "tooltip": [
+            {"field": "Year", "type": "ordinal", "title": "Year"},
+            {"field": "CO2_Emissions", "type": "quantitative", "title": "CO₂ Emissions"},
+            {"field": "Emission_Type", "type": "nominal", "title": "Emission Type"}
+        ]
+    },
+    "config": {
+        "view": {
+            "stroke": "transparent"
+        },
+        "axis": {
+            "labelFontSize": 12,
+            "titleFontSize": 14
+        }
+    }
+}

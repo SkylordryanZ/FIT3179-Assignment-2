@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Renewable vs Non-Renewable Energy</title>
+    <title>Climate Change Visualizations</title>
     <link rel="stylesheet" href="css/style.css"> <!-- Link to CSS -->
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
@@ -11,97 +11,85 @@
 </head>
 <body>
     <header>
-        <h1>Renewable vs Non-Renewable Energy in Malaysia</h1>
+        <h1>Vega-Lite Chart Display</h1>
+        <div class="header-controls">
+            <div class="source-buttons">
+                <a href="https://climatedata.imf.org/pages/access-data" target="_blank" class="source-button">IMF Climate Data</a>
+                <a href="https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download" target="_blank" class="source-button">Kaggle Climate Data</a>
+            </div>
+            <div class="theme-toggle">
+                <input type="checkbox" id="theme-switch" class="theme-switch__checkbox">
+                <label for="theme-switch" class="theme-switch__label">
+                    <span class="theme-switch__icon">🌙</span>
+                    <span class="theme-switch__icon">☀️</span>
+                </label>
+            </div>
+        </div>
     </header>
 
     <main>
         <!-- 1. Stacked Bar Chart: Renewable vs Non-Renewable Energy -->
         <div class="chart-container">
-            <h2>Stacked Bar Chart: Energy Production</h2>
+            <h2>Stacked Bar Chart: Renewable vs Non-Renewable Energy</h2>
             <div id="chart1"></div>
+        </div>
+
+        <!-- 2. Line Chart: CO2 Emissions Over Time -->
+        <div class="chart-container">
+            <h2>Line Chart: CO2 Emissions Over Time</h2>
+            <div id="chart2"></div>
+        </div>
+
+        <!-- 3. Line Chart: CO2 Emissions Intensity Over Time -->
+        <div class="chart-container">
+            <h2>Line Chart: CO2 Emissions Intensity Over Time</h2>
+            <div id="chart3"></div>
+        </div>
+
+        <!-- 4. Stacked Area Chart: CO2 Emissions in Final Demand, Production, and Trade -->
+        <div class="chart-container">
+            <h2>Stacked Area Chart: CO2 Emissions in Domestic Final Demand, Production, and Trade</h2>
+            <div id="chart4"></div>
         </div>
     </main>
 
     <script>
-        // Load Renewable Energy Data
-        const renewableData = fetch('data/renewable_energy_generation.json')
-            .then(response => response.json());
+        // Load the stacked bar chart
+        vegaEmbed('#chart1', 'charts/energy_production_stacked.json');
+        
+        // Load the CO2 emissions over time line chart
+        vegaEmbed('#chart2', 'charts/co2_emissions_over_time.json');
+        
+        // Load the CO2 emissions intensity line chart
+        vegaEmbed('#chart3', 'charts/co2_emissions_intensity.json');
+        
+        // Load the stacked area chart for CO2 emissions in demand, production, and trade
+        vegaEmbed('#chart4', 'charts/co2_emissions_by_demand_production_trade.json');
 
-        // Load Non-Renewable Energy Data
-        const nonRenewableData = fetch('data/non_renewable_energy_generation.json')
-            .then(response => response.json());
+        // Theme toggle functionality
+        const themeSwitch = document.getElementById('theme-switch');
+        const htmlElement = document.documentElement;
 
-        // Create Stacked Bar Chart after data is loaded
-        Promise.all([renewableData, nonRenewableData]).then(values => {
-            const [renewable, nonRenewable] = values;
-
-            // Combine data for stacked bar chart
-            const combinedData = renewable.map(item => ({
-                Year: item.Year,
-                Generation: item.Generation,
-                Type: 'Renewable',
-                Technology: item.Technology
-            })).concat(nonRenewable.map(item => ({
-                Year: item.Year,
-                Generation: item.Generation,
-                Type: 'Non-Renewable',
-                Technology: item.Technology
-            })));
-
-            // Vega-Lite Specification for Stacked Bar Chart
-            const stackedBarChart = {
-                "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-                "width": 900, // Increased width
-                "height": 500, // Increased height
-                "padding": 10, // Add padding around the chart
-                "data": {
-                    "values": combinedData
-                },
-                "mark": "bar",
-                "encoding": {
-                    "x": {
-                        "field": "Year",
-                        "type": "ordinal",
-                        "axis": {
-                            "labelAngle": 0, // Keep labels horizontal
-                            "labelPadding": 10 // Add padding between labels and the axis
-                        }
-                    },
-                    "y": {
-                        "field": "Generation",
-                        "type": "quantitative",
-                        "aggregate": "sum",
-                        "title": "Energy Generation (GWh)"
-                    },
-                    "color": {
-                        "field": "Type",
-                        "type": "nominal",
-                        "scale": {
-                            "domain": ["Renewable", "Non-Renewable"],
-                            "range": ["#76c7c0", "#e05e2b"] // Colors for renewable and non-renewable
-                        }
-                    },
-                    "tooltip": [
-                        {"field": "Year", "type": "ordinal"},
-                        {"field": "Generation", "type": "quantitative"},
-                        {"field": "Type", "type": "nominal"}
-                    ]
-                },
-                "config": {
-                    "view": {
-                        "stroke": "transparent" // Remove border
-                    },
-                    "axis": {
-                        "labelFontSize": 12, // Set label font size
-                        "titleFontSize": 14 // Set title font size
-                    }
-                }
-            };
-
-
-            // Render the chart
-            vegaEmbed('#chart1', stackedBarChart);
+        themeSwitch.addEventListener('change', function() {
+            if (this.checked) {
+                htmlElement.classList.remove('light');
+                htmlElement.classList.add('dark');
+                localStorage.setItem('theme', 'dark');
+            } else {
+                htmlElement.classList.remove('dark');
+                htmlElement.classList.add('light');
+                localStorage.setItem('theme', 'light');
+            }
         });
+
+        // Check for saved theme preference or respect OS theme setting
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+
+        if (savedTheme === 'dark' || (savedTheme === null && prefersDarkScheme.matches)) {
+            htmlElement.classList.add('dark');
+            themeSwitch.checked = true;
+        }
     </script>
 </body>
 </html>

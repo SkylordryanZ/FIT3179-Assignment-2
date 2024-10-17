@@ -1,0 +1,577 @@
+[
+    {
+        "Year": "1995",
+        "CO2_Emissions_Intensity": 2165.475481,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions_Intensity": 2118.256629,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions_Intensity": 2304.989459,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions_Intensity": 2813.991243,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions_Intensity": 2379.601035,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions_Intensity": 2915.77213,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions_Intensity": 2964.341231,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions_Intensity": 2753.884454,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions_Intensity": 2540.640056,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions_Intensity": 2543.348568,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions_Intensity": 2243.302906,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions_Intensity": 2215.289933,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions_Intensity": 1883.267934,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions_Intensity": 1565.376814,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions_Intensity": 1707.777872,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions_Intensity": 1569.013251,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions_Intensity": 1521.945162,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions_Intensity": 1436.840097,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions_Intensity": 1586.917591,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions_Intensity": 1786.268174,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions_Intensity": 1783.316224,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions_Intensity": 1656.263896,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions_Intensity": 1641.410609,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions_Intensity": 6643.006056,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions_Intensity": 6596.286541,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions_Intensity": 6655.539695,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions_Intensity": 10466.52065,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions_Intensity": 9861.372384,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions_Intensity": 9243.119266,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions_Intensity": 9933.31372,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions_Intensity": 10412.91476,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions_Intensity": 9221.991278,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions_Intensity": 8905.946613,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions_Intensity": 8433.705004,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions_Intensity": 8275.24982,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions_Intensity": 7649.53037,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions_Intensity": 6839.479635,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions_Intensity": 7981.348637,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions_Intensity": 8604.956493,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions_Intensity": 6436.650494,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions_Intensity": 6510.346516,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions_Intensity": 6785.101551,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions_Intensity": 7160.153133,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions_Intensity": 7847.091396,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions_Intensity": 7690.860496,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions_Intensity": 7543.11924,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions_Intensity": 2096.887433,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions_Intensity": 2164.858097,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions_Intensity": 2185.419441,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions_Intensity": 3033.044677,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions_Intensity": 2739.020235,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions_Intensity": 2599.742163,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions_Intensity": 2664.904382,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions_Intensity": 2624.430985,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions_Intensity": 2500.26678,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions_Intensity": 2503.855407,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions_Intensity": 2270.417208,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions_Intensity": 2316.050759,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions_Intensity": 2209.3693,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions_Intensity": 1819.12726,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions_Intensity": 1349.292986,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions_Intensity": 1140.615694,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions_Intensity": 969.9522974,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions_Intensity": 1061.048134,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions_Intensity": 974.5028208,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions_Intensity": 996.3380647,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions_Intensity": 1050.312342,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions_Intensity": 1059.146271,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions_Intensity": 1085.498612,
+        "Industry": "Manufacturing nec; repair and installation of machinery and equipment"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions_Intensity": 2798.029904,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions_Intensity": 2901.255619,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions_Intensity": 2919.140161,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions_Intensity": 3717.183374,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions_Intensity": 3389.985752,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions_Intensity": 3173.221151,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions_Intensity": 3346.551409,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions_Intensity": 3295.522024,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions_Intensity": 3168.394071,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions_Intensity": 3151.804539,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions_Intensity": 2947.146238,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions_Intensity": 2929.081669,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions_Intensity": 2895.949674,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions_Intensity": 2435.442932,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions_Intensity": 1866.71133,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions_Intensity": 1567.800844,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions_Intensity": 1348.253211,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions_Intensity": 1469.044461,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions_Intensity": 1324.453934,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions_Intensity": 1341.403908,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions_Intensity": 1409.242462,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions_Intensity": 1416.956339,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions_Intensity": 1462.973002,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions_Intensity": 2593.384768,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions_Intensity": 2429.317969,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions_Intensity": 2619.981073,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions_Intensity": 3123.102079,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions_Intensity": 2837.181045,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions_Intensity": 2013.046815,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions_Intensity": 2430.850285,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions_Intensity": 2561.02441,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions_Intensity": 2167.751353,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions_Intensity": 2051.240386,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions_Intensity": 1677.09637,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions_Intensity": 1555.711282,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions_Intensity": 1414.196653,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions_Intensity": 1041.799086,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions_Intensity": 1564.81634,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions_Intensity": 1178.442078,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions_Intensity": 670.869595,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions_Intensity": 344.3140393,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions_Intensity": 330.7055491,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions_Intensity": 239.6061516,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions_Intensity": 333.3411748,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions_Intensity": 212.0312176,
+        "Industry": "Water transport"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions_Intensity": 188.1504334,
+        "Industry": "Water transport"
+    }
+]

@@ -1,0 +1,32 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 500,
+    "data": {
+        "url": "data/co2_emissions_intensity_over_time.json", 
+        "format": {"type": "json"}
+    },
+    "mark": "line",
+    "encoding": {
+        "x": {
+            "field": "Year",
+            "type": "temporal",
+            "title": "Year"
+        },
+        "y": {
+            "field": "CO2_Emissions_Intensity",
+            "type": "quantitative",
+            "title": "CO₂ Emissions Intensity (Metric Tons per $1M USD)"
+        },
+        "color": {
+            "field": "Industry",
+            "type": "nominal",
+            "title": "Industry or Activity"
+        },
+        "tooltip": [
+            {"field": "Year", "type": "temporal", "title": "Year"},
+            {"field": "CO2_Emissions_Intensity", "type": "quantitative", "title": "CO₂ Emissions Intensity"},
+            {"field": "Industry", "type": "nominal", "title": "Industry or Activity"}
+        ]
+    }
+}

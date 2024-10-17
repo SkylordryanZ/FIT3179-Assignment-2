@@ -1,21 +1,21 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 500,
+    "padding": 10,
     "data": {
-        "url": "data/renewable_energy_generation.json",
+        "url": "data/combined_energy_data.json",
         "format": {"type": "json"}
     },
-    "transform": [
-        {
-            "calculate": "datum.Type = 'Renewable' ? 'Renewable' : 'Non-Renewable'",
-            "as": "Type"
-        }
-    ],
     "mark": "bar",
     "encoding": {
         "x": {
             "field": "Year",
             "type": "ordinal",
-            "axis": {"labelAngle": 0}
+            "axis": {
+                "labelAngle": 0,
+                "labelPadding": 10
+            }
         },
         "y": {
             "field": "Generation",
@@ -34,7 +34,17 @@
         "tooltip": [
             {"field": "Year", "type": "ordinal"},
             {"field": "Generation", "type": "quantitative"},
-            {"field": "Type", "type": "nominal"}
+            {"field": "Type", "type": "nominal"},
+            {"field": "Technology", "type": "nominal"} 
         ]
+    },
+    "config": {
+        "view": {
+            "stroke": "transparent"
+        },
+        "axis": {
+            "labelFontSize": 12,
+            "titleFontSize": 14
+        }
     }
 }

@@ -1,0 +1,1046 @@
+[
+    {
+        "Year": 2000,
+        "Generation": 570.904,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2001,
+        "Generation": 572.149,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2002,
+        "Generation": 572.149,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2003,
+        "Generation": 573.763,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2004,
+        "Generation": 579.415,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2005,
+        "Generation": 602.025,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2006,
+        "Generation": 713.945,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2007,
+        "Generation": 883.197,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 915.174,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 1074.205,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 1355.128,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 636.428,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 1379.98,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 822.396,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 400.424,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 425.034,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 199.498,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 397.418,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 1719.11,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 2097.1,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 2864.57,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 2864.57,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 2865.57,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2000,
+        "Generation": 675.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2001,
+        "Generation": 677.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2002,
+        "Generation": 677.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2003,
+        "Generation": 691.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2004,
+        "Generation": 691.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2005,
+        "Generation": 691.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2006,
+        "Generation": 691.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2007,
+        "Generation": 716.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 716.91,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 717.43,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 661.55,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 773.96,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 767.5,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 1044.73,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 1430.8,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 1554.96,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 1526.48,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 800.04,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 809.99,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 882.81,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 890.64,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 904.35,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 904.35,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2023,
+        "Generation": 904.35,
+        "Type": "Renewable",
+        "Technology": "Bioenergy"
+    },
+    {
+        "Year": 2000,
+        "Generation": 6994.0,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2001,
+        "Generation": 6066.0,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2002,
+        "Generation": 5415.0,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2003,
+        "Generation": 5090.0,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2004,
+        "Generation": 5573.049,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2005,
+        "Generation": 6007.058,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2006,
+        "Generation": 6323.075,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Generation": 5957.075,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2008,
+        "Generation": 7807.149,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2009,
+        "Generation": 6890.233,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2010,
+        "Generation": 6361.37,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2011,
+        "Generation": 8056.378,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2012,
+        "Generation": 9251.378,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2013,
+        "Generation": 11799.394,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2014,
+        "Generation": 13541.025,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2015,
+        "Generation": 15525.109,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2016,
+        "Generation": 20358.24,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2017,
+        "Generation": 26717.298,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2018,
+        "Generation": 26296.288,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2019,
+        "Generation": 26281.34,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2020,
+        "Generation": 27302.34,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2021,
+        "Generation": 27302.34,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2022,
+        "Generation": 27302.34,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2000,
+        "Generation": 2085.105,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2001,
+        "Generation": 2072.12,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2002,
+        "Generation": 2109.12,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2003,
+        "Generation": 2109.12,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2004,
+        "Generation": 2109.133,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2005,
+        "Generation": 2064.138,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2006,
+        "Generation": 2111.148,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Generation": 2111.148,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2008,
+        "Generation": 2117.69,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2009,
+        "Generation": 2122.738,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2010,
+        "Generation": 2134.816,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2011,
+        "Generation": 3120.821,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2012,
+        "Generation": 3448.821,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2013,
+        "Generation": 4534.83,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2014,
+        "Generation": 4760.79,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2015,
+        "Generation": 5741.838,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2016,
+        "Generation": 6121.258,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2017,
+        "Generation": 6145.331,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2018,
+        "Generation": 6165.325,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2019,
+        "Generation": 6185.355,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2020,
+        "Generation": 6197.355,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2021,
+        "Generation": 6214.855,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2022,
+        "Generation": 6214.855,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2023,
+        "Generation": 6214.855,
+        "Type": "Renewable",
+        "Technology": "Hydropower (excl. Pumped Storage)"
+    },
+    {
+        "Year": 2007,
+        "Generation": 0.554,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 0.664,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 0.664,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 0.669,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 0.669,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 6.935,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 54.505,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 196.129,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 280.47,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 362.568,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 427.332,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 477.274,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 481.26,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 430.017,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 459.525,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 459.585,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2007,
+        "Generation": 0.45,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2008,
+        "Generation": 0.54,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2009,
+        "Generation": 0.54,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2010,
+        "Generation": 0.544,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2011,
+        "Generation": 0.544,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2012,
+        "Generation": 31.584,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2013,
+        "Generation": 138.674,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2014,
+        "Generation": 205.388,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2015,
+        "Generation": 266.285,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2016,
+        "Generation": 344.152,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2017,
+        "Generation": 393.959,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2018,
+        "Generation": 545.259,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2019,
+        "Generation": 893.76,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2020,
+        "Generation": 1482.946,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2021,
+        "Generation": 1787.097,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2022,
+        "Generation": 1933.251,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2023,
+        "Generation": 1933.251,
+        "Type": "Renewable",
+        "Technology": "Solar energy"
+    },
+    {
+        "Year": 2000,
+        "Generation": 57287.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2001,
+        "Generation": 63666.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2002,
+        "Generation": 68749.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2003,
+        "Generation": 72110.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2004,
+        "Generation": 85849.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2005,
+        "Generation": 88023.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2006,
+        "Generation": 93302.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2007,
+        "Generation": 98192.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2008,
+        "Generation": 100457.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2009,
+        "Generation": 102740.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2010,
+        "Generation": 112402.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2011,
+        "Generation": 117437.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2012,
+        "Generation": 123230.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2013,
+        "Generation": 128149.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2014,
+        "Generation": 129291.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2015,
+        "Generation": 129501.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2016,
+        "Generation": 137259.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2017,
+        "Generation": 132692.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2018,
+        "Generation": 140414.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2019,
+        "Generation": 146314.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2020,
+        "Generation": 140870.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2021,
+        "Generation": 140870.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2022,
+        "Generation": 140873.0,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2000,
+        "Generation": 15216.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2001,
+        "Generation": 18370.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2002,
+        "Generation": 18148.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2003,
+        "Generation": 20357.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2004,
+        "Generation": 21809.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2005,
+        "Generation": 21951.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2006,
+        "Generation": 22474.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2007,
+        "Generation": 22563.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2008,
+        "Generation": 22578.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2009,
+        "Generation": 23512.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2010,
+        "Generation": 24093.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2011,
+        "Generation": 24614.5,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2012,
+        "Generation": 24741.8,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2013,
+        "Generation": 24779.99,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2014,
+        "Generation": 23165.82,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2015,
+        "Generation": 23702.2,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2016,
+        "Generation": 23085.42,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2017,
+        "Generation": 25724.67,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2018,
+        "Generation": 25724.67,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2019,
+        "Generation": 28348.67,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2020,
+        "Generation": 28348.67,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2021,
+        "Generation": 29788.67,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2022,
+        "Generation": 30630.67,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    },
+    {
+        "Year": 2023,
+        "Generation": 30630.67,
+        "Type": "Non-Renewable",
+        "Technology": "Fossil fuels"
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "Year": "1995",
+        "CO2_Emissions": 17.873,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 23.335,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 27.37,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 52.803,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 56.935,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 55.377,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 50.442,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 48.668,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 56.27,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 65.085,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 70.102,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 75.768,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 79.739,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 86.19,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 64.092,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 55.851,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 56.761,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 43.167,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 42.138,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 48.56,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 52.362,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 46.253,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 40.659,
+        "Emission_Type": "Final Demand, balance"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 68.023,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 74.348,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 76.999,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 52.587,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 57.009,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 66.078,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 77.378,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 85.81,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 84.178,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 89.97,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 94.273,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 94.851,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 107.537,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 112.844,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 115.753,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 144.436,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 144.134,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 157.829,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 175.41,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 181.013,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 176.918,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 178.354,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 179.154,
+        "Emission_Type": "Final Domestic Demand"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 75.793,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 85.974,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 91.696,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 102.707,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 114.905,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 122.24,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 115.696,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 120.225,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 124.33,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 145.2,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 153.647,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 160.981,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 170.112,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 176.231,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 140.143,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 144.493,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 151.413,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 143.025,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 142.822,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 148.764,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 143.281,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 132.916,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 133.975,
+        "Emission_Type": "Gross Exports"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 17.874,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 23.337,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 27.371,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 52.803,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 56.936,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 55.377,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 50.442,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 48.668,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 56.27,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 65.086,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 70.102,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 75.768,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 79.74,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 86.19,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 64.091,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 55.851,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 56.761,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 43.167,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 42.139,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 48.56,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 52.362,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 46.252,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 40.659,
+        "Emission_Type": "Gross Exports, balance"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 58.265,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 63.058,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 64.889,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 50.743,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 59.259,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 67.604,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 66.162,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 72.383,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 68.71,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 81.125,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 84.454,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 86.147,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 91.441,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 91.128,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 76.882,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 89.426,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 95.433,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 100.693,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 102.221,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 102.225,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 92.087,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 87.848,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 94.454,
+        "Emission_Type": "Gross Imports"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 85.896,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 97.683,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 104.369,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 105.39,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 113.944,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 121.455,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 127.82,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 134.478,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 140.447,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 155.055,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 164.375,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 170.619,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 187.276,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 199.034,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 179.844,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 200.287,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 200.896,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 200.996,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 217.549,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 229.573,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 229.28,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 224.607,
+        "Emission_Type": "Production"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 219.813,
+        "Emission_Type": "Production"
+    }
+]

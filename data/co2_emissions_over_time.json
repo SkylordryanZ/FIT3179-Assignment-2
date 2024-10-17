@@ -1,0 +1,577 @@
+[
+    {
+        "Year": "1995",
+        "CO2_Emissions": 4.363,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 4.865,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 5.248,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 5.72,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 5.702,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 5.84,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 6.293,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 6.416,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 6.486,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 7.29,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 7.52,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 7.847,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 8.015,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 8.026,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 8.045,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 9.011,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 9.314,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 9.036,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 10.102,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 11.057,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 10.597,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 10.057,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 10.561,
+        "Industry": "Air transport"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 26.766,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 30.304,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 30.306,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 33.451,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 34.074,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 37.076,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 40.516,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 46.603,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 45.256,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 49.078,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 54.308,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 56.395,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 62.629,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 67.453,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 72.319,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 95.034,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 86.898,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 90.389,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 95.311,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 97.817,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 102.884,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 103.016,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 107.061,
+        "Industry": "Electricity, gas, steam and air conditioning supply"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 7.363,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 8.0,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 12.067,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 11.124,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 13.635,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 15.11,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 13.7,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 10.607,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 15.518,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 18.747,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 20.795,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 20.575,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 21.03,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 26.583,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 18.201,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 10.502,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 18.554,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 17.109,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 17.679,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 20.64,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 20.06,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 15.451,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 2.036,
+        "Industry": "Mining and quarrying, energy producing products"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 15.85,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 18.716,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 18.686,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 16.75,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 16.655,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 18.405,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 20.17,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 21.644,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 22.744,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 25.413,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 27.646,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 28.99,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 34.434,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 34.83,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 24.52,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 25.103,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 22.947,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 25.693,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 23.448,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 23.092,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 23.289,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 23.928,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 26.178,
+        "Industry": "Rubber and plastics products"
+    },
+    {
+        "Year": "1995",
+        "CO2_Emissions": 5.292,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "1996",
+        "CO2_Emissions": 6.414,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "1997",
+        "CO2_Emissions": 7.041,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "1998",
+        "CO2_Emissions": 6.593,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "1999",
+        "CO2_Emissions": 7.767,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2000",
+        "CO2_Emissions": 8.23,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2001",
+        "CO2_Emissions": 8.502,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2002",
+        "CO2_Emissions": 9.193,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2003",
+        "CO2_Emissions": 9.62,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2004",
+        "CO2_Emissions": 10.068,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2005",
+        "CO2_Emissions": 10.063,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2006",
+        "CO2_Emissions": 8.97,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2007",
+        "CO2_Emissions": 9.934,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2008",
+        "CO2_Emissions": 10.38,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2009",
+        "CO2_Emissions": 10.465,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2010",
+        "CO2_Emissions": 10.754,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2011",
+        "CO2_Emissions": 8.878,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2012",
+        "CO2_Emissions": 7.11,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2013",
+        "CO2_Emissions": 7.351,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2014",
+        "CO2_Emissions": 6.269,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2015",
+        "CO2_Emissions": 5.271,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2016",
+        "CO2_Emissions": 5.742,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    },
+    {
+        "Year": "2017",
+        "CO2_Emissions": 5.465,
+        "Industry": "Wholesale and retail trade; repair of motor vehicles"
+    }
+]
