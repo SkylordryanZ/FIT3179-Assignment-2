@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vega-Lite Map of Malaysia</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <style>
+        #vis {
+            width: 800px;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="vis"></div>
+
+<script>
+    // TopoJSON data for Malaysia
+    const topojsonData = {
+        "type": "Topology",
+        "objects": {
+            "collection": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Polygon",
+                        "arcs": [[0]]
+                    }
+                ]
+            }
+        },
+        "arcs": [
+            [
+                [99.69421867155984, 10.123095272534059],
+                [99.69421867155984, -2.2277952014643887],
+                [119.21804866145203, -2.2277952014643887],
+                [119.21804866145203, 10.123095272534059],
+                [99.69421867155984, 10.123095272534059]
+            ]
+        ],
+        "bbox": [99.69421867155984, -2.2277952014643887, 119.21804866145203, 10.123095272534059]
+    };
+
+    // Define the Vega-Lite specification
+    const spec = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "description": "A simple map of Malaysia using TopoJSON.",
+        "data": {
+            "name": "malaysia", // Name for data reference
+            "url": "data:application/json," + encodeURIComponent(JSON.stringify(topojsonData)), // Encode TopoJSON
+            "format": {
+                "type": "topojson",
+                "feature": "collection"
+            }
+        },
+        "mark": {
+            "type": "geoshape",
+            "fill": "#74c476",
+            "stroke": "#ffffff"
+        },
+        "projection": {
+            "type": "mercator"
+        },
+        "width": 800,
+        "height": 500,
+        "config": {
+            "view": {
+                "stroke": null
+            }
+        }
+    };
+
+    // Embed the visualization
+    vegaEmbed('#vis', spec).catch(console.error);
+</script>
+
+</body>
+</html>
