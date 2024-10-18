@@ -1,42 +1,79 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Map of Malaysia with Major Cities and Their Average Temperatures",
-    "width": 900,
-    "height": 500,
-    "projection": {"type": "mercator"},
-    "layer": [
-      {
-        "data": {
-          "url": "data\\malaysia-states.topojson",
-          "format": {"type": "topojson", "feature": "states"}
-        },
-        "mark": "geoshape",
-        "encoding": {
-          "color": {"value": "lightgray"}
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Map of Malaysia with city temperature data",
+  "width": 900,
+  "height": 500,
+  "projection": {
+    "type": "identity",
+    "reflectX": false,
+    "reflectY": true
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "data/output.topojson",
+        "format": {"type": "topojson", "feature": "malaysia"}
       },
-      {
-        "data": {
-          "url": "data/major_cities_temperature_malaysia.json",
-          "format": {"type": "json"}
-        },
-        "mark": "circle",
-        "encoding": {
-          "longitude": {"field": "Longitude", "type": "quantitative"},
-          "latitude": {"field": "Latitude", "type": "quantitative"},
-          "size": {"field": "AverageTemperature", "type": "quantitative", "scale": {"range": [100, 500]}},
-          "color": {
-            "field": "AverageTemperature",
-            "type": "quantitative",
-            "scale": {"scheme": "oranges"},
-            "title": "Average Temperature (°C)"
-          },
-          "tooltip": [
-            {"field": "City", "type": "nominal", "title": "City"},
-            {"field": "AverageTemperature", "type": "quantitative", "title": "Average Temperature (°C)"}
-          ]
-        }
+      "mark": "geoshape",
+      "encoding": {
+        "color": {"value": "lightgray"},
+        "stroke": {"value": "white"},
+        "tooltip": {"field": "properties.name", "type": "nominal", "title": "State"}
       }
-    ]
-  }
-  
+    },
+    {
+      "data": {
+        "url": "data/global_land_temperatures_by_city_malaysia.json"
+      },
+      "transform": [
+        {
+          "calculate": "year(datum.Date)",
+          "as": "Year"
+        },
+        {
+          "calculate": "month(datum.Date)",
+          "as": "Month"
+        },
+        {
+          "filter": "datum.Year == year && datum.Month == month"
+        }
+      ],
+      "mark": "circle",
+      "encoding": {
+        "longitude": {"field": "Longitude"},
+        "latitude": {"field": "Latitude"},
+        "size": {"field": "AverageTemperature", "type": "quantitative", "title": "Avg Temperature"},
+        "color": {"field": "AverageTemperature", "type": "quantitative"},
+        "tooltip": [
+          {"field": "City", "type": "nominal", "title": "City"},
+          {"field": "AverageTemperature", "type": "quantitative", "title": "Avg Temp"},
+          {"field": "Date", "type": "temporal", "title": "Date"}
+        ]
+      }
+    }
+  ],
+  "params": [
+    {
+      "name": "year",
+      "value": 1825,
+      "bind": {
+        "input": "range",
+        "min": 1825,
+        "max": 2023,
+        "step": 1,
+        "name": "Year"
+      }
+    },
+    {
+      "name": "month",
+      "value": 1,
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 12,
+        "step": 1,
+        "name": "Month"
+      }
+    }
+  ]
+}

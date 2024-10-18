@@ -73,21 +73,7 @@
 
     <script>
         // Load the Malaysia Map
-        vegaEmbed('#chart1', {
-            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-            "width": 900,
-            "height": 500,
-            "projection": {"type": "mercator"},
-            "layer": [
-                {
-                    "data": {
-                        "url": "data/malaysia.topojson",
-                        "format": {"type": "topojson", "feature": "states"}
-                    },
-                    "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
-                }
-            ]
-        });
+        vegaEmbed('#chart1', 'charts/temperature_map.json');
 
         // Load the temperature trend chart
         vegaEmbed('#chart2', 'charts/temperature_trend.json');
